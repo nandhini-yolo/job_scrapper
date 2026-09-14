@@ -8,6 +8,7 @@ SKILL_TERMS = ("python", "data engineer", "data engineering", "pyspark", "polars
 SENIORITY_TERMS = ("senior", "lead", "staff", "principal", "architect", "9+ years", "10+ years")
 LOCATION_TERMS = ("london", "united kingdom", " uk ", "amsterdam", "netherlands", " nl ")
 VISA_TERMS = ("visa sponsorship", "visa sponsor", "relocation offered", "relocation package", "highly skilled migrant", "work permit", "sponsorship available", "skilled worker visa", "overseas candidates", "sponsor a visa", "sponsoring visa")
+ROLE_TITLE_TERMS = ("data engineer", "data engineering", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform")
 MIN_MATCH_SCORE = 0.65
 
 
@@ -15,6 +16,10 @@ def has_seniority_signal(job: Job) -> bool:
     role_text = f"{job.title} {job.location}".lower()
     seniority_words = r"\b(?:senior|lead|staff|principal|architect)\b"
     return bool(re.search(seniority_words, role_text) or re.search(r"\b(?:9|10|11|12|13|14|15)\+?\s+years?\b", job.text))
+
+
+def has_target_role_title(job: Job) -> bool:
+    return any(term in job.title.lower() for term in ROLE_TITLE_TERMS)
 
 
 def match_score(job: Job) -> float:
@@ -38,4 +43,4 @@ def matches(job: Job) -> bool:
     role_text = f"{job.title} {job.location}".lower()
     has_skill = any(term in text for term in SKILL_TERMS)
     has_location = any(term in role_text for term in LOCATION_TERMS)
-    return has_skill and has_location and has_seniority_signal(job) and match_score(job) >= MIN_MATCH_SCORE
+    return has_target_role_title(job) and has_skill and has_location and has_seniority_signal(job) and match_score(job) >= MIN_MATCH_SCORE
