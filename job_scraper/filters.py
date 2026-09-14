@@ -10,6 +10,9 @@ LOCATION_TERMS = ("london", "united kingdom", " uk ", "amsterdam", "netherlands"
 VISA_TERMS = ("visa sponsorship", "visa sponsor", "relocation offered", "relocation package", "highly skilled migrant", "work permit", "sponsorship available", "skilled worker visa", "overseas candidates", "sponsor a visa", "sponsoring visa")
 ROLE_TITLE_TERMS = ("data engineer", "data engineering", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform")
 MIN_MATCH_SCORE = 0.65
+CATEGORY_DATA = "Data Engineering"
+CATEGORY_PYTHON = "Python Software Engineering"
+CATEGORY_PLATFORM = "Data Platform Engineering"
 
 
 def has_seniority_signal(job: Job) -> bool:
@@ -19,7 +22,21 @@ def has_seniority_signal(job: Job) -> bool:
 
 
 def has_target_role_title(job: Job) -> bool:
-    return any(term in job.title.lower() for term in ROLE_TITLE_TERMS)
+    return role_category(job) is not None
+
+
+def role_category(job: Job) -> str | None:
+    title = job.title.lower()
+    text = job.text
+    if any(term in title for term in ("data platform", "data infrastructure", "ml platform", "machine learning platform", "platform engineer", "infrastructure engineer", "storage engineer")):
+        return CATEGORY_PLATFORM
+    if any(term in title for term in ("data engineer", "data engineering", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
+        return CATEGORY_DATA
+    if any(term in title for term in ("python software engineer", "python engineer", "python developer")):
+        return CATEGORY_PYTHON
+    if "software engineer" in title and any(term in text for term in ("python", "data pipeline", "data engineering", "data platform")):
+        return CATEGORY_PYTHON
+    return None
 
 
 def match_score(job: Job) -> float:
