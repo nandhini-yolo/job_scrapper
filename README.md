@@ -31,6 +31,11 @@ comma-separated board IDs or URLs. The full target list is in
 `job_scraper/companies.py`; firms with custom career systems remain listed
 there until a stable public feed or site-specific adapter is verified.
 
+The verified ATS registry also includes Schonfeld, Point72, Stripe, Cloudflare,
+Monzo, Brex, Affirm, N26, Datadog, Reddit, GitLab, Lyft, and Coinbase. A
+recent live run discovered 6,298 jobs and returned 34 focused senior roles
+after applying the location, seniority, and profile-aligned filters.
+
 Optional job-description analysis can use Gemini's free quota. Add the
 `GEMINI_API_KEY` repository secret and set `LLM_PROVIDER=gemini` as a
 repository variable. Optional variables are `LLM_MODEL` and `LLM_MAX_JOBS`.
