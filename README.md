@@ -36,6 +36,11 @@ Monzo, Brex, Affirm, N26, Datadog, Reddit, GitLab, Lyft, and Coinbase. A
 recent live run discovered 6,298 jobs and returned 34 focused senior roles
 after applying the location, seniority, and profile-aligned filters.
 
+Additional verified feeds include Tide, SumUp, Celonis, MongoDB, Fastly,
+Twilio, Okta, Fivetran, GoCardless, TrueLayer, Graphcore, Wayve, Scale AI,
+Veriff, Trustpilot, HelloFresh, commercetools, Contentsquare, and Zopa. The
+registry currently covers 73 target companies and 45 public ATS boards.
+
 Optional job-description analysis can use Gemini's free quota. Add the
 `GEMINI_API_KEY` repository secret and set `LLM_PROVIDER=gemini` as a
 repository variable. Optional variables are `LLM_MODEL` and `LLM_MAX_JOBS`.
