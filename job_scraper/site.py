@@ -6,6 +6,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from .cache import load
+from .details import experience_required, technology_stack
 from .models import Job
 
 
@@ -36,7 +37,9 @@ def render(cache: dict) -> str:
             return '<p class="empty">No matching roles in this category yet.</p>'
         return "".join(
             f'<article class="job"><div><span class="company">{html.escape(job.company or "Company")}</span>'
-            f'<h3>{html.escape(job.title)}</h3><p>{html.escape(job.location or "Location not listed")}</p></div>'
+            f'<h3>{html.escape(job.title)}</h3><p>{html.escape(job.location or "Location not listed")}</p>'
+            f'<p><strong>Experience:</strong> {html.escape(experience_required(job))}</p>'
+            f'<p><strong>Technology:</strong> {html.escape(technology_stack(job))}</p></div>'
             f'<div class="meta"><span class="tag">{job.country_tag}</span>'
             f'<span class="tag">{html.escape(job.source)}</span>'
             f'<a class="apply" href="{html.escape(job.url, quote=True)}" rel="noreferrer">Apply</a></div></article>'
