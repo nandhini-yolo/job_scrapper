@@ -53,6 +53,6 @@ jobs:
           else
             git commit -m "chore: update job scraper cache"
             git fetch origin main
-            git rebase origin/main
+            git merge origin/main --strategy-option=ours --no-edit
             git push origin HEAD:main
           fi
