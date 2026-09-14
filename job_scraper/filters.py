@@ -5,10 +5,13 @@ import re
 from .models import Job
 
 SKILL_TERMS = ("python", "data engineer", "data engineering", "market data", "real-time data", "pyspark", "polars", "pandas", "pyarrow", "sql", "kafka", "airflow", "distributed systems", "data warehouse", "data warehousing", "data pipeline", "data pipelines", "etl", "elt", "clickhouse", "observability", "exchange feed", "trading systems")
+PYTHON_TERMS = ("python", "pythonic", "pyarrow", "pyspark")
+PIPELINE_TERMS = ("etl", "elt", "data pipeline", "data pipelines", "ingestion", "data processing", "batch processing", "airflow", "dag", "data warehouse", "data lake", "schema", "backfill", "dbt")
+EXCLUDED_ROLE_TERMS = ("low-latency", "low latency", "ultra-low", "ultra low", "hft", "fpga", "c++", "c/c++", "hardware engineer")
 SENIORITY_TERMS = ("senior", "lead", "staff", "principal", "architect", "9+ years", "10+ years")
 LOCATION_TERMS = ("london", "united kingdom", " uk ", "amsterdam", "netherlands", " nl ")
 VISA_TERMS = ("visa sponsorship", "visa sponsor", "relocation offered", "relocation package", "highly skilled migrant", "work permit", "sponsorship available", "skilled worker visa", "overseas candidates", "sponsor a visa", "sponsoring visa")
-ROLE_TITLE_TERMS = ("data engineer", "data engineering", "market data", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform", "trading systems", "quantitative developer", "quant technologist", "real-time data", "observability platform", "distributed systems")
+ROLE_TITLE_TERMS = ("data engineer", "data engineering", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform", "quantitative developer", "quant technologist", "observability platform", "distributed systems")
 MIN_MATCH_SCORE = 0.65
 CATEGORY_DATA = "Data Engineering"
 CATEGORY_PLATFORM = "Data Platform Engineering"
@@ -31,9 +34,9 @@ def role_category(job: Job) -> str | None:
     text = job.text
     if any(term in title for term in ("data platform", "data infrastructure", "ml platform", "machine learning platform", "platform engineer", "infrastructure engineer", "storage engineer", "observability platform", "distributed systems")):
         return CATEGORY_PLATFORM
-    if any(term in title for term in ("data engineer", "data engineering", "market data", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
+    if any(term in title for term in ("data engineer", "data engineering", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
         return CATEGORY_DATA
-    if any(term in title for term in ("python software engineer", "python engineer", "python developer", "backend engineer", "backend developer", "quantitative developer", "quant technologist", "trading systems", "real-time data")) or ("software engineer" in title and "python" in text):
+    if any(term in title for term in ("python software engineer", "python engineer", "python developer", "backend engineer", "backend developer", "quantitative developer", "quant technologist")) or ("software engineer" in title and "python" in text):
         return CATEGORY_BACKEND
     if has_seniority_signal(job):
         return CATEGORY_OTHER
@@ -63,4 +66,7 @@ def matches(job: Job) -> bool:
     role_text = f"{job.title} {job.location}".lower()
     has_skill = any(term in text for term in SKILL_TERMS)
     has_location = any(term in role_text for term in LOCATION_TERMS)
-    return has_target_role_title(job) and has_skill and has_location and has_seniority_signal(job) and match_score(job) >= MIN_MATCH_SCORE
+    has_python = any(term in text for term in PYTHON_TERMS)
+    has_pipeline = any(term in text for term in PIPELINE_TERMS)
+    excluded = any(term in role_text for term in EXCLUDED_ROLE_TERMS)
+    return has_target_role_title(job) and has_skill and has_python and has_pipeline and has_location and has_seniority_signal(job) and not excluded and match_score(job) >= MIN_MATCH_SCORE
