@@ -30,3 +30,10 @@ variables used by the GitHub Actions workflow to receive the daily digest:
 comma-separated board IDs or URLs. The full target list is in
 `job_scraper/companies.py`; firms with custom career systems remain listed
 there until a stable public feed or site-specific adapter is verified.
+
+## GitHub Pages dashboard
+
+The `Publish job dashboard` workflow renders `jobs_cache.json` as a static
+dashboard with direct application links. In repository settings, enable
+**Pages** with **GitHub Actions** as the source. The dashboard is published
+after a successful daily digest and also on pushes to `main`.
