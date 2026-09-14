@@ -37,6 +37,22 @@ repository variable. Optional variables are `LLM_MODEL` and `LLM_MAX_JOBS`.
 The default is disabled; local Ollama is also supported with
 `LLM_PROVIDER=ollama`.
 
+### Local Gemini run
+
+The key is read only from the process environment and is never written to
+the repository. In a local terminal:
+
+```bash
+export GEMINI_API_KEY="paste-your-key-here"
+export LLM_PROVIDER=gemini
+python scraper.py
+unset GEMINI_API_KEY LLM_PROVIDER
+```
+
+Without `GEMINI_API_KEY`, the scraper automatically skips LLM analysis and
+continues with deterministic matching. Do not place the key in source files,
+`jobs_cache.json`, or committed workflow variables.
+
 ## GitHub Pages dashboard
 
 The `Publish job dashboard` workflow renders `jobs_cache.json` as a static
