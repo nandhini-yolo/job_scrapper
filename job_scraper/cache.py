@@ -30,11 +30,16 @@ def load(path: Path) -> dict[str, Any]:
 def update(path: Path, jobs: list[Job], cache: dict[str, Any]) -> tuple[list[Job], list[Job]]:
     timestamp = now().isoformat()
     records = cache.setdefault("jobs", {})
+    current_ids = {job.id for job in jobs}
     for job in jobs:
         previous = records.get(job.id, {})
         job.first_seen = previous.get("first_seen", timestamp)
         job.last_seen = timestamp
         records[job.id] = asdict(job)
+    # The scrape is the source of truth: remove roles that are no longer
+    # published or no longer pass the current filters.
+    for job_id in set(records) - current_ids:
+        del records[job_id]
     cache["updated_at"] = timestamp
     path.write_text(json.dumps(cache, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     cutoff = now() - timedelta(hours=24)
