@@ -39,7 +39,15 @@ after applying the location, seniority, and profile-aligned filters.
 Additional verified feeds include Tide, SumUp, Celonis, MongoDB, Fastly,
 Twilio, Okta, Fivetran, GoCardless, TrueLayer, Graphcore, Wayve, Scale AI,
 Veriff, Trustpilot, HelloFresh, commercetools, Contentsquare, and Zopa. The
-registry currently covers 73 target companies and 45 public ATS boards.
+registry currently covers 91 target companies and 45 public ATS boards.
+
+Custom career-page crawling is enabled for registered hedge funds that do not
+publish Greenhouse or Lever APIs. It follows same-domain job links and reads
+schema.org `JobPosting` data where available. A smoke test extracted public
+listings from D. E. Shaw, Two Sigma, Hudson River Trading, SIG, Tower Research,
+Virtu, Brevan Howard, G-Research, and XTX Markets. JavaScript-only pages or
+changed URLs are logged for later site-specific adapters; they are not treated
+as confirmed coverage.
 
 Optional job-description analysis can use Gemini's free quota. Add the
 `GEMINI_API_KEY` repository secret and set `LLM_PROVIDER=gemini` as a

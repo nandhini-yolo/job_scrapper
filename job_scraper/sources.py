@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 import logging
 from typing import Any, Iterable
-from urllib.parse import urlparse
+from urllib.parse import urljoin, urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -80,6 +80,69 @@ class FeedSource(JobSource):
                         yield job
 
 
+class CustomCareerSource(JobSource):
+    """Best-effort scraper for public career pages without a known ATS API.
+
+    It follows only a small number of same-domain links that look like job
+    detail pages and prefers schema.org JobPosting data when available.
+    Career sites rendered entirely by JavaScript may require a site-specific
+    adapter or browser automation and are logged rather than guessed.
+    """
+
+    name = "Custom careers"
+    LINK_TERMS = ("job", "career", "position", "opening", "vacanc", "apply", "role")
+    MAX_DETAIL_PAGES = 40
+
+    def fetch(self, company: str, market: str, url: str) -> Iterable[Job]:
+        response = self.request_text(url)
+        base_host = urlparse(response.url).netloc
+        seen = {response.url}
+        for job in self.schema_jobs(response.text, company, response.url):
+            yield job
+        soup = BeautifulSoup(response.text, "lxml")
+        links = []
+        for anchor in soup.find_all("a", href=True):
+            href = urljoin(response.url, anchor["href"])
+            label = f"{anchor.get_text(' ', strip=True)} {href}".lower()
+            if urlparse(href).netloc != base_host or href in seen or not any(term in label for term in self.LINK_TERMS):
+                continue
+            links.append(href)
+            if len(links) >= self.MAX_DETAIL_PAGES:
+                break
+        for detail_url in links:
+            seen.add(detail_url)
+            try:
+                detail = self.request_text(detail_url)
+            except requests.RequestException as exc:
+                LOG.debug("Custom career detail %s failed: %s", detail_url, exc)
+                continue
+            schema_jobs = list(self.schema_jobs(detail.text, company, detail_url))
+            if schema_jobs:
+                yield from schema_jobs
+                continue
+            detail_soup = BeautifulSoup(detail.text, "lxml")
+            title = detail_soup.find("h1") or detail_soup.find("title")
+            if not title:
+                continue
+            description = clean_html(detail_soup.get_text(" ", strip=True))
+            yield Job(detail_url, title.get_text(" ", strip=True), company, market, description, detail_url, self.name)
+
+    def schema_jobs(self, text: str, company: str, source_url: str) -> Iterable[Job]:
+        soup = BeautifulSoup(text, "lxml")
+        for script in soup.select('script[type="application/ld+json"]'):
+            try:
+                payload = json.loads(script.string or script.get_text())
+            except (TypeError, json.JSONDecodeError):
+                continue
+            records = payload if isinstance(payload, list) else [payload]
+            for item in records:
+                if item.get("@type") != "JobPosting":
+                    continue
+                organization = item.get("hiringOrganization", {})
+                location = item.get("jobLocation", item.get("applicantLocationRequirements", ""))
+                yield Job(str(item.get("url", source_url)), item.get("title", ""), organization.get("name", company), json.dumps(location), clean_html(item.get("description", "")), str(item.get("url", source_url)), self.name, item.get("datePosted"))
+
+
 def clean_html(value: Any) -> str:
     return BeautifulSoup(str(value or ""), "lxml").get_text(" ", strip=True)
 
@@ -95,6 +158,7 @@ def generic_job(item: dict[str, Any], source: str) -> Job | None:
 def discover(settings: Any) -> list[Job]:
     jobs: list[Job] = []
     greenhouse, lever, feeds = GreenhouseSource(settings.request_timeout), LeverSource(settings.request_timeout), FeedSource(settings.request_timeout)
+    custom = CustomCareerSource(settings.request_timeout)
     for board in settings.greenhouse_boards:
         try:
             jobs.extend(greenhouse.fetch(board))
@@ -110,4 +174,9 @@ def discover(settings: Any) -> list[Job]:
             jobs.extend(feeds.fetch(url))
         except (requests.RequestException, ValueError) as exc:
             LOG.warning("Feed %s failed: %s", url, exc)
+    for company, market, url in settings.custom_career_pages:
+        try:
+            jobs.extend(custom.fetch(company, market, url))
+        except requests.RequestException as exc:
+            LOG.warning("%s page %s failed: %s", company, url, exc)
     return jobs
