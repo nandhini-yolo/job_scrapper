@@ -11,8 +11,9 @@ VISA_TERMS = ("visa sponsorship", "visa sponsor", "relocation offered", "relocat
 ROLE_TITLE_TERMS = ("data engineer", "data engineering", "market data", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform", "trading systems", "quantitative developer", "quant technologist", "real-time data", "observability platform", "distributed systems")
 MIN_MATCH_SCORE = 0.65
 CATEGORY_DATA = "Data Engineering"
-CATEGORY_PYTHON = "Python Software Engineering"
 CATEGORY_PLATFORM = "Data Platform Engineering"
+CATEGORY_BACKEND = "Python Backend Engineering"
+CATEGORY_OTHER = "Other Senior Roles"
 
 
 def has_seniority_signal(job: Job) -> bool:
@@ -32,10 +33,10 @@ def role_category(job: Job) -> str | None:
         return CATEGORY_PLATFORM
     if any(term in title for term in ("data engineer", "data engineering", "market data", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
         return CATEGORY_DATA
-    if any(term in title for term in ("python software engineer", "python engineer", "python developer", "quantitative developer", "quant technologist", "trading systems", "real-time data")):
-        return CATEGORY_PYTHON
-    if "software engineer" in title and any(term in text for term in ("python", "data pipeline", "data engineering", "data platform")):
-        return CATEGORY_PYTHON
+    if any(term in title for term in ("python software engineer", "python engineer", "python developer", "backend engineer", "backend developer", "quantitative developer", "quant technologist", "trading systems", "real-time data")) or ("software engineer" in title and "python" in text):
+        return CATEGORY_BACKEND
+    if has_seniority_signal(job):
+        return CATEGORY_OTHER
     return None
 
 

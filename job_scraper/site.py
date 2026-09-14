@@ -7,6 +7,7 @@ from pathlib import Path
 
 from .cache import load
 from .details import experience_required, technology_stack
+from .filters import CATEGORY_BACKEND, CATEGORY_DATA, CATEGORY_OTHER, CATEGORY_PLATFORM, role_category
 from .interviews import interview_profile
 from .models import Job
 
@@ -30,8 +31,6 @@ def is_new(job: Job) -> bool:
 
 def render(cache: dict) -> str:
     jobs = sorted(as_jobs(cache), key=lambda job: job.first_seen, reverse=True)
-    new_jobs = [job for job in jobs if is_new(job)]
-    active_jobs = [job for job in jobs if not is_new(job)]
 
     def cards(items: list[Job]) -> str:
         if not items:
@@ -48,6 +47,11 @@ def render(cache: dict) -> str:
             for job in items
         )
 
+    sections = []
+    for category in (CATEGORY_DATA, CATEGORY_PLATFORM, CATEGORY_BACKEND, CATEGORY_OTHER):
+        new_jobs = [job for job in jobs if is_new(job) and role_category(job) == category]
+        active_jobs = [job for job in jobs if not is_new(job) and role_category(job) == category]
+        sections.append(f'<section><h2>{html.escape(category)}</h2><h3>New in the last 24 hours <span class="eyebrow">{len(new_jobs)}</span></h3>{cards(new_jobs)}<h3>Active roles <span class="eyebrow">{len(active_jobs)}</span></h3>{cards(active_jobs)}</section>')
     updated = html.escape(str(cache.get("updated_at") or "Not run yet"))
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
@@ -58,13 +62,13 @@ main {{ max-width:1040px; margin:0 auto; padding:48px 22px 80px; }} header {{ bo
 .eyebrow,.company {{ color:var(--accent); font:700 12px/1.2 Arial,sans-serif; letter-spacing:.12em; text-transform:uppercase; }}
 h1 {{ max-width:700px; margin:14px 0; font-size:clamp(38px,7vw,76px); line-height:.98; font-weight:400; }}
 .intro,.updated {{ color:var(--muted); font-family:Arial,sans-serif; }} .intro {{ max-width:650px; font-size:18px; }}
-.updated {{ font-size:12px; margin-top:26px; }} section {{ margin-top:42px; }} h2 {{ font-size:28px; font-weight:400; margin-bottom:16px; }}
+.updated {{ font-size:12px; margin-top:26px; }} section {{ margin-top:42px; border-top:2px solid var(--accent); padding-top:18px; }} h2 {{ font-size:28px; font-weight:400; margin-bottom:16px; }} h2 small {{ color:var(--accent); font:700 12px Arial,sans-serif; }}
 .job {{ display:flex; justify-content:space-between; gap:24px; border-top:1px solid var(--line); padding:20px 0; }} h3 {{ margin:7px 0 5px; font-size:22px; font-weight:400; }} .job p {{ color:var(--muted); margin:0; font-family:Arial,sans-serif; font-size:14px; }}
 .meta {{ display:flex; align-items:center; justify-content:flex-end; gap:8px; flex-wrap:wrap; min-width:220px; height:max-content; }} .tag {{ border:1px solid var(--line); color:var(--muted); padding:5px 8px; font:12px Arial,sans-serif; }}
 .apply {{ background:var(--accent); color:#10130e; padding:7px 12px; text-decoration:none; font:700 13px Arial,sans-serif; }} .empty {{ color:var(--muted); border-top:1px solid var(--line); padding-top:20px; }}
 @media(max-width:650px) {{ main {{ padding-top:30px; }} .job {{ display:block; }} .meta {{ justify-content:flex-start; margin-top:15px; min-width:0; }} }}
 </style></head><body><main><header><div class="eyebrow">Career intelligence · India to Europe</div><h1>Senior Python &amp; data roles in London and Amsterdam.</h1><p class="intro">A live shortlist from public company career feeds, ranked for your engineering background. Sponsorship still needs to be confirmed with each employer.</p><p class="updated">Last scraper update: {updated}</p></header>
-<section><h2>New in the last 24 hours <span class="eyebrow">{len(new_jobs)}</span></h2>{cards(new_jobs)}</section><section><h2>Active roles <span class="eyebrow">{len(active_jobs)}</span></h2>{cards(active_jobs)}</section></main></body></html>'''
+{"".join(sections)}</main></body></html>'''
 
 
 def main() -> None:
