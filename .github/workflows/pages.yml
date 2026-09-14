@@ -35,6 +35,14 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
+      - name: Seed cache when absent
+        if: ${{ hashFiles('jobs_cache.json') == '' }}
+        env:
+          GREENHOUSE_BOARDS: ${{ vars.GREENHOUSE_BOARDS }}
+          LEVER_BOARDS: ${{ vars.LEVER_BOARDS }}
+          WORKDAY_FEEDS: ${{ vars.WORKDAY_FEEDS }}
+          JOB_FEEDS: ${{ vars.JOB_FEEDS }}
+        run: python scraper.py
       - name: Render dashboard
         run: python -m job_scraper.site --output _site/index.html
       - name: Configure GitHub Pages
