@@ -86,4 +86,6 @@ prepare.
 The `Publish job dashboard` workflow renders `jobs_cache.json` as a static
 dashboard with direct application links. In repository settings, enable
 **Pages** with **GitHub Actions** as the source. The dashboard is published
-after a successful daily digest and also on pushes to `main`.
+after a successful daily digest and also on pushes to `main`. It supports
+client-side search, category and location filters, interview-difficulty
+filters, and sorting by newest, company, role, or interview difficulty.

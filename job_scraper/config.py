@@ -27,6 +27,7 @@ class Settings:
     workday_feeds: tuple[str, ...] = field(default_factory=lambda: tuple(split_env("WORKDAY_FEEDS")))
     job_feeds: tuple[str, ...] = field(default_factory=lambda: tuple(split_env("JOB_FEEDS")))
     custom_career_pages: tuple[tuple[str, str, str], ...] = field(default_factory=lambda: tuple((item.name, item.market, item.careers_url) for item in TARGET_COMPANIES if item.status == "custom" and item.careers_url))
+    finance_job_pages: tuple[str, ...] = field(default_factory=lambda: tuple(["https://www.efinancialcareers.com/jobs/?q=data%20engineer&location=London", "https://www.efinancialcareers.com/jobs/?q=data%20engineer&location=Amsterdam", *split_env("FINANCE_JOB_PAGES")]))
     llm_provider: str = field(default_factory=lambda: os.getenv("LLM_PROVIDER", "gemini" if os.getenv("GEMINI_API_KEY") else ""))
     llm_model: str = field(default_factory=lambda: os.getenv("LLM_MODEL") or "gemini-2.0-flash-lite")
     llm_api_key: str = field(default_factory=lambda: os.getenv("GEMINI_API_KEY", ""))
@@ -39,4 +40,4 @@ class Settings:
 
 def load_settings() -> Settings:
     settings = Settings()
-    return Settings(cache_path=settings.cache_path, request_timeout=settings.request_timeout, greenhouse_boards=tuple(dict.fromkeys(settings.greenhouse_boards)), lever_boards=tuple(dict.fromkeys(settings.lever_boards)), workday_feeds=tuple(dict.fromkeys(settings.workday_feeds)), job_feeds=tuple(dict.fromkeys(settings.job_feeds)), custom_career_pages=settings.custom_career_pages, llm_provider=settings.llm_provider, llm_model=settings.llm_model, llm_api_key=settings.llm_api_key, llm_max_jobs=settings.llm_max_jobs)
+    return Settings(cache_path=settings.cache_path, request_timeout=settings.request_timeout, greenhouse_boards=tuple(dict.fromkeys(settings.greenhouse_boards)), lever_boards=tuple(dict.fromkeys(settings.lever_boards)), workday_feeds=tuple(dict.fromkeys(settings.workday_feeds)), job_feeds=tuple(dict.fromkeys(settings.job_feeds)), custom_career_pages=settings.custom_career_pages, finance_job_pages=tuple(dict.fromkeys(settings.finance_job_pages)), llm_provider=settings.llm_provider, llm_model=settings.llm_model, llm_api_key=settings.llm_api_key, llm_max_jobs=settings.llm_max_jobs)

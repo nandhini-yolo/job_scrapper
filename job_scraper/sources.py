@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 from typing import Any, Iterable
 from urllib.parse import urljoin, urlparse
 
@@ -143,6 +144,57 @@ class CustomCareerSource(JobSource):
                 yield Job(str(item.get("url", source_url)), item.get("title", ""), organization.get("name", company), json.dumps(location), clean_html(item.get("description", "")), str(item.get("url", source_url)), self.name, item.get("datePosted"))
 
 
+class EFinancialCareersSource(JobSource):
+    name = "eFinancialCareers"
+
+    def fetch(self, search_url: str) -> Iterable[Job]:
+        response = self.request_text(search_url)
+        soup = BeautifulSoup(response.text, "lxml")
+        links = []
+        for anchor in soup.find_all("a", href=True):
+            href = urljoin(response.url, anchor["href"])
+            if "/jobs-" not in href or any(href == existing[0] for existing in links):
+                continue
+            links.append((href, anchor.get_text(" ", strip=True)))
+        for detail_url, listing_title in links[:50]:
+            try:
+                detail = self.request_text(detail_url)
+            except requests.RequestException as exc:
+                LOG.debug("eFinancialCareers detail %s failed: %s", detail_url, exc)
+                if listing_title and listing_title.lower() not in {"apply", "apply now"}:
+                    yield Job(detail_url, listing_title, "eFinancialCareers listing", self.location_from_url(detail_url), "Description unavailable from public listing page", detail_url, self.name)
+                continue
+            detail_soup = BeautifulSoup(detail.text, "lxml")
+            title_node = detail_soup.find("h1") or detail_soup.find("title")
+            if not title_node:
+                if listing_title and listing_title.lower() not in {"apply", "apply now"}:
+                    yield Job(detail_url, listing_title, "eFinancialCareers listing", self.location_from_url(detail_url), "Description unavailable from public listing page", detail_url, self.name)
+                continue
+            title = title_node.get_text(" ", strip=True)
+            if title.lower().startswith("the personal information protection law"):
+                if listing_title and listing_title.lower() not in {"apply", "apply now"}:
+                    yield Job(detail_url, listing_title, "eFinancialCareers listing", self.location_from_url(detail_url), "Description unavailable from public listing page", detail_url, self.name)
+                continue
+            text = detail_soup.get_text(" ", strip=True)
+            company = self.extract_label(text, "Company") or "eFinancialCareers listing"
+            location = self.extract_label(text, "Location") or self.location_from_url(detail_url)
+            yield Job(detail_url, title, company, location, text, detail_url, self.name)
+
+    @staticmethod
+    def extract_label(text: str, label: str) -> str:
+        match = re.search(rf"{label}\s*[:\-]\s*([^|\n]+)", text, re.IGNORECASE)
+        return match.group(1).strip() if match else ""
+
+    @staticmethod
+    def location_from_url(url: str) -> str:
+        lowered = url.lower()
+        if "amsterdam" in lowered:
+            return "Amsterdam, Netherlands"
+        if "london" in lowered:
+            return "London, United Kingdom"
+        return ""
+
+
 def clean_html(value: Any) -> str:
     return BeautifulSoup(str(value or ""), "lxml").get_text(" ", strip=True)
 
@@ -158,7 +210,7 @@ def generic_job(item: dict[str, Any], source: str) -> Job | None:
 def discover(settings: Any) -> list[Job]:
     jobs: list[Job] = []
     greenhouse, lever, feeds = GreenhouseSource(settings.request_timeout), LeverSource(settings.request_timeout), FeedSource(settings.request_timeout)
-    custom = CustomCareerSource(settings.request_timeout)
+    custom, finance = CustomCareerSource(settings.request_timeout), EFinancialCareersSource(settings.request_timeout)
     for board in settings.greenhouse_boards:
         try:
             jobs.extend(greenhouse.fetch(board))
@@ -179,4 +231,9 @@ def discover(settings: Any) -> list[Job]:
             jobs.extend(custom.fetch(company, market, url))
         except requests.RequestException as exc:
             LOG.warning("%s page %s failed: %s", company, url, exc)
+    for url in settings.finance_job_pages:
+        try:
+            jobs.extend(finance.fetch(url))
+        except requests.RequestException as exc:
+            LOG.warning("%s page %s failed: %s", finance.name, url, exc)
     return jobs
