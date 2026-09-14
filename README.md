@@ -42,6 +42,10 @@ repository variable. Optional variables are `LLM_MODEL` and `LLM_MAX_JOBS`.
 The default is disabled; local Ollama is also supported with
 `LLM_PROVIDER=ollama`.
 
+If `LLM_MODEL` is missing or no longer available, the scraper queries Gemini's
+model list and selects a usable `generateContent` Flash or Pro model
+automatically. Gemini API keys are sent in request headers, not URLs.
+
 ### Local Gemini run
 
 The key is read only from the process environment and is never written to

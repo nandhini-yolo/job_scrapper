@@ -32,11 +32,37 @@ def parse_json(text: str) -> dict[str, Any]:
 
 
 def analyze_gemini(job: Job, api_key: str, model: str, timeout: int) -> dict[str, Any]:
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-    response = requests.post(url, params={"key": api_key}, json={"contents": [{"parts": [{"text": prompt_for(job)}]}], "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}, timeout=timeout)
+    headers = {"x-goog-api-key": api_key}
+    payload = {"contents": [{"parts": [{"text": prompt_for(job)}]}], "generationConfig": {"temperature": 0, "responseMimeType": "application/json"}}
+    response = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", headers=headers, json=payload, timeout=timeout)
+    if response.status_code == 404:
+        model = find_gemini_model(api_key, timeout, preferred=model)
+        response = requests.post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent", headers=headers, json=payload, timeout=timeout)
     response.raise_for_status()
     text = response.json()["candidates"][0]["content"]["parts"][0]["text"]
     return parse_json(text)
+
+
+def find_gemini_model(api_key: str, timeout: int, preferred: str = "") -> str:
+    response = requests.get("https://generativelanguage.googleapis.com/v1beta/models", headers={"x-goog-api-key": api_key}, timeout=timeout)
+    response.raise_for_status()
+    candidates = []
+    for item in response.json().get("models", []):
+        name = str(item.get("name", "")).removeprefix("models/")
+        methods = item.get("supportedGenerationMethods", [])
+        if "generateContent" in methods and "gemini" in name.lower() and "embedding" not in name.lower():
+            candidates.append(name)
+    if preferred in candidates:
+        return preferred
+    for pattern in ("flash-lite", "flash", "pro"):
+        for name in candidates:
+            if pattern in name.lower():
+                LOG.info("Using available Gemini model %s", name)
+                return name
+    if candidates:
+        LOG.info("Using available Gemini model %s", candidates[0])
+        return candidates[0]
+    raise RuntimeError("Gemini API returned no usable generateContent model")
 
 
 def analyze_ollama(job: Job, model: str, timeout: int) -> dict[str, Any]:
@@ -52,14 +78,21 @@ def enrich_jobs(jobs: list[Job], settings: Any) -> None:
     if provider == "gemini" and not settings.llm_api_key:
         LOG.warning("LLM_PROVIDER=gemini but GEMINI_API_KEY is missing; LLM analysis skipped")
         return
+    model = settings.llm_model
+    try:
+        if provider == "gemini":
+            model = find_gemini_model(settings.llm_api_key, settings.request_timeout, settings.llm_model)
+    except (requests.RequestException, RuntimeError) as exc:
+        LOG.warning("Gemini model discovery failed: %s; LLM analysis skipped", exc)
+        return
     for job in jobs[: settings.llm_max_jobs]:
         try:
             if provider == "gemini":
-                job.analysis = analyze_gemini(job, settings.llm_api_key, settings.llm_model, settings.request_timeout)
+                job.analysis = analyze_gemini(job, settings.llm_api_key, model, settings.request_timeout)
             elif provider == "ollama":
                 job.analysis = analyze_ollama(job, settings.llm_model, settings.request_timeout)
             else:
                 LOG.warning("Unsupported LLM_PROVIDER=%s; analysis skipped", provider)
                 return
-        except (requests.RequestException, KeyError, TypeError, ValueError) as exc:
+        except (requests.RequestException, KeyError, TypeError, ValueError, RuntimeError) as exc:
             LOG.warning("LLM analysis failed for %s: %s", job.id, exc)
