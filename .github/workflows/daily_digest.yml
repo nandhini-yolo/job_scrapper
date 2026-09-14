@@ -34,6 +34,10 @@ jobs:
           LEVER_BOARDS: ${{ vars.LEVER_BOARDS }}
           WORKDAY_FEEDS: ${{ vars.WORKDAY_FEEDS }}
           JOB_FEEDS: ${{ vars.JOB_FEEDS }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_MAX_JOBS: ${{ vars.LLM_MAX_JOBS }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scraper.py
       - name: Commit updated cache
         run: |

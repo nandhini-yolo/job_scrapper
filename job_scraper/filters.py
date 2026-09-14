@@ -4,11 +4,11 @@ import re
 
 from .models import Job
 
-SKILL_TERMS = ("python", "data engineer", "data engineering", "pyspark", "polars", "pandas", "sql", "kafka", "airflow", "distributed systems", "data warehouse", "data warehousing", "data pipeline", "data pipelines", "etl", "elt")
+SKILL_TERMS = ("python", "data engineer", "data engineering", "market data", "real-time data", "pyspark", "polars", "pandas", "pyarrow", "sql", "kafka", "airflow", "distributed systems", "data warehouse", "data warehousing", "data pipeline", "data pipelines", "etl", "elt", "clickhouse", "observability", "exchange feed", "trading systems")
 SENIORITY_TERMS = ("senior", "lead", "staff", "principal", "architect", "9+ years", "10+ years")
 LOCATION_TERMS = ("london", "united kingdom", " uk ", "amsterdam", "netherlands", " nl ")
 VISA_TERMS = ("visa sponsorship", "visa sponsor", "relocation offered", "relocation package", "highly skilled migrant", "work permit", "sponsorship available", "skilled worker visa", "overseas candidates", "sponsor a visa", "sponsoring visa")
-ROLE_TITLE_TERMS = ("data engineer", "data engineering", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform")
+ROLE_TITLE_TERMS = ("data engineer", "data engineering", "market data", "data platform", "data infrastructure", "data pipeline", "data architect", "analytics engineer", "python engineer", "python developer", "ml platform", "machine learning platform", "trading systems", "quantitative developer", "quant technologist", "real-time data", "observability platform", "distributed systems")
 MIN_MATCH_SCORE = 0.65
 CATEGORY_DATA = "Data Engineering"
 CATEGORY_PYTHON = "Python Software Engineering"
@@ -28,11 +28,11 @@ def has_target_role_title(job: Job) -> bool:
 def role_category(job: Job) -> str | None:
     title = job.title.lower()
     text = job.text
-    if any(term in title for term in ("data platform", "data infrastructure", "ml platform", "machine learning platform", "platform engineer", "infrastructure engineer", "storage engineer")):
+    if any(term in title for term in ("data platform", "data infrastructure", "ml platform", "machine learning platform", "platform engineer", "infrastructure engineer", "storage engineer", "observability platform", "distributed systems")):
         return CATEGORY_PLATFORM
-    if any(term in title for term in ("data engineer", "data engineering", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
+    if any(term in title for term in ("data engineer", "data engineering", "market data", "analytics engineer", "data pipeline", "data warehouse", "data scientist")) or (" data" in title and "engineer" in title):
         return CATEGORY_DATA
-    if any(term in title for term in ("python software engineer", "python engineer", "python developer")):
+    if any(term in title for term in ("python software engineer", "python engineer", "python developer", "quantitative developer", "quant technologist", "trading systems", "real-time data")):
         return CATEGORY_PYTHON
     if "software engineer" in title and any(term in text for term in ("python", "data pipeline", "data engineering", "data platform")):
         return CATEGORY_PYTHON
@@ -52,7 +52,9 @@ def match_score(job: Job) -> float:
 
 
 def has_visa_signal(job: Job) -> bool:
-    return any(term in job.text for term in VISA_TERMS)
+    analysis = job.analysis if isinstance(job.analysis, dict) else {}
+    visa_status = f'{analysis.get("visa_status", "")} {analysis.get("relocation_status", "")}'.lower()
+    return any(term in job.text for term in VISA_TERMS) or any(term in visa_status for term in ("yes", "supported", "available", "sponsor", "offered"))
 
 
 def matches(job: Job) -> bool:

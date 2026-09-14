@@ -1,6 +1,7 @@
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+from typing import Any
 
 
 @dataclass
@@ -15,6 +16,7 @@ class Job:
     posted_at: str | None = None
     first_seen: str = ""
     last_seen: str = ""
+    analysis: dict[str, Any] = field(default_factory=dict)
 
     @property
     def text(self) -> str:

@@ -31,6 +31,12 @@ comma-separated board IDs or URLs. The full target list is in
 `job_scraper/companies.py`; firms with custom career systems remain listed
 there until a stable public feed or site-specific adapter is verified.
 
+Optional job-description analysis can use Gemini's free quota. Add the
+`GEMINI_API_KEY` repository secret and set `LLM_PROVIDER=gemini` as a
+repository variable. Optional variables are `LLM_MODEL` and `LLM_MAX_JOBS`.
+The default is disabled; local Ollama is also supported with
+`LLM_PROVIDER=ollama`.
+
 ## GitHub Pages dashboard
 
 The `Publish job dashboard` workflow renders `jobs_cache.json` as a static

@@ -43,7 +43,7 @@ def update(path: Path, jobs: list[Job], cache: dict[str, Any]) -> tuple[list[Job
     for record in records.values():
         try:
             first_seen = datetime.fromisoformat(record["first_seen"])
-            job = Job(**{key: record.get(key, "") for key in valid_fields})
+            job = Job(**{key: record.get(key, {} if key == "analysis" else "") for key in valid_fields})
         except (KeyError, TypeError, ValueError):
             continue
         (new_jobs if first_seen >= cutoff else active_jobs).append(job)
