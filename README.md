@@ -53,6 +53,12 @@ Without `GEMINI_API_KEY`, the scraper automatically skips LLM analysis and
 continues with deterministic matching. Do not place the key in source files,
 `jobs_cache.json`, or committed workflow variables.
 
+Interview difficulty and required-skill details are shown per role. The
+interview rating is a planning estimate from the company type and role scope,
+not a guaranteed pass probability; interview loops vary by team and change
+over time. The report shows a 1/5 to 5/5 scale, expected stages, and skills to
+prepare.
+
 ## GitHub Pages dashboard
 
 The `Publish job dashboard` workflow renders `jobs_cache.json` as a static

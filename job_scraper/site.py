@@ -7,6 +7,7 @@ from pathlib import Path
 
 from .cache import load
 from .details import experience_required, technology_stack
+from .interviews import interview_profile
 from .models import Job
 
 
@@ -41,6 +42,7 @@ def render(cache: dict) -> str:
             f'<p><strong>Experience:</strong> {html.escape(experience_required(job))}</p>'
             f'<p><strong>Technology:</strong> {html.escape(technology_stack(job))}</p></div>'
             f'<div class="meta"><span class="tag">{job.country_tag}</span>'
+            f'<span class="tag">Interview: {html.escape(interview_profile(job).label)} ({interview_profile(job).difficulty}/5)</span>'
             f'<span class="tag">{html.escape(job.source)}</span>'
             f'<a class="apply" href="{html.escape(job.url, quote=True)}" rel="noreferrer">Apply</a></div></article>'
             for job in items
