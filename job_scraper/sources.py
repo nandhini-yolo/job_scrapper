@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 import requests
 from bs4 import BeautifulSoup
 
+from .companies import VERIFIED_GREENHOUSE_BOARDS, VERIFIED_LEVER_BOARDS
 from .models import Job
 
 LOG = logging.getLogger(__name__)
@@ -39,7 +40,7 @@ class GreenhouseSource(JobSource):
         token = urlparse(board).path.rstrip("/").split("/")[-1] if "://" in board else board
         payload = self.request_json(f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true")
         for item in payload.get("jobs", []):
-            yield Job(str(item.get("id")), item.get("title", ""), token, item.get("location", {}).get("name", ""), clean_html(item.get("content", "")), item.get("absolute_url", ""), self.name, item.get("updated_at"))
+            yield Job(str(item.get("id")), item.get("title", ""), VERIFIED_GREENHOUSE_BOARDS.get(token, token), item.get("location", {}).get("name", ""), clean_html(item.get("content", "")), item.get("absolute_url", ""), self.name, item.get("updated_at"))
 
 
 class LeverSource(JobSource):
@@ -50,7 +51,7 @@ class LeverSource(JobSource):
         payload = self.request_json(f"https://api.lever.co/v0/postings/{token}?mode=json")
         for item in payload if isinstance(payload, list) else []:
             categories = item.get("categories", {})
-            yield Job(str(item.get("id")), item.get("text", ""), token, categories.get("location", ""), clean_html(item.get("descriptionPlain", item.get("description", ""))), item.get("hostedUrl", item.get("applyUrl", "")), self.name, item.get("createdAt"))
+            yield Job(str(item.get("id")), item.get("text", ""), VERIFIED_LEVER_BOARDS.get(token, token), categories.get("location", ""), clean_html(item.get("descriptionPlain", item.get("description", ""))), item.get("hostedUrl", item.get("applyUrl", "")), self.name, item.get("createdAt"))
 
 
 class FeedSource(JobSource):

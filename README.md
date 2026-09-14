@@ -10,8 +10,9 @@ python -m pip install -r requirements.txt
 python scraper.py
 ```
 
-DRW (`drweng`) is monitored by default through Greenhouse. Add other public
-ATS boards and career feeds without editing code:
+DRW and all currently verified public Greenhouse/Lever boards in the target
+company registry are monitored by default. Add other public ATS boards and
+career feeds without editing code:
 
 ```bash
 export GREENHOUSE_BOARDS="company-a,company-b"
@@ -26,4 +27,6 @@ variables used by the GitHub Actions workflow to receive the daily digest:
 `SMTP_SERVER`, `SMTP_PORT`, `SENDER_EMAIL`, `SENDER_PASSWORD`, and
 `RECIPIENT_EMAIL`. For scheduled runs, add repository **Variables** named
 `GREENHOUSE_BOARDS`, `LEVER_BOARDS`, `WORKDAY_FEEDS`, and `JOB_FEEDS` with
-comma-separated board IDs or URLs. DRW remains enabled by default.
+comma-separated board IDs or URLs. The full target list is in
+`job_scraper/companies.py`; firms with custom career systems remain listed
+there until a stable public feed or site-specific adapter is verified.
