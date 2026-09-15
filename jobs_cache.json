@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T13:15:12.819489+00:00",
+  "updated_at": "2026-09-15T12:39:18.331139+00:00",
   "jobs": {
     "7175503": {
       "id": "7175503",
@@ -11,7 +11,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-19T17:04:51-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8172852": {
@@ -24,7 +24,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-07T04:53:28-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8096176": {
@@ -37,7 +37,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-19T17:04:51-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7942731": {
@@ -50,20 +50,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-27T08:41:13-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
-      "analysis": {}
-    },
-    "6919020": {
-      "id": "6919020",
-      "title": "Senior Data Engineer",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "description": "<p><strong>This is Adyen</strong></p>\n<p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p>\n<p><strong>Senior Data Engineer</strong></p>\n<p>At Adyen, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business and product insights we generate. To this end, Adyen is looking for a Senior Data Engineers in Amsterdam. We’re looking for engineers that understand the business context and the data needs behind it, and excel in implementing high-quality data pipelines on our Big Data Platform. As a Senior Data Engineer at Adyen, you will play a crucial role in shaping our data infrastructure and ensuring the seamless flow of data across various systems.&nbsp;</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li><strong>Collaborative Solution Development</strong>: Engage with a diverse range of stakeholders, including data scientists, analysts, software engineers, product managers, and customers, to understand their requirements and craft effective solutions.</li>\n<li><strong>State-of-the-Art Pipelines and Architecture</strong>: Design, develop, deploy and operate high-quality production ELT pipelines and data architectures. Integrate data from various sources and formats, ensuring compatibility, consistency, and reliability. Design scalable architectures.&nbsp;</li>\n<li><strong>Champion Data Best Practices</strong>: Proactively establish and advocate for best practices in performance, code quality, data validation, data governance, and discoverability across Adyen through mentoring, training, and knowledge sharing.</li>\n<li><strong>High Quality Data and Code:</strong> Ensure data is accurate, complete, reliable, relevant, and timely. Implement rigorous testing, monitoring and validation protocols for your code and data, leveraging tools such as Pytest.</li>\n<li><strong>Performance Optimization</strong>: Identify and resolve performance bottlenecks in data pipelines and systems. Optimize query performance and resource utilization to meet SLAs and performance requirements, using technologies such as caching, indexing, partitioning, and other Spark optimizations.</li>\n</ul>\n<p><strong>Who you are</strong></p>\n<ul>\n<li><strong>Experienced in Big Data:</strong> Over 7 years of experience working as a Data Engineer or in a similar role.</li>\n<li><strong>Data &amp; Engineering practices:</strong> You possess an expert-level understanding of both Software and Data Engineering practices.</li>\n<li><strong>Technical Super Star:</strong> Highly proficient in tools and languages such as: Python, PySpark, Airflow, Hadoop, Spark, Kafka, SQL, Git.&nbsp;</li>\n<li><strong>Clear Communicator:</strong> Skilled at articulating complex data-related concepts and outcomes to a diverse range of stakeholders.&nbsp;</li>\n<li><strong>Self-starter:</strong> Capable of independently recognizing opportunities, devising solutions, leading, prioritizing and owning projects.&nbsp;</li>\n<li><strong>Innovator:</strong> You have an experimental mindset with a ‘launch fast and iterate’ mentality.</li>\n<li><strong>Data Culture Champion:</strong> Experienced in fostering a data-centric culture within large, technical organizations and setting standards for excellence and continuous improvement.&nbsp;</li>\n</ul>\n<p><strong>Data positions at Adyen</strong></p>\n<p>We know companies handle different definitions for their data-related positions, this is for instance dependent on the size of a company. Since the birth of the Data Solution and the growth of all data streams, we categorized and defined all our positions. Have a look at<a href=\"https://www.adyen.com/knowledge-hub/roles-scaling-up-data-culture\" target=\"_blank\"> this blogpost</a> to find out!&nbsp;</p>\n<p>Teams we're currently hiring for:</p>\n<ul>\n<li>Uplift Protect</li>\n<li>Balance Transactions</li>\n<li>Payment Lifecycle Data</li>\n<li>Optimise Interfaces</li>\n<li>Payment Pricing Billing</li>\n<li>Regulatory Reporting</li>\n<li>Payment Pricing</li>\n<li>Finance &amp; Commercial Analytics&nbsp;</li>\n</ul>\n<p><strong>Our Diversity, Equity and Inclusion commitments&nbsp;</strong></p>\n<p><span style=\"font-weight: 400;\">Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you’re from, we welcome you to be your true self at Adyen.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application!</span></p>\n<p><strong>What’s next?</strong></p>\n<p><span style=\"font-weight: 400;\">Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. </span><a href=\"https://careers.adyen.com/how-we-hire\"><span style=\"font-weight: 400;\">Learn more about our hiring process here</span></a><span style=\"font-weight: 400;\">. Don’t be afraid to let us know if you need more flexibility.</span></p>\n<p>This role is based out of our Amsterdam office. We are an office-first company and value in-person collaboration; we do not offer remote-only roles.</p>\n<p>&nbsp;</p>",
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/6919020",
-      "source": "Greenhouse",
-      "posted_at": "2026-09-09T07:19:04-04:00",
-      "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7068990": {
@@ -76,7 +63,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T04:44:19-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7771629": {
@@ -89,7 +76,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T04:40:12-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8029679002": {
@@ -102,7 +89,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-18T13:17:07-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8704938002": {
@@ -115,7 +102,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T00:59:29-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8720252002": {
@@ -128,7 +115,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T00:59:29-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8675639002": {
@@ -141,7 +128,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-03T05:48:03-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8613435002": {
@@ -154,7 +141,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-03T05:48:56-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8195967": {
@@ -167,7 +154,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-12T00:52:10-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "4994046": {
@@ -180,7 +167,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T12:42:36-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8060321002": {
@@ -193,7 +180,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-03T16:01:43-04:00",
       "first_seen": "2026-09-14T12:25:04.855345+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "6076740": {
@@ -206,7 +193,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T04:54:11-04:00",
       "first_seen": "2026-09-14T12:25:04.855345+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8035201": {
@@ -219,7 +206,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-07-29T06:01:08-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7989158": {
@@ -232,7 +219,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-18T18:23:12-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8656202002": {
@@ -245,7 +232,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T00:51:29-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8750467002": {
@@ -258,7 +245,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T01:04:32-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8396801002": {
@@ -271,7 +258,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T00:15:12-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8567991002": {
@@ -284,7 +271,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-03T04:32:10-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8768938002": {
@@ -297,7 +284,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-02T13:36:44-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8023162": {
@@ -310,7 +297,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T04:54:11-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7996955": {
@@ -323,7 +310,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T04:54:11-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8018513": {
@@ -336,7 +323,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-21T09:50:41-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8018517": {
@@ -349,7 +336,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-21T09:50:42-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7681584003": {
@@ -362,7 +349,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T04:25:45-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7693188003": {
@@ -375,7 +362,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T04:25:45-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7806523003": {
@@ -388,7 +375,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-11T08:00:11-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7788552003": {
@@ -401,7 +388,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T04:25:45-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7548628003": {
@@ -414,7 +401,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T03:38:09-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7539051003": {
@@ -427,7 +414,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T03:38:09-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7784638003": {
@@ -440,7 +427,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T04:25:45-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8109970": {
@@ -453,7 +440,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-11T15:37:10-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8174075": {
@@ -466,7 +453,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-11T15:37:10-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7820250003": {
@@ -477,9 +464,9 @@
       "description": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><span style=\"font-size: 10pt;\"><strong>About Us<br></strong></span></p>\n<p><span style=\"font-size: 10pt;\">Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.</span><br><span style=\"font-size: 10pt;\">Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.</span><br><span style=\"font-size: 10pt;\">Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.</span><br><span style=\"font-size: 10pt;\">As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.</span><br><span style=\"font-size: 10pt;\">During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</span></p>\n<p><span style=\"font-size: 10pt;\"><strong>About the Role</strong></span></p>\n<p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Fivetran is building data pipelines to power the modern data stack for thousands of companies.<br></span></p>\n<p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">We’re looking for a talented Senior Sales Engineer to join our Commercial sales team. As a Commercial Sales Engineer, you will work closely with our sales team to understand our Commercial customers’ complex business needs and showcase how Fivetran’s data replication solutions can help them achieve their desired business outcomes. You will be responsible for providing technical expertise, identifying technical requirements, and ensuring a successful proof-of value throughout the sales cycle.<br></span></p>\n<p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">This is a full-time position based out of our Dublin office. Our hybrid work model offers a blend of remote flexibility and in-person collaboration, including two days in the office each week to connect and build as a team.</span></p>\n<p><span style=\"font-size: 10pt;\"><strong>Technologies You’ll Use</strong></span></p>\n<p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">&nbsp;AWS, GCP, Azure, Snowflake, BigQuery, Databricks, &nbsp;Kubernetes, Docker, Podman, Grafana, Linux, Windows, Python, Java&nbsp;</span></p>\n<p><span style=\"font-size: 10pt;\"><strong>What You’ll Do</strong></span></p>\n<ul>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Work with Commercial customers to understand their business, their use cases, and their data replication requirements</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Develop and deliver technical presentations to Commercial audiences</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Ensure the technical win by running an organised proof-of-value process</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Work closely with multiple cross-functional organisations, driving change and improvements to Fivetran as a whole.</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Work closely with multiple Sales representatives, while maintaining a high level of customer focus and technical excellence</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Stay up-to-date on the latest technologies and trends in our industry</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">&nbsp;Assist team members in advanced technical or business roadblocks</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 10pt;\"><strong>Skills We’re Looking For</strong></span></p>\n<ul>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">4+ years in data replication, sales engineering, or related technical field</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Strong technical background covering database replication, cloud infrastructure, and data replication technologies with some form of hands on experience</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Experience with modern data analytics technologies, including cloud data warehouses, transformation tooling, data catalogs, and BI tools</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Excellent communication and presentation skills with a keen ability to explain complex technical concepts to both technical and non-technical stakeholders</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Strong problem-solving and analytical skills</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Experience with Oracle, SQL Server, Postgres, MySQL, and NoSQL databases</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Hands on experience with other data replication or ETL tools</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Experience with self-hosted software applications and supporting infrastructure</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Hands on networking experience both in the cloud and on-premise</span></li>\n</ul>\n<p><span style=\"font-size: 10pt;\"><strong>Bonus Skills​</strong></span></p>\n<ul>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Experience developing partner relationships</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Specialized expertise in security posture&nbsp;</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Experience with self-hosted and SaaS software applications</span></li>\n<li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Hands on experience with DBT</span></li>\n</ul>\n<p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">#LI-DC1<br>#LI-HYBRID</span></p><div class=\"content-conclusion\"><p>&nbsp;</p>\n<p class=\"p-rich_text_section\" style=\"line-height: 1.3;\"><strong data-stringify-type=\"bold\">Perks and Benefits</strong></p>\n<ul>\n<li>100% employer-paid medical insurance<strong>*</strong></li>\n<li>Generous paid time-off policy (PTO), plus paid sick time, inclusive parental leave policy, holidays (including a year end Global Week of Rest), and volunteer days off</li>\n<li>RSU stock grants*</li>\n<li>Professional development and training opportunities</li>\n<li>Company virtual happy hours, free food, and fun team-building activities</li>\n<li>Monthly cell phone stipend</li>\n<li>Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.</li>\n</ul>\n<p style=\"line-height: 1.3;\"><em><strong>*</strong>May vary by country and worker type - please reach out to your recruiter for more information</em></p>\n<p style=\"line-height: 1.3;\"><em>Click <a href=\"https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing\" target=\"_blank\">here</a> to learn more about Fivetran's Benefits by Region.</em></p>\n<hr>\n<p style=\"line-height: 1.3;\">We’re honored to be <a class=\"c-link\" href=\"https://fivetran.com/blog/hvr-acquisition-series-d\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/blog/hvr-acquisition-series-d\" data-sk=\"tooltip_parent\">valued at over $5.6 billion</a>, but more importantly, we’re proud of our&nbsp;<a class=\"c-link\" href=\"https://fivetran.com/culture\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/culture\" data-sk=\"tooltip_parent\">core values of Get Stuck In, Do the Right Thing, and One Team, One Dream</a>. Read about us in&nbsp;<a class=\"c-link\" href=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" target=\"_blank\" data-stringify-link=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" data-sk=\"tooltip_parent\">Forbes</a>.&nbsp; &nbsp; &nbsp;</p>\n<p style=\"line-height: 1.3;\">Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.</p>\n<p style=\"line-height: 1.3;\">To learn more about Fivetran’s culture and what it’s like to be part of the team, <a href=\"https://www.youtube.com/watch?v=xlhtp4dGh8o\" target=\"_blank\">click here</a> and enjoy our video.</p>\n<p style=\"line-height: 1.3;\">To learn more about our candidate privacy policy, you can <a href=\"https://fivetran.com/candidate-privacy\" target=\"_blank\">read our statement here</a>.</p>\n<hr>\n<p style=\"line-height: 1.3;\"><em>We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this <a href=\"https://forms.gle/V7k3t4u9j523XkEt6\">form</a>. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.</em></p></div>",
       "url": "https://www.fivetran.com/careers/job?gh_jid=7820250003",
       "source": "Greenhouse",
-      "posted_at": "2026-09-04T11:45:56-04:00",
+      "posted_at": "2026-09-14T10:04:08-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7822654003": {
@@ -490,9 +477,9 @@
       "description": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><strong>About Us</strong></p>\n<p><br>Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.<br><br>Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.<br><br>Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.<br><br>As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.<br><br>During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</p>\n<p><strong>About the Role</strong></p>\n<p>Fivetran is building data pipelines to power the modern data stack for thousands of companies.</p>\n<p>We’re looking for a talented Senior Sales Engineer to join our Enterprise sales team. As an Enterprise Sales Engineer, you will work closely with our sales team to understand our Enterprise customers’ complex business needs and showcase how Fivetran’s and dbt Labs' solutions can help them achieve their desired business outcomes. You will be responsible for providing technical expertise, identifying technical requirements, and ensuring a successful proof-of value throughout the sales cycle</p>\n<p><span style=\"color: #494949;\">This is a full-time position based</span> remotely in Dublin or London.</p>\n<p><strong>Technologies You’ll Use</strong></p>\n<p><span style=\"color: #494949;\">AWS, GCP, Azure, Snowflake, BigQuery, Databricks, New Relic, Linux, Windows, Python, Jav</span></p>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>What You’ll Do</strong></span></p>\n<ul>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Work with Enterprise customers to understand their business, their use cases, and their data replication requirements</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Develop and deliver technical presentations to Enterprise audiences</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Ensure the technical win by running an organized proof-of-value process</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Work closely with multiple cross-fuctional organizations driving change and improvements to Fivetran as a whole.</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Work closely with multiple Sales representatives, while maintaining a high level of customer focus and technical excellence</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Stay up-to-date on the latest technologies and trends in our industry</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Assist team members in advanced technical or business roadblocks&nbsp;</span></li>\n</ul>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>Skills We’re Looking For</strong></span></p>\n<ul>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">5+ years in data replication, sales engineering, or related technical field</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Strong technical background covering database replication, cloud infrastructure, and data replication technologies with some form of hands on experience</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Hands on experience with DBT</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Experience with modern data analytics technologies, including cloud data warehouses, transformation tooling, data catalogs, and BI tools</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Excellent communication and presentation skills with a keen ability to explain complex technical concepts to both technical and non-technical stakeholders</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Strong problem-solving and analytical skills</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Experience with Oracle, SQL Server, Postgres, MySQL, and NoSQL databases</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Hands on experience with other data replication or ETL tools</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Experience with self-hosted software applications and supporting infrastructure</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Hands on networking experience both in the cloud and on-premise<br></span></li>\n</ul>\n<p><span style=\"color: rgb(0, 0, 0);\"><strong>(Optional) Bonus Skills​</strong></span></p>\n<ul>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Experience developing partner relationships</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Specialized expertise in security posture&nbsp;</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Experience with self-hosted and SaaS software applications</span></li>\n<li style=\"color: #494949 !important;\"><span style=\"color: #494949;\">Docker/Podman/Kubernetes experience<br><br></span></li>\n</ul>\n<p class=\"p1\">#LI-Remote <span data-sheets-root=\"1\">#LI-LA1</span></p><div class=\"content-conclusion\"><p>&nbsp;</p>\n<p class=\"p-rich_text_section\" style=\"line-height: 1.3;\"><strong data-stringify-type=\"bold\">Perks and Benefits</strong></p>\n<ul>\n<li>100% employer-paid medical insurance<strong>*</strong></li>\n<li>Generous paid time-off policy (PTO), plus paid sick time, inclusive parental leave policy, holidays (including a year end Global Week of Rest), and volunteer days off</li>\n<li>RSU stock grants*</li>\n<li>Professional development and training opportunities</li>\n<li>Company virtual happy hours, free food, and fun team-building activities</li>\n<li>Monthly cell phone stipend</li>\n<li>Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.</li>\n</ul>\n<p style=\"line-height: 1.3;\"><em><strong>*</strong>May vary by country and worker type - please reach out to your recruiter for more information</em></p>\n<p style=\"line-height: 1.3;\"><em>Click <a href=\"https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing\" target=\"_blank\">here</a> to learn more about Fivetran's Benefits by Region.</em></p>\n<hr>\n<p style=\"line-height: 1.3;\">We’re honored to be <a class=\"c-link\" href=\"https://fivetran.com/blog/hvr-acquisition-series-d\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/blog/hvr-acquisition-series-d\" data-sk=\"tooltip_parent\">valued at over $5.6 billion</a>, but more importantly, we’re proud of our&nbsp;<a class=\"c-link\" href=\"https://fivetran.com/culture\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/culture\" data-sk=\"tooltip_parent\">core values of Get Stuck In, Do the Right Thing, and One Team, One Dream</a>. Read about us in&nbsp;<a class=\"c-link\" href=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" target=\"_blank\" data-stringify-link=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" data-sk=\"tooltip_parent\">Forbes</a>.&nbsp; &nbsp; &nbsp;</p>\n<p style=\"line-height: 1.3;\">Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.</p>\n<p style=\"line-height: 1.3;\">To learn more about Fivetran’s culture and what it’s like to be part of the team, <a href=\"https://www.youtube.com/watch?v=xlhtp4dGh8o\" target=\"_blank\">click here</a> and enjoy our video.</p>\n<p style=\"line-height: 1.3;\">To learn more about our candidate privacy policy, you can <a href=\"https://fivetran.com/candidate-privacy\" target=\"_blank\">read our statement here</a>.</p>\n<hr>\n<p style=\"line-height: 1.3;\"><em>We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this <a href=\"https://forms.gle/V7k3t4u9j523XkEt6\">form</a>. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.</em></p></div>",
       "url": "https://www.fivetran.com/careers/job?gh_jid=7822654003",
       "source": "Greenhouse",
-      "posted_at": "2026-09-04T11:45:56-04:00",
+      "posted_at": "2026-09-14T10:08:52-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "7785674003": {
@@ -503,9 +490,9 @@
       "description": "<div class=\"content-intro\"><p>From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong>About Us</strong></span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.<br>Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.<br>Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.<br>As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.<br>During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><strong>About the Role</strong></span></p>\n<p><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Fivetran is building data pipelines to power the modern data stack for thousands of companies.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: #494949;\">We’re looking for a talented&nbsp;</span>German speaking<span style=\"color: #494949;\"> Senior Sales Engineer to join our Enterprise sales team. As an Enterprise Sales Engineer, you will work closely with our sales team to understand our Enterprise customers’ complex business needs and showcase how Fivetran’s data replication solutions can help them achieve their desired business outcomes. You will be responsible for providing technical expertise, identifying technical requirements, and ensuring a successful proof-of value throughout the sales cycle.</span></span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">This is a full-time remote position based out of United Kingdom.&nbsp;</span></p>\n<p><strong><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Technologies You’ll Use</span></strong></p>\n<p><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">AWS, GCP, Azure, Snowflake, BigQuery, Databricks, New Relic, Linux, Windows, Python, Java</span></p>\n<p><strong><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">What You’ll Do</span></strong></p>\n<ul>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Work with Enterprise customers to understand their business, their use cases, and their data replication requirements</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Develop and deliver technical presentations to Enterprise audiences</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Ensure the technical win by running an organized proof-of-value process</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Work closely with multiple cross-fuctional organizations driving change and improvements to Fivetran as a whole.</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Work closely with multiple Sales representatives, while maintaining a high level of customer focus and technical excellence</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Stay up-to-date on the latest technologies and trends in our industry</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Assist team members in advanced technical or business roadblocks&nbsp;</span></li>\n</ul>\n<p><strong><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Skills We’re Looking For</span></strong></p>\n<ul>\n<li style=\"color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(0, 0, 0); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Native/Professional Proficiency in German</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">5+ years in data replication, sales engineering, or related technical field</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Strong technical background covering database replication, cloud infrastructure, and data replication technologies with some form of hands on experience</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Experience with modern data analytics technologies, including cloud data warehouses, transformation tooling, data catalogs, and BI tools</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Excellent communication and presentation skills with a keen ability to explain complex technical concepts to both technical and non-technical stakeholders</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Strong problem-solving and analytical skills</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Experience with Oracle, SQL Server, Postgres, MySQL, and NoSQL databases</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Hands on experience with other data replication or ETL tools</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Experience with self-hosted software applications and supporting infrastructure</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Hands on networking experience both in the cloud and on-premise</span></li>\n</ul>\n<p><strong><span style=\"font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Bonus Skills​</span></strong></p>\n<ul>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Experience developing partner relationships</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Specialized expertise in security posture&nbsp;</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Experience with self-hosted and SaaS software applications</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Hands on experience with DBT</span></li>\n<li style=\"color: rgb(73, 73, 73) !important; font-family: helvetica, arial, sans-serif; font-size: 10pt;\"><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">Docker/Podman/Kubernetes experience</span></li>\n</ul>\n<p><span style=\"color: rgb(73, 73, 73); font-family: helvetica, arial, sans-serif; font-size: 10pt;\">#LI-LA1<br>#LI-REMOTE</span></p><div class=\"content-conclusion\"><p>&nbsp;</p>\n<p class=\"p-rich_text_section\" style=\"line-height: 1.3;\"><strong data-stringify-type=\"bold\">Perks and Benefits</strong></p>\n<ul>\n<li>100% employer-paid medical insurance<strong>*</strong></li>\n<li>Generous paid time-off policy (PTO), plus paid sick time, inclusive parental leave policy, holidays (including a year end Global Week of Rest), and volunteer days off</li>\n<li>RSU stock grants*</li>\n<li>Professional development and training opportunities</li>\n<li>Company virtual happy hours, free food, and fun team-building activities</li>\n<li>Monthly cell phone stipend</li>\n<li>Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.</li>\n</ul>\n<p style=\"line-height: 1.3;\"><em><strong>*</strong>May vary by country and worker type - please reach out to your recruiter for more information</em></p>\n<p style=\"line-height: 1.3;\"><em>Click <a href=\"https://drive.google.com/drive/folders/1CdawUwjo1Q1B7ghZJ_owdmmHB8VtqhBu?usp=sharing\" target=\"_blank\">here</a> to learn more about Fivetran's Benefits by Region.</em></p>\n<hr>\n<p style=\"line-height: 1.3;\">We’re honored to be <a class=\"c-link\" href=\"https://fivetran.com/blog/hvr-acquisition-series-d\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/blog/hvr-acquisition-series-d\" data-sk=\"tooltip_parent\">valued at over $5.6 billion</a>, but more importantly, we’re proud of our&nbsp;<a class=\"c-link\" href=\"https://fivetran.com/culture\" target=\"_blank\" data-stringify-link=\"https://fivetran.com/culture\" data-sk=\"tooltip_parent\">core values of Get Stuck In, Do the Right Thing, and One Team, One Dream</a>. Read about us in&nbsp;<a class=\"c-link\" href=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" target=\"_blank\" data-stringify-link=\"https://fivetran-com.s3.amazonaws.com/news/forbes-aug-sept-2022-digital-reprint-10-21-22.pdf\" data-sk=\"tooltip_parent\">Forbes</a>.&nbsp; &nbsp; &nbsp;</p>\n<p style=\"line-height: 1.3;\">Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion &amp; belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.</p>\n<p style=\"line-height: 1.3;\">To learn more about Fivetran’s culture and what it’s like to be part of the team, <a href=\"https://www.youtube.com/watch?v=xlhtp4dGh8o\" target=\"_blank\">click here</a> and enjoy our video.</p>\n<p style=\"line-height: 1.3;\">To learn more about our candidate privacy policy, you can <a href=\"https://fivetran.com/candidate-privacy\" target=\"_blank\">read our statement here</a>.</p>\n<hr>\n<p style=\"line-height: 1.3;\"><em>We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this <a href=\"https://forms.gle/V7k3t4u9j523XkEt6\">form</a>. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.</em></p></div>",
       "url": "https://www.fivetran.com/careers/job?gh_jid=7785674003",
       "source": "Greenhouse",
-      "posted_at": "2026-09-04T11:45:56-04:00",
+      "posted_at": "2026-09-14T10:04:35-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8704662002": {
@@ -518,7 +505,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-10T03:27:56-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8755487002": {
@@ -531,7 +518,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-27T09:55:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8605722002": {
@@ -544,7 +531,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-07-29T05:43:36-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8533904002": {
@@ -557,7 +544,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-07T05:36:25-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8562401002": {
@@ -570,7 +557,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-04T08:41:55-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8727973002": {
@@ -583,7 +570,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T05:25:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8545402002": {
@@ -596,7 +583,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T05:25:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8745289002": {
@@ -609,7 +596,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T05:25:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8755402002": {
@@ -622,7 +609,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T09:22:46-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8781455002": {
@@ -635,7 +622,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-09T05:25:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "4690504005": {
@@ -648,7 +635,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-03T12:58:51-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "4730846005": {
@@ -661,7 +648,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:12:21-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "4730862005": {
@@ -674,7 +661,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:11:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8078990": {
@@ -687,7 +674,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-10T09:20:11-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     },
     "8156166": {
@@ -698,9 +685,74 @@
       "description": "<div class=\"content-intro\"><p>At Trustpilot, we're on an incredible journey. We're a profitable, high-growth FTSE-250 company with a big vision: to become the universal symbol of trust. We run the world's largest open customer review platform, and while we've come a long way, there's still so much exciting work to do. Come join us at the heart of trust!</p></div><p>We’re a leading online reviews platform, free and open to all. Our mission is to be a universal symbol of trust. We are well on our way - but there’s still an exciting journey ahead of us. Do you want to join us at the heart of trust?</p>\n<p>We’re currently looking for a Senior UX researcher to join our team at Trustpilot.</p>\n<p>Our goal is simple: to become the most trusted reviews platform in the world. We will achieve this by being ready and willing to disrupt ourselves through innovation, data and insight and adding product professionals with ambitions that match our own.</p>\n<p>As Senior UX Researcher, you'll be the go-to expert on measuring how people and businesses experience trust on Trustpilot , from reading a review to deciding our platform is worth paying for. You'll own the quantitative research agenda for your product areas, set the bar for statistical rigour across the team, and partner with Data Science to build a shared measurement culture.</p>\n<p>&nbsp;</p>\n<p><strong>What you'll be doing:</strong></p>\n<p><br><span style=\"text-decoration: underline;\">Research strategy &amp; execution</span></p>\n<ul>\n<li>Design and own the quantitative research roadmap for your product areas, e.g. &nbsp;attitudinal measurement, behavioural analysis, and longitudinal tracking.</li>\n<li>Lead large-scale surveys (validated scales, NPS derivatives, trust-perception metrics) and log-data/behavioural analytics (funnels, A/B tests, cohort and retention modelling).</li>\n<li>Build measurement frameworks that define what ‘good’ looks like for review-reading, purchase-decision, and business-subscription journeys &nbsp;and track them over time.</li>\n</ul>\n<p><strong><br></strong><span style=\"text-decoration: underline;\">Quantitative methods</span></p>\n<ul>\n<li>Lead advanced quantitative research - surveys, behavioural analytics, experimentation, predictive modelling &nbsp;using statistical rigor as the throughline, from validated instrument design through to automated, auditable analysis pipelines (Python/R/SQL).</li>\n<li>Pioneer AI-assisted techniques (e.g. LLM-assisted open-text analysis) where they genuinely sharpen the work, evaluating any AI tooling with a critical eye on validity and bias.</li>\n</ul>\n<p><br><span style=\"text-decoration: underline;\">Standards, influence and coaching</span></p>\n<ul>\n<li>Partner with Data Science and Analytics on shared definitions and data pipelines; hold the bar on study design and statistical rigour across the team.</li>\n<li>Translate statistical output into clear, decision-forcing narratives that PMs, designers, and engineers act on.</li>\n<li>Coach other researchers in quantitative methods, raising the team's statistical literacy through pairing and structured feedback.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What we're looking for:</strong></p>\n<ul>\n<li>4+ years of UX research experience with a strong specialisation in quantitative methods and complex, broad-scope work.</li>\n<li>Strong survey methodology (instrument design, sampling, psychometric validation) and statistical grounding (regression, factor/cluster analysis, significance testing).</li>\n<li>Hands-on proficiency in Python, R, or SQL, and direct experience with large behavioural datasets (e.g. Amplitude, Looker, BigQuery).</li>\n<li>A track record of quant research that measurably shaped product or business decisions, including A/B testing methodology.</li>\n<li>Hands-on experience experimenting with AI tools in a research workflow &nbsp;e.g. LLM-assisted analysis, AI-assisted qual coding, or evaluating AI-powered research tooling &nbsp;with a critical eye on validity and bias.</li>\n<li>AI-curious practitioner who can speak critically about AI's limits as well as its power; collaborates fluently with qual, data science, and product analysts.</li>\n<li>Excellent communication and interpersonal skills, with the ability to work closely with diverse teams and present data-driven findings in an engaging and accessible way.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>What’s in it for you:</strong></p>\n<ul>\n<li>A range of flexible working options to dedicate time to what matters to you</li>\n<li>Competitive compensation package + bonus</li>\n<li>25 days holiday per year, increasing to 28 days after 2 years of employment</li>\n<li>Two (paid) volunteering days a year to spend your time giving back to the causes that matter to you and your community</li>\n<li>Rich learning and development opportunities are supported through the Trustpilot Academy and Blinkist</li>\n<li>Pension and life insurance</li>\n<li>Health cash plan, online GP, 24/7, Employee Assistance Plan</li>\n<li>Full access to Headspace, a popular mindfulness app to promote positive mental health</li>\n<li>Paid parental leave</li>\n<li>Season ticket loan and a cycle-to-work scheme</li>\n<li>Central office location complete with table tennis, a gaming corner, coffee bars and all the snacks and refreshments you can ask for</li>\n<li>Regular opportunities to connect and get to know your fellow Trusties, including company-wide celebrations and events, ERG activities, and team socials.</li>\n<li>Access to over 4,000 deals and discounts on things like travel, electronics, fashion, fitness, cinema discounts, and more.</li>\n<li>Independent financial advice and free standard professional mortgage broker advice</li>\n<li>Talent acceleration programs: Fast-track your career with our tailored development programs designed to support growth at whatever stage of your career<br><br>LI-MG1&nbsp;</li>\n</ul><div class=\"content-conclusion\"><p><strong>About us</strong></p>\n<p>Trustpilot began in 2007 with a simple yet powerful idea that is more relevant today than ever — to be the universal symbol of trust, bringing consumers and businesses together through reviews. Trustpilot is open, independent, and impartial — we help consumers make the right choices and businesses to build trust, grow and improve.</p>\n<p>Today, we have more than 350 million reviews and 60 million monthly active users across the globe, with 149 billion annual Trustpilot brand impressions, and the numbers keep growing. We have more than 1000 employees and we’re headquartered in Copenhagen, with operations in&nbsp; Amsterdam, Denver, Edinburgh, Hamburg, London, Melbourne, Milan and New York.&nbsp;</p>\n<p>We’re driven by connection. It’s at the heart of what we do. Our culture keeps things fresh –– it’s built on the relationships we create. We talk, we laugh, we collaborate and we respect each other. We work across borders and cultures to be the universal symbol of trust in an ever-changing world. With vibrant office locations worldwide and over 50 nationalities, we’re proud to be an equal opportunity workplace with diverse perspectives and ideas.&nbsp;</p>\n<p>Our purpose to help people and businesses help each other is a tall order, but we keep it real. We’re a great bunch of humans, doing awesome stuff, without fuss or pretense. A successful Trustpilot future is driven by you –– we give you the autonomy to shape a career you can be proud of. If you’re ready to grow, let’s go.</p>\n<p><strong>Join us at the heart of trust.</strong></p>\n<p><em>Trustpilot is committed to creating an inclusive environment where people from all backgrounds can thrive and where different viewpoints and experiences are valued and respected. Trustpilot will consider all applications for employment without regard to race, ethnicity, national origin, religious beliefs, gender identity or expression, sexual orientation, neurodiversity, disability, age, parental or veteran status. Together, we are the heart of trust.</em></p>\n<p><em>Trustpilot is a global company and our data practices are designed to ensure that your personally identifiable information is appropriately protected. Please note that your personal information will be transferred, accessed, and stored globally as necessary for the uses and disclosures stated in our <a href=\"https://corporate.trustpilot.com/legal/for-everyone/data-privacy-notice-for-candidates/dec-2024\">Privacy Policy.</a><br><br><em data-stringify-type=\"italic\">If you have a disability and would like to discuss any adjustments you might need either in submitting your application, or to the recruitment process more generally, please let us know by contacting our Talent Acquisition Team (talent.acquisition@trustpilot.com)</em><em data-stringify-type=\"italic\">&nbsp;quoting the role you wish to apply for.<br></em></em></p></div>",
       "url": "https://corporate.trustpilot.com/careers/job/8156166?gh_jid=8156166",
       "source": "Greenhouse",
-      "posted_at": "2026-09-14T03:50:41-04:00",
+      "posted_at": "2026-09-14T09:46:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-09-14T13:15:12.819489+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
+      "analysis": {}
+    },
+    "8721001002": {
+      "id": "8721001002",
+      "title": "Senior Solutions Engineer (Manufacturing, Automotive, Defence)",
+      "company": "Databricks",
+      "location": "London, United Kingdom",
+      "description": "<p><strong>Req ID: </strong><strong> </strong><strong> </strong><strong>FEQ427R376</strong></p>\n<p><strong>Location:&nbsp;</strong><strong> </strong><strong> </strong><strong>London (or surrounding areas)</strong></p>\n<p><strong>The Role</strong></p>\n<p>As a Senior Solutions Engineer, you will independently lead technical engagements for customers, owning discovery, solution design, and platform demonstrations. You are a builder who can code, architect, and present—combining technical depth with customer-facing skills to drive Databricks adoption. You will own frontline customer relationships and work with your Account Executive to develop technical strategies that expand platform usage.</p>\n<p><strong>The Impact You Will Have</strong></p>\n<ul>\n<li>Independently lead technical discovery and solution design for customer workloads spanning data engineering, analytics, GenAI and machine learning</li>\n<li>Build and deliver compelling proofs-of-concept and live demos on the Databricks Platform that drive technical wins</li>\n<li>Own frontline technical relationships with customer engineers, data teams, and technical leads</li>\n<li>Develop account-level technical strategies in partnership with your Account Executive to grow platform consumption</li>\n<li>Navigate competitive landscapes by articulating Databricks differentiation through hands-on demonstrations</li>\n<li>Contribute reusable technical assets (notebooks, solution accelerators, reference architectures) to the broader SA community</li>\n</ul>\n<p><strong>What We Look For</strong></p>\n<ul>\n<li>4+ years in data engineering, solutions architecture, technical pre-sales, or a hands-on consulting role</li>\n<li>Proficient in Python and SQL with demonstrated ability to debug, optimise, and write production-quality code — live coding is a required interview stage</li>\n<li>Hands-on experience designing and implementing data solutions on at least one public cloud platform (AWS, Azure, or GCP)</li>\n<li>Working knowledge of distributed data systems: Apache Spark™, Delta Lake, or equivalent (Hadoop, Kafka, Flink)</li>\n<li>Experience leading technical customer conversations — discovery, whiteboarding, architecture reviews</li>\n<li>Familiarity with one or more: data engineering (ETL/ELT, medallion architecture, streaming), data science/ML (model training, MLOps), or SQL analytics</li>\n<li>Strong presentation and demo skills — you will build and present a live solution during the interview</li>\n<li>Bachelor's or Master's degree in Computer Science, Engineering, or a quantitative discipline (or equivalent experience)</li>\n</ul>\n<p><strong><br></strong><strong>Nice to Have:</strong></p>\n<ul>\n<li>Databricks certification or experience with the Databricks Platform</li>\n<li>Experience with Unity Catalog, Lakeflow Spark Declarative Pipelines, or MLflow</li>\n<li>Background at a data/AI company, cloud provider, or technical consulting firm</li>\n</ul>\n<p><strong>Interview Process:</strong> Recruiter Screen → Hiring Manager Screen → Design and Architecture Interview → Live Coding Assessment → Build, Demo, Pitch! Presentation → Reference Check</p>\n<h3><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br></strong><strong><br><br></strong></h3><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div>",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721001002",
+      "source": "Greenhouse",
+      "posted_at": "2026-09-14T14:47:11-04:00",
+      "first_seen": "2026-09-15T12:39:18.331139+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-new-grad-london-421499": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-new-grad-london-421499",
+      "title": "Software Engineer - New Grad",
+      "company": "scaleai",
+      "location": "London",
+      "description": "<p>At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst &amp; Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force.</p>\n<p>Every industry is moving AI to the center of operations, but there is still no clear blueprint for getting from pilot to profit. That is the problem our engineers work on. As a New Grad Software Engineer, you will own meaningful, customer-facing work from day one — shipping products, talking directly to the customers who use them, and iterating fast.</p>\n<p>Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of:</p>\n<ul>\n<li>Creating custom AI applications that will impact millions of citizens</li>\n<li>Generating high-quality training data for national LLMs</li>\n<li>Upskilling and advisory services to spread the impact of AI</li>\n</ul>\n<p><strong>Example Projects:</strong></p>\n<ul>\n<li>Build reinforcement learning and post-training data pipelines that power frontier model development</li>\n<li>Develop evaluation infrastructure that measures model reliability for enterprise and public sector customers</li>\n<li>Ship agentic AI applications and the tooling that makes them observable, testable, and safe to deploy</li>\n<li>Ship tools that accelerate the growth of new qualified contributors on Scale's platform</li>\n<li>Build fraud-detection systems that remove bad actors and keep Scale's contributor base safe and trusted</li>\n<li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li>\n<li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li>\n<li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors completing billions of complex tasks</li>\n<li>Develop new AI infrastructure products to visualize, query, and explore Scale data</li>\n<li>Build a customer service RAG application that handles thousands of questions a day</li>\n<li>Integrate a cutting-edge ML model that predicts churn into a customer's retention system</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>A graduation date in Fall 2026 or Spring 2027 with a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li>\n<li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to customers, figuring out 'what' to build and then iterating</li>\n<li>Previous Product/Software Engineering internship experience</li>\n<li>Track record of shipping high-quality products and features at scale</li>\n<li>Experience building systems that process large volumes of data</li>\n<li>Experience with Python, Typescript, React, and/or MongoDB</li>\n</ul>\n<p><em>Please reference the job posting's subtitle for where this position will be located.</em></p>\n<p><strong>Nice to have:</strong></p>\n<ul>\n<li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from internships, research, or personal projects</li>\n<li>Open source contributions or a portfolio of shipped side projects</li>\n</ul>\n<p><strong>How we work:</strong></p>\n<p>Our credos shape how we make decisions and work as a team:</p>\n<ul>\n<li><strong>Earn Customer Love</strong> — trust is earned with every interaction, every delivery, and every problem we solve</li>\n<li><strong>Team Flow</strong> — ideas, energy, and support move freely across teams; optimize for the whole</li>\n<li><strong>Quality is Our Cheat Code</strong> — the systems that deliver quality consistently are a structural advantage</li>\n<li><strong>Find the 20%</strong> — find the inputs that drive the outcomes and execute them completely</li>\n<li><strong>Write the Market</strong> — our research puts us at the frontier, and we bring our partners there first</li>\n<li><strong>Three Moves Ahead</strong> — consider the consequences of consequences, and plan accordingly</li>\n</ul><div class=\"content-conclusion\"><p><strong><em>PLEASE NOTE:&nbsp;</em></strong><em>Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.</em></p>\n<p><strong>About Us:</strong></p>\n<p><em>At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, </em><em>Ernst</em><em> </em><em>&amp;</em><em> Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.</em></p>\n<p><em>We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.&nbsp;</em></p>\n<p><em>We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at ----- Please see the United States Department of Labor's </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights poster</em></a><em> for additional information.</em></p>\n<p><em>We comply with the United States Department of Labor's </em><em>Pay Transparency provision</em><em>.&nbsp;</em></p>\n<p><em><strong>PLEASE NOTE: </strong>We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our <a href=\"https://scale.com/legal/privacy\" target=\"_blank\">privacy policy</a> for additional information.</em></p></div> Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineer-new-grad-london-421499",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1789466107",
+      "first_seen": "2026-09-15T12:39:18.331139+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineering-intern-summer-2027-london-90150": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineering-intern-summer-2027-london-90150",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "company": "scaleai",
+      "location": "London",
+      "description": "<p>At Scale, our mission is to develop reliable AI systems for the world's most important decisions. For 10 years, Scale has provided the high-quality data and full-stack technologies that power the world's leading models, and has helped enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, Ernst &amp; Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force.</p>\n<p>Scale's internship is not a side project. Interns own real, shipped work on the same roadmaps as full-time engineers, with mentorship from world-class talent and a culture that values ownership, speed, and truth-seeking. Many of our interns return as full-time Scaliens.</p>\n<p>Scale’s rapidly growing Global Public Sector team is focused on using AI to address critical challenges facing the public sector around the world. Our core work consists of:</p>\n<ul>\n<li>Creating custom AI applications that will impact millions of citizens</li>\n<li>Generating high-quality training data for national LLMs</li>\n<li>Upskilling and advisory services to spread the impact of AI</li>\n</ul>\n<p><strong>Example Projects:</strong></p>\n<ul>\n<li>Build reinforcement learning and post-training data pipelines that power frontier model development</li>\n<li>Develop evaluation infrastructure that measures model reliability for enterprise and public sector customers</li>\n<li>Ship agentic AI applications and the tooling that makes them observable, testable, and safe to deploy</li>\n<li>Ship tools that accelerate the growth of new qualified contributors on Scale's platform</li>\n<li>Build fraud-detection systems that remove bad actors and keep Scale's contributor base safe and trusted</li>\n<li>Use models to estimate the quality of tasks and contributors, and guarantee quality on requests at large scale</li>\n<li>Devise advanced matching algorithms that pair contributors to customers for optimal turnaround and accuracy</li>\n<li>Create optimized and efficient UI/UX tooling, in combination with ML algorithms, for 100k+ contributors completing billions of complex tasks</li>\n<li>Develop new AI infrastructure products to visualize, query, and explore Scale data</li>\n</ul>\n<p><strong>Requirements:</strong></p>\n<ul>\n<li>A graduation date in Fall 2027 or Spring 2028 with a Bachelor's degree (or equivalent) in a relevant field (Computer Science, EECS, Computer Engineering, Statistics)</li>\n<li>Available for a Summer 2027 internship (May/June start dates) in San Francisco</li>\n<li>Product engineering experience such as building web apps full-stack, integrating with relevant APIs and services, talking to customers, figuring out 'what' to build and then iterating</li>\n<li>Previous Computer Science/Software Engineering internship experience</li>\n<li>Track record of shipping high-quality products and features</li>\n<li>Experience building systems that process large volumes of data</li>\n<li>Experience with Python, Typescript, React, and/or MongoDB</li>\n</ul>\n<p><em>Please reference the job posting's subtitle for where this position will be located.</em></p>\n<p><strong>Nice to have:</strong></p>\n<ul>\n<li>Hands-on experience with LLMs, evaluations, or agentic systems — whether from coursework, research, or personal projects</li>\n<li>Open source contributions or a portfolio of shipped side projects</li>\n</ul>\n<p><strong>How we work:</strong></p>\n<p>Our credos shape how we make decisions and work as a team:</p>\n<ul>\n<li><strong>Earn Customer Love</strong> — trust is earned with every interaction, every delivery, and every problem we solve</li>\n<li><strong>Team Flow</strong> — ideas, energy, and support move freely across teams; optimize for the whole</li>\n<li><strong>Quality is Our Cheat Code</strong> — the systems that deliver quality consistently are a structural advantage</li>\n<li><strong>Find the 20%</strong> — find the inputs that drive the outcomes and execute them completely</li>\n<li><strong>Write the Market</strong> — our research puts us at the frontier, and we bring our partners there first</li>\n<li><strong>Three Moves Ahead</strong> — consider the consequences of consequences, and plan accordingly</li>\n</ul><div class=\"content-conclusion\"><p><strong><em>PLEASE NOTE:&nbsp;</em></strong><em>Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.</em></p>\n<p><strong>About Us:</strong></p>\n<p><em>At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, </em><em>Ernst</em><em> </em><em>&amp;</em><em> Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.</em></p>\n<p><em>We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.&nbsp;</em></p>\n<p><em>We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at ----- Please see the United States Department of Labor's </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights poster</em></a><em> for additional information.</em></p>\n<p><em>We comply with the United States Department of Labor's </em><em>Pay Transparency provision</em><em>.&nbsp;</em></p>\n<p><em><strong>PLEASE NOTE: </strong>We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our <a href=\"https://scale.com/legal/privacy\" target=\"_blank\">privacy policy</a> for additional information.</em></p></div> Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/software-engineering-intern-summer-2027-london-90150",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1789466107",
+      "first_seen": "2026-09-15T12:39:18.331139+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/scaleai/director-forward-deployed-engineering-london-308692": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/director-forward-deployed-engineering-london-308692",
+      "title": "Director, Forward Deployed Engineering",
+      "company": "scaleai",
+      "location": "London",
+      "description": "<h1>Director, Forward Deployed Engineering</h1>\n<p>At Scale AI, we're not just building AI tools—we're pioneering the next era of enterprise AI. The world's largest enterprises are racing to deploy Generative AI into the core of their operations, and Scale is the partner that gets them there. Our Forward Deployed Engineering team sits at the intersection of customer delivery and core platform development, embedding alongside customers to turn research breakthroughs into production systems that drive measurable business outcomes.</p>\n<p>We're hiring a&nbsp;<strong>Director of Forward Deployed Engineering</strong> to oversee delivery for our largest and most strategic accounts. You'll lead a team of elite engineers who embed directly with Fortune 500 customers to ship deeply integrated AI agents—owning everything from agent design and evaluation to the backend services, data systems, and cloud infrastructure that make them production-ready. You'll partner closely with our Forward Deployed and Product teams to make sure we're shipping as efficiently as possible, turning hard-won field lessons into reusable platform capabilities that compound our velocity over time.</p>\n<p>This is a high-autonomy, founder-mindset role. You'll own outcomes end-to-end, scale a team that can operate under pressure, and shape how AI adoption actually happens inside the world's biggest enterprises. Your success will be measured by how consistently your team ships, how durably those deployments stick, and how clearly the signal from the field sharpens our product roadmap.</p>\n<h2>You Will</h2>\n<ul>\n<li><strong>Own delivery for our largest accounts.</strong> Lead end-to-end execution across our most strategic enterprise customers—scoping engagements, sequencing delivery, removing blockers, and making sharp trade-offs between scope, speed, and quality to drive production adoption.</li>\n<li><strong>Lead and grow the team.</strong> Hire, develop, and retain a world-class team of Forward Deployed Engineers. Set the technical bar, establish hiring standards, and build onboarding and career frameworks that let the team scale without losing intensity.</li>\n<li><strong>Provide holistic technical oversight.</strong> Maintain a deep working understanding of every layer of what we ship—agents, models, evaluations, backend services, data pipelines, and cloud infrastructure—so you can review architectures, debug production issues, and raise the quality bar across every engagement.</li>\n<li><strong>Partner with Product and core Engineering.</strong> Work closely with Forward Deployed, Product, and Platform teams to ensure we ship efficiently. Identify patterns across engagements and codify them into reusable platform capabilities, playbooks, and building blocks that make the next deployment faster than the last.</li>\n<li><strong>Engage directly with customer leadership.</strong> Forge trusted relationships with senior stakeholders at Fortune 500 customers. Translate ambiguous business problems into concrete technical roadmaps with measurable outcomes, and represent Scale at the executive level.</li>\n<li><strong>Enforce production excellence.</strong> Set and hold the standard for reliability, security, observability, and evaluation across deployed agents—making sure the systems we ship are genuinely enterprise-ready, not just demo-ready.</li>\n<li><strong>Drive the feedback loop into product.</strong> Translate field insights into sharp, actionable input for Product and Research, influencing model choices, platform features, and roadmap priorities.</li>\n<li><strong>Operate with founder mindset.</strong> Own outcomes without waiting to be asked. Move with urgency in ambiguous environments. Make sound calls under pressure and model the calm, focus, and judgment the team needs when stakes are high.</li>\n</ul>\n<h2>Ideally You’d Have</h2>\n<ul>\n<li><strong>10+ years of software engineering or technical delivery experience</strong>, including 3+ years leading high-performing customer-facing engineering teams (Forward Deployed, Solutions Engineering, Applied AI, or similar).</li>\n<li><strong>A solid engineering background.</strong> You've led high-pressure technical projects from prototype to production, and you're still comfortable whiteboarding system architectures, reviewing code, and debugging production issues alongside your team.</li>\n<li><strong>Proven ability to scale a delivery team.</strong> You've built hiring bars, onboarding programs, and operating standards for technical organizations, and you've interviewed and hired at volume for senior engineering roles.</li>\n<li><strong>Hands-on fluency with the full AI stack.</strong> Deep familiarity with LLMs and agent systems, evaluation frameworks, backend and API design (Python or TypeScript), data systems (PostgreSQL, DynamoDB, MongoDB, or similar), and cloud infrastructure (AWS, Azure, or GCP) including Kubernetes, Docker, and IaC tooling.</li>\n<li><strong>Experience deploying AI into complex enterprise environments</strong>, including navigating security reviews, identity/SSO, data residency, legacy integrations, and compliance requirements.</li>\n<li><strong>A track record of turning field work into product leverage.</strong> You've codified repeatable patterns from customer engagements into tools, libraries, or platform features that scaled across the next wave of deployments.</li>\n<li><strong>Strong cross-functional leadership.</strong> You've aligned Sales, Product, Engineering, Research, and Customer Success around shared goals and delivered outcomes that required all of them to row in the same direction.</li>\n<li><strong>Founder mindset.</strong> High autonomy, high motivation, high ownership. Comfortable operating with ambiguity, bias toward action, and the judgment to know when to ship and when to raise the bar.</li>\n</ul>\n<p><strong>Exceptional communication.</strong> You can translate technical tradeoffs into decisions for executive and non-technical audiences, and model the customer empathy you expect from your team.</p><div class=\"content-conclusion\"><p><strong><em>PLEASE NOTE:&nbsp;</em></strong><em>Our policy requires a 90-day waiting period before reconsidering candidates for the same role. This allows us to ensure a fair and thorough evaluation of all applicants.</em></p>\n<p><strong>About Us:</strong></p>\n<p><em>At Scale, our mission is to develop reliable AI systems for the world's most important decisions. Our products provide the high-quality data and full-stack technologies that power the world's leading models, and help enterprises and governments build, deploy, and oversee AI applications that deliver real impact. We work closely with industry leaders like Meta, </em><em>Ernst</em><em> </em><em>&amp;</em><em> Young, Mayo Clinic, Time Inc., the Government of Qatar, and U.S. government agencies including the Army and Air Force. We are expanding our team to accelerate the development of AI applications.</em></p>\n<p><em>We believe that everyone should be able to bring their whole selves to work, which is why we are proud to be an inclusive and equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability status, gender identity or Veteran status.&nbsp;</em></p>\n<p><em>We are committed to working with and providing reasonable accommodations to applicants with physical and mental disabilities. If you need assistance and/or a reasonable accommodation in the application or recruiting process due to a disability, please contact us at ----- Please see the United States Department of Labor's </em><a href=\"https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12ScreenRdr.pdf\"><em>Know Your Rights poster</em></a><em> for additional information.</em></p>\n<p><em>We comply with the United States Department of Labor's </em><em>Pay Transparency provision</em><em>.&nbsp;</em></p>\n<p><em><strong>PLEASE NOTE: </strong>We collect, retain and use personal data for our professional business purposes, including notifying you of job opportunities that may be of interest and sharing with our affiliates. We limit the personal data we collect to that which we believe is appropriate and necessary to manage applicants’ needs, provide our services, and comply with applicable laws. Any information we collect in connection with your application will be treated in accordance with our internal policies and programs designed to protect personal data. Please see our <a href=\"https://scale.com/legal/privacy\" target=\"_blank\">privacy policy</a> for additional information.</em></p></div> Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/scaleai/director-forward-deployed-engineering-london-308692",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1789466107",
+      "first_seen": "2026-09-15T12:39:18.331139+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-engineer-content-intelligence-infrastructure-london-231634": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-engineer-content-intelligence-infrastructure-london-231634",
+      "title": "Staff Engineer - Content Intelligence Infrastructure",
+      "company": "Spotify",
+      "location": "London",
+      "description": "The Experience team designs Spotify’s consumer experience—end to end, moment to moment, across every screen, platform, and partner integration. Our mission is to make listening feel effortless, personal, and joyful for billions of users around the world. That means turning complexity into clarity across hundreds of touchpoints—from our mobile and desktop apps to the smart speakers, TVs, cars, and integrations where Spotify shows up every day. If it touches a consumer, we shape it. We bring deep insight into human behavior, design, and technology to craft experiences that feel intuitive, expressive, and unmistakably Spotify. The Content Intelligence Product Area is a core part of Spotify’s Content Platform within the Experience mission. We build systems that create deep, machine-readable understanding of content across audio, video, text, and images before it reaches users. This enables automation, safety, and entirely new product experiences. Our work powers content enrichment, quality analysis, annotation platforms, and scalable intelligence systems that allow teams across Spotify to build without needing direct content understanding expertise. We’re now looking for a Staff Engineer to help build and scale foundational infrastructure powering content understanding across Spotify. This role sits at the intersection of backend systems, ML infrastructure, distributed data systems, and AI-enabled platform capabilities. You’ll help shape infrastructure strategy across the product area while partnering with senior engineers, product leaders, and cross-functional teams to execute on long-term technical investments. What You'll Do Lead the design and evolution of data, backend and ML infrastructure systems powering Spotify’s content intelligence capabilities Build scalable infrastructure for multimodal content processing across audio, video, text, and image understanding pipelines Partner closely with Product Managers, Engineering Managers, and senior engineers to shape technical strategy across the Content Intelligence Product Area Drive architectural decisions across distributed systems, ML infrastructure, data processing platforms, and platform reliability Improve infrastructure supporting AI and LLM-enabled workflows, including podcast and audiobook transcript processing, metadata enrichment, and content understanding systems Develop reliable and cost-efficient systems for high-throughput content processing and real-time intelligence use cases Collaborate across organizational boundaries to drive alignment, technical quality, and long-term platform investments Mentor engineers and contribute to raising the engineering bar across the organization Who You Are You have extensive experience building and scaling large-scale backend and infrastructure systems in distributed environments You have strong technical judgment and can balance scalability, reliability, cost, and product needs effectively You have strong programming experience in Java, Python, and/or Scala You understand the challenges of building systems that process high-volume multimedia or real-time workloads You have worked with systems and products that use AI and LLMs at large scale and can demonstrate direct experience in building such products. You can demonstrate a good understanding of the quality scale and cost trade-offs of these technologies. You are comfortable operating in ambiguous, fast-moving environments and helping shape technical direction from the ground up You communicate effectively across engineering, product, and leadership stakeholders You have experience leading complex technical initiatives that span multiple teams or organizational areas You care deeply about collaboration, mentorship, and creating alignment across teams Exposure to search infrastructure, recommendation systems, or audio processing systems is a strong plus Experience working in startup environments or early-stage product areas where ownership and adaptability are critical is highly valued Where You'll Be This role is based in London or Stockholm We offer you the flexibility to work where you work best! There will be some in person meetings, but still allows for flexibility to work from home. Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/spotify/staff-engineer-content-intelligence-infrastructure-london-231634",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1789463074",
+      "first_seen": "2026-09-15T12:39:18.331139+00:00",
+      "last_seen": "2026-09-15T12:39:18.331139+00:00",
       "analysis": {}
     }
   }
