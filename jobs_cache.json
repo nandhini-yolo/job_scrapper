@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T12:17:17.571407+00:00",
+  "updated_at": "2026-10-17T11:33:55.048309+00:00",
   "jobs": {
     "7175503": {
       "id": "7175503",
@@ -11,7 +11,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T11:57:20-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8172852": {
@@ -24,7 +24,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-07T04:53:28-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8096176": {
@@ -37,7 +37,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-19T17:04:51-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7942731": {
@@ -50,7 +50,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-27T08:41:13-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8704938002": {
@@ -63,7 +63,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8720252002": {
@@ -76,7 +76,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8195967": {
@@ -89,7 +89,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-10T20:22:56-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8060321002": {
@@ -100,9 +100,9 @@
       "description": "<p>Quant Library Developer, Macro Technology.</p>\n<p><strong>A Career with Point72’s TECHNOLOGY TEAM</strong></p>\n<p>As Point72 reimagines the future of investing, our Technology team is constantly evolving our firm’s IT infrastructure and engineering capabilities, positioning us at the forefront of a rapidly evolving technology landscape. We’re a team of experts who experiment and work to discover new ways to harness open-source solutions, modern cloud architectures, and sophisticated Artificial Intelligence (AI) solutions, while embracing enterprise agile methodologies. Our commitment to building and innovating in the AI space provides the framework intended to drive smarter decision making and enhance how we build and operate our platforms and applications.</p>\n<p>As a member of Point72’s Technology team, we encourage and support your professional development from day one, helping you advance your technical skills, contribute innovative ideas, and satisfy your own intellectual curiosity; all while delivering real business impact for our multi-billion-dollar global business.</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li>Design, build, and extend core C# analytics services, APIs, and libraries used across the Macro business.</li>\n<li>Develop and operate high-performance distributed systems with strong guarantees around correctness, latency, and scalability.</li>\n<li>Build real-time and historical analytics services supporting pricing, risk, and global market data workflows.</li>\n<li>Design and maintain time-aware (historical and real-time) data models and services, ensuring consistency across analytics use cases.</li>\n<li>Develop and integrate derived data pipelines and datasets used in research, backtesting, and production analytics.</li>\n<li>Contribute to API design, data modeling, and system architecture for shared analytics platforms.</li>\n<li>Integrate analytics services with batch and streaming data pipelines across research and trading workflows.</li>\n<li>Partner closely with quants and portfolio managers to translate investment requirements into robust platform capabilities.</li>\n<li>Contribute to system reliability through testing, monitoring, and operational best practices.</li>\n<li>Participate in code reviews and technical discussions to improve design, performance, and maintainability.</li>\n</ul>\n<p><strong>&nbsp;</strong></p>\n<p><strong>What’s REQUIRED</strong></p>\n<ul>\n<li>3–10 years of experience developing production-quality backend software in C#, with a strong focus on distributed systems and APIs (REST/gRPC).</li>\n<li>Proven experience designing, deploying, and supporting backend services or platforms in cloud or hybrid environments .</li>\n<li>Strong understanding of distributed system design, including data modeling, consistency, and time-series or event-driven architectures.</li>\n<li>Hands-on experience with streaming and messaging systems, such as Kafka, and building scalable data pipelines with derived data generation and persistence.</li>\n<li>Familiarity with containerized environments, such as Kubernetes, and modern data and storage technologies.</li>\n<li>Solid grasp of SDLC best practices, including testing, code coverage, monitoring, and operational support in production systems.</li>\n<li>Experience with Python and exposure to C++, particularly in performance- or analytics-oriented contexts.</li>\n<li>Awareness of financial markets and instruments, including rates, FX, and derivatives, and how pricing and risk analytics are applied.</li>\n<li>Strong communication and collaboration skills, with the ability to work closely with investment professionals.</li>\n<li>Commitment to the highest ethical standards.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>We take care of our people</strong></p>\n<p>We invest in our people, their careers, their health, and their well-being. When you work here, we provide:</p>\n<ul>\n<li>Fully paid health care benefits</li>\n<li>Generous parental and family leave policies</li>\n<li>Volunteer opportunities</li>\n<li>Support for employee-led affinity groups representing women, people of color and the LGBT+ community</li>\n<li>Mental and physical wellness programs</li>\n<li>Tuition assistance</li>\n<li>A 401(k) savings program with an employer match and more</li>\n</ul>\n<p><strong>About Point72</strong></p>\n<p>Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain industry’s brightest talent by cultivating an investor-led culture and committing to our people’s long-term growth. For more information, visit&nbsp;<a href=\"https://point72.com/\">https://point72.com/</a>.</p>\n<p>The annual base salary range for this role is $200,000-$300,000 (USD) , which does not include discretionary bonus compensation or our comprehensive benefits package. Actual compensation offered to the successful candidate may vary from posted hiring range based upon geographic location, work experience, education, and/or skill level, among other things.</p>",
       "url": "https://boards.greenhouse.io/point72/jobs/8060321002?gh_jid=8060321002",
       "source": "Greenhouse",
-      "posted_at": "2026-10-15T20:18:10-04:00",
+      "posted_at": "2026-10-16T17:02:27-04:00",
       "first_seen": "2026-09-14T12:25:04.855345+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7989158": {
@@ -115,7 +115,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-18T18:23:12-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8656202002": {
@@ -128,7 +128,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:45:55-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8567991002": {
@@ -141,7 +141,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:28:47-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8768938002": {
@@ -154,7 +154,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:59:11-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8023162": {
@@ -167,7 +167,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-25T05:17:09-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7996955": {
@@ -180,7 +180,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-25T05:17:09-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8018513": {
@@ -193,7 +193,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:02-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8018517": {
@@ -206,7 +206,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:02-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7788552003": {
@@ -219,7 +219,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7548628003": {
@@ -232,7 +232,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7539051003": {
@@ -245,7 +245,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7784638003": {
@@ -258,7 +258,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8174075": {
@@ -269,9 +269,9 @@
       "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p>\n<p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p>\n<p>We are looking to speak to candidates who are based in London for our hybrid working model.</p>\n<h3>As an ideal candidate, you will have:</h3>\n<ul>\n<li>5 to 8&nbsp; years of related industry experience, ideally 2 years of experience in a customer facing role</li>\n<li>Minimum of 2 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li>\n<li>Experience implementing scalable and highly available distributed systems in the cloud and on-prem</li>\n<li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li>\n<li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li>\n<li>Ability to work with a cross functional sales team to formulate and execute an end to end deal cycle</li>\n<li>The ability to travel up to 25%</li>\n<li>A Bachelor’s degree or equivalent work experience</li>\n</ul>\n<h3>You may also have:</h3>\n<ul>\n<li>Experience developing, deploying, or supporting applications with any of the major cloud providers&nbsp;</li>\n<li>Experience working in a technical pre-sales capacity&nbsp;</li>\n<li>Experience with database programming and data models&nbsp;</li>\n<li>Experience in data engineering or AI/ML projects</li>\n<li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li>\n<li>A MongoDB Certification</li>\n<li>A Cloud Provider Certification</li>\n</ul>\n<h3>What you do at MongoDB:</h3>\n<p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p>\n<ul>\n<li>Design and Architect: Design scalable and performant applications, systems and infrastructure for large software projects leveraging MongoDB</li>\n<li>Customer Advising and Value Articulation: Guide customers on architecture patterns and optimisation strategies for MongoDB, while clearly communicating its business value to the relevant stakeholders</li>\n<li>Sales Partnership: Collaborate with the sales team to drive account success through account planning, opportunity prioritization/qualification and pipeline generation strategy, while taking ownership of the technical aspects (including but not limited to technical discovery, demos, proof of value, presentations, sizing and documentation)</li>\n<li>Demand Generation: Proactively generate demand within the sales territory through self-driven technical initiatives, participation in events such as industry trade shows and account-based marketing events</li>\n<li>Customer Success: Foster strong customer relationships, build champions and ensure customer success and satisfaction</li>\n<li>Innovation and Improvement: Continuously seek opportunities to innovate and improve MongoDB solutions and processes (e.g. by relaying field feedback to the product team), as well as proactively mentor other Solutions Consulting team members&nbsp;</li>\n<li>Personal Training and Development: Engage in ongoing training and professional development to stay abreast of MongoDB product suite as well as industry trends</li>\n</ul>\n<h3>What you will learn:</h3>\n<p>MongoDB Product Suite Mastery:</p>\n<ul>\n<li>Core Database Server: Master the fundamentals and advanced features of MongoDB's core database</li>\n<li>Atlas and Advanced Services: Gain expertise in Atlas (fully managed cloud database service), Atlas Stream Processing, Atlas Data Lake, Atlas Full-Text Search, Atlas Vector Search, and Charts</li>\n<li>Relational Migrator: Learn to migrate from relational databases seamlessly</li>\n</ul>\n<p>Market-Relevant Technologies:</p>\n<ul>\n<li>Hyperscaler Ecosystem: Gain expertise in designing complex systems utilizing cloud services on hyperscaler platforms</li>\n<li>Complementary Technologies: Enhance your skills with partner and complementary technologies such as Apache Kafka and Kubernetes</li>\n</ul>\n<p>Modern Architecture Design:</p>\n<ul>\n<li>Design Patterns and Methodologies: Embrace best practices in microservices, DevOps, cloud, and security</li>\n<li>Cutting Edge RAG and AI Architectures: Help customers on their generative AI journey and working with industry leading partners in the space</li>\n</ul>\n<p>Sales Techniques and Soft Skills:</p>\n<ul>\n<li>Effective Communication: Master presentations, demonstrations, and whiteboarding</li>\n<li>Client Interaction: Develop strategies for discovery and objection handling</li>\n</ul>\n<p>Industry Insights:</p>\n<ul>\n<li>Diverse Market Verticals: Gain exposure to a broad spectrum of interesting use cases across various industries</li>\n</ul>\n<h3>About MongoDB</h3>\n<p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.</p>\n<p>With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.</p>\n<p>Our compass at MongoDB is our <a href=\"https://www.mongodb.com/company\">Leadership Commitment,</a> guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&nbsp;</p>\n<p>To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. <a href=\"https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb\">From employee affinity groups, to fertility assistance and a generous parental leave policy</a>, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.<a href=\"https://www.mongodb.com/blog/channel/culture\"> Learn more about what it’s like to work at MongoDB</a>, and help us make an impact on the world!</p>\n<p>MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.</p>\n<p>MongoDB is an equal opportunities employer.</p>\n<p><em>Req ID: 3273537663</em></p>",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8174075",
       "source": "Greenhouse",
-      "posted_at": "2026-10-15T12:56:28-04:00",
+      "posted_at": "2026-10-16T17:59:16-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7820250003": {
@@ -284,7 +284,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-02T17:47:31-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "7785674003": {
@@ -297,7 +297,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-02T17:47:31-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8704662002": {
@@ -310,7 +310,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:41:04-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8755487002": {
@@ -323,7 +323,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:41:04-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8605722002": {
@@ -336,7 +336,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:52-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8533904002": {
@@ -349,7 +349,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:56-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8562401002": {
@@ -362,7 +362,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:59-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "4730846005": {
@@ -375,7 +375,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-12T17:06:11-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "4730862005": {
@@ -388,7 +388,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-12T17:06:11-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8156166": {
@@ -401,7 +401,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:46:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8614459002": {
@@ -414,7 +414,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:39:09-04:00",
       "first_seen": "2026-09-18T12:13:10.553096+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8223681": {
@@ -427,7 +427,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-01T12:57:36-04:00",
       "first_seen": "2026-09-23T12:44:44.224201+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8856501002": {
@@ -440,7 +440,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T11:59:13-04:00",
       "first_seen": "2026-09-30T13:35:49.416985+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8245606": {
@@ -453,7 +453,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-01T09:16:28-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8245625": {
@@ -466,7 +466,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-01T09:17:12-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8836789002": {
@@ -479,7 +479,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T20:18:23-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8245673": {
@@ -492,7 +492,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T04:43:15-04:00",
       "first_seen": "2026-10-02T13:48:52.302238+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8458941002": {
@@ -505,7 +505,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T05:07:31-04:00",
       "first_seen": "2026-10-06T14:08:50.727058+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8881592002": {
@@ -518,7 +518,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:51-04:00",
       "first_seen": "2026-10-10T13:33:35.104582+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8884753002": {
@@ -531,7 +531,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-13T14:20:16-04:00",
       "first_seen": "2026-10-14T12:50:17.690001+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8870159002": {
@@ -544,20 +544,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T10:22:04-04:00",
       "first_seen": "2026-10-15T12:38:08.369853+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
-      "analysis": {}
-    },
-    "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-technical-seo-specialist-amsterdam-372763": {
-      "id": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-technical-seo-specialist-amsterdam-372763",
-      "title": "Senior Technical SEO Specialist",
-      "company": "Vmlenterprisesolutions",
-      "location": "Amsterdam",
-      "description": "<div class=\"content-intro\"><h4><strong>Who We Are</strong></h4>\n<p>WPP Enterprise Solutions designs, builds, and operates the growth systems that competitive businesses rely on. In a world where Al is reshaping how companies drive growth, we lead clients in business transformation and marketing modernization, connecting strategy directly to execution. Our 12,000 experts in engineering and platforms, commerce, consulting, content transformation, CRM, and CX work within a unified global operating unit across 40+ markets. WPP Enterprise Solutions works alongside best-in-class partners including Adobe, AWS, Braze, Google, Microsoft, Salesforce, and Shopify, as well as innovators in AI, to deliver growth solutions tailored to the needs of our clients’ businesses. VML, part of WPP, supports WPP Enterprise Solutions by helping brands activate transformation through creativity and experience.</p></div><h3><strong>About the role</strong></h3>\n<p>WPP Enterprise Solutions in Amsterdam is the central hub for SEO and GEO expertise across the WPP network. From our team, we work with major national and international organisations on complex challenges across search, websites, digital platforms and AI-driven discovery.</p>\n<p>Our team currently consists of ten SEO and GEO specialists and is growing rapidly. We are therefore looking for a <strong>Senior Technical SEO Specialist</strong> to strengthen our technical capabilities.</p>\n<p>This is explicitly not a traditional SEO role with some technical SEO added on top. We are looking for someone who approaches SEO from a technical perspective. Someone who understands how websites, platforms, JavaScript frameworks, crawlers, rendering, APIs and search engines interact, and who can independently investigate and solve complex technical problems.</p>\n<p>You are comfortable working with SEO specialists, developers, solution architects, product teams and other technical stakeholders. You are able to go deep into the technology when needed, while also translating complex findings into clear priorities, recommendations and implementations for enterprise clients.</p>\n<h3><strong>What you will do</strong></h3>\n<p>As a Senior Technical SEO Specialist, you will be responsible for the technical quality and scalability of our SEO solutions. You will work on complex websites and digital ecosystems where standard SEO checklists are simply not enough.</p>\n<p><strong>Your responsibilities will include:</strong></p>\n<ul>\n<li>Conducting advanced technical SEO audits for large and complex websites, platforms and international domain structures.</li>\n<li>Analysing crawling, indexing and rendering to identify the root causes of technical SEO and indexation issues.</li>\n<li>Working with modern JavaScript frameworks and rendering architectures, including SSR, CSR, SSG and hybrid rendering.</li>\n<li>Analysing HTML, JavaScript, HTTP requests, response headers, status codes, redirects, canonicalisation and robots directives.</li>\n<li>Investigating and optimising crawl architecture, internal linking and information architecture for websites with hundreds of thousands or millions of URLs.</li>\n<li>Advising on complex technical challenges involving migrations, replatforming, URL structures, faceted navigation, pagination, internationalisation and hreflang.</li>\n<li>Performing log file analysis to understand how Googlebot and other crawlers interact with websites and to improve crawl efficiency.</li>\n<li>Developing scripts, tooling and automation that make recurring analyses faster, more reliable and more scalable.</li>\n<li>Reviewing technical solutions, specifications and implementations from an SEO perspective before they go live.</li>\n<li>Working closely with developers and engineering teams to translate SEO recommendations into clear technical requirements and tickets.</li>\n</ul>\n<h3><strong>The technical expertise we are looking for</strong></h3>\n<p>For this role, we are looking for someone whose technical capabilities go well beyond using standard SEO tools.</p>\n<p><strong>You have a strong understanding of:</strong></p>\n<ul>\n<li>HTML, CSS and JavaScript, and can independently analyse source code and identify technical issues.</li>\n<li>HTTP and web architecture, including requests and responses, status codes, caching, redirects, headers and CDN behaviour.</li>\n<li>JavaScript SEO and the implications of client-side and server-side rendering for crawling, rendering and indexing.</li>\n<li>Technical concepts such as SSR, CSR, SSG, hydration and dynamic rendering.</li>\n<li>Crawling and indexing, and how search engines technically process websites.</li>\n<li>txt, XML sitemaps, canonical tags, meta robots, X-Robots-Tag and other crawling and indexing directives.</li>\n<li>Structured data and Schema.org.</li>\n<li>Core Web Vitals and web performance.</li>\n<li>International websites, hreflang and complex multi-market architectures.</li>\n<li>Website and platform migrations.</li>\n<li>Crawl budget and scalable website architectures.</li>\n</ul>\n<p>You do not need to be a software engineer in every area. However, we do expect you to be comfortable reading code, manipulating data, working with APIs and building scripts or technical solutions when needed.</p>\n<h3>What seniority means to us</h3>\n<p>Being senior means more than being able to independently deliver a technical SEO audit.</p>\n<p>We expect you to be able to break down complex technical problems where there is no obvious answer. You combine experience, data and technical knowledge to define your own investigative approach and develop solutions that can realistically scale within enterprise organisations.</p>\n<h3>You will also:</h3>\n<ul>\n<li>Proactively improve the way we work, using tooling and AI to increase efficiency, quality and impact.</li>\n<li>Make significant improvements to our SEO guidelines, workflows and processes.</li>\n<li>Develop innovative solutions to complex SEO challenges, including algorithm changes, large-scale site architecture, crawling and automation.</li>\n<li>Build frameworks, templates, scripts and automations that can be adopted across multiple clients and projects.</li>\n<li>Independently develop new approaches for challenges where no standard solution exists.</li>\n<li>Think beyond what needs to change and consider how solutions can be technically and organisationally implemented at scale.</li>\n<li>Help other SEO specialists grow their technical capabilities.</li>\n</ul>\n<p>Act as a senior technical sparring partner for our clients.</p>\n<h3><strong>What&nbsp;you'll&nbsp;need:</strong></h3>\n<ul>\n<li>10+ years of experience in Technical SEO, with a strong track record of solving complex technical SEO challenges for large-scale, international and/or enterprise websites.</li>\n<li>Currently based in the Netherlands and able to work from our WPP office in Amsterdam.</li>\n<li>Deep technical knowledge of how modern websites are built, crawled, rendered and indexed, including strong expertise in HTML, JavaScript, HTTP, web architecture and rendering technologies.</li>\n<li>Strong experience working with <strong>l</strong>arge and complex website architectures, including crawling and indexation, faceted navigation, internationalisation, migrations, internal linking and crawl budget optimisation.</li>\n<li>Experience with Python and/or JavaScript for scripting and automation is highly desirable, as is experience with SQL, BigQuery or comparable data environments.</li>\n<li>A proven ability to turn complex technical findings into clear, actionable recommendations for developers, product teams, architects and senior stakeholders.</li>\n<li>Experience developing scalable frameworks, tooling, templates or automations that can be applied across multiple clients or projects.</li>\n<li>An eager and proactive mindset, with a strong interest in exploring how AI, automation, emerging search technologies and GEO can improve both our work and our clients' performance.</li>\n<li>Fluent in English. Dutch is highly desirable.</li>\n</ul>\n<h3><strong>What we offer:</strong>&nbsp;</h3>\n<p>We offer a competitive salary, a vibrant and collaborative&nbsp;culture&nbsp;and&nbsp;ample opportunities&nbsp;for professional growth.&nbsp;You'll&nbsp;be part of a global network of talent, working on projects that truly make an impact.&nbsp;<br>&nbsp;<br><strong>Our compensation:</strong>&nbsp;</p>\n<ul>\n<li>A gross annual salary range of 80,000€ - 95,000€, based on experience level.</li>\n<li>Hybrid working flexibility.</li>\n<li>Access to learning platforms .</li>\n<li>Wellbeing initiatives including mental health support programs and wellness activities.&nbsp;</li>\n<li>Employee discounts and access to WPP/VML global benefits ecosystem.&nbsp;</li>\n<li>Participation in team events, agency&nbsp;gatherings&nbsp;and cross-discipline workshops.&nbsp;</li>\n<li>At WPP ES, we believe in investing in people who build long-term value for our clients and their customers. Your growth is part of our growth.&nbsp;</li>\n</ul>\n<p>&nbsp;</p><div class=\"content-conclusion\"><h4><strong>About WPP</strong></h4>\n<p class=\"p1\">WPP is the trusted growth partner for the world’s leading brands. With exceptional talent, trusted data and intelligence and world-class partnerships – all united by our agentic marketing platform, WPP Open – we help clients navigate change, capture opportunity and deliver transformational growth. For more information, visit <a href=\"http://wpp.com/\"><span class=\"s1\">WPP.com</span></a><span class=\"s2\">.</span></p>\n<p><span class=\"normaltextrun\"><span lang=\"EN-GB\">WPP (VML/WPP Enterprise Solutions) is an equal opportunity employer and considers applicants for all positions without discrimination or regard to characteristics. We are committed to fostering a culture of respect in which everyone feels they belong and has the same opportunities to progress in their careers.</span></span><span class=\"scxw176048299\"><span lang=\"EN-GB\">&nbsp;</span></span></p>\n<p>When you click \"Submit Application\", this will send any information you add below to WPP (VML/WPP Enterprise Solutions). Before you do this, we think it's a good idea to read through our <a href=\"https://www.vml.com/recruitment-privacy-policy\">Recruitment Privacy Policy</a>. California residents should read our&nbsp;<a href=\"https://www.vml.com/california-recruitment-privacy-notice\">California Recruitment Privacy Notice</a>. This explains what we do with your personal data when you apply for a role with us, and, how you can update the information you have provided us with or how to remove it.</p></div> Find Jobs in Netherlands on Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/vmlenterprisesolutions/senior-technical-seo-specialist-amsterdam-372763",
-      "source": "www.arbeitnow.com",
-      "posted_at": "1792011341",
-      "first_seen": "2026-10-15T12:38:08.369853+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8288668": {
@@ -570,7 +557,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:38:01-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8288674": {
@@ -583,7 +570,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:39:37-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "8559467002": {
@@ -596,7 +583,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T05:07:53-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
     "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-engineer-amsterdam-62897": {
@@ -604,25 +591,64 @@
       "title": "Senior Data Engineer",
       "company": "Wypoon",
       "location": "Amsterdam",
-      "description": "Are you a Data Engineer who thrives on building robust, scalable, and secure data platforms in the cloud? Join the Data Chapter at Wypoon Technologies , where we match top-tier engineering talent with impactful opportunities across the Netherlands. You’ll help design and deliver end-to-end data solutions for leading organizations, working with cutting-edge technologies across Azure, GCP and hybrid environments. From building real-time streaming pipelines to implementing modern lakehouse architectures , your expertise will directly contribute to data-driven innovation in sectors like f inance , ecommerce, energy , logistics , and technology . Whether you’re passionate about big data processing, cloud infrastructure, or data automation, our goal is to connect you with projects that match your skills and ambitions. Why Join Us? At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell , tackling exciting challenges and delivering tailored enterprise solutions. Here’s what makes us stand out: ✔ Impactful Work : Shape the future of our clients’ digital landscapes. ✔ Innovative Environment : Collaborate within a supportive team that values learning and growth. ✔ State-of-the-art technology : Access the latest tools and platforms. Key Responsibilities Design, build, and maintain scalable data pipelines and workflows using Python, SQL, Airflow, and dbt . Develop cloud-based data solutions, primarily in GCP , while working with modern data architectures and modeling practices. Design technical architectures and translate business and product needs into scalable technical solutions . Develop clean, maintainable, and testable code using strong engineering and testing practices. Collaborate closely with product, data, engineering, and business stakeholders to define requirements and coordinate technical topics. Take ownership of solutions while aligning with technical peers and proactively contributing to team improvements. Requirements 5–7 years of Data Engineering experience in complex, fast-paced environments. Strong hands-on experience with Python and SQL . Strong experience with Apache Airflow or similar workflow orchestration tools. Experience with dbt or similar data transformation and modeling tools. Experience with GCP is preferred ; strong Azure or AWS experience is also considered. Strong knowledge of data modeling, data transformation, and architecture design . Experience building clean, maintainable, production-grade code with appropriate testing strategies . Experience with data analysis workflows using Polars, Pandas, or similar libraries . Strong ability to translate business and product requirements into technical designs . Comfortable with context switching , independent ownership, stakeholder collaboration, and working in a product-oriented environment. What We Offer Currently living in the Netherlands and eligible to work in the Netherlands . Competitive Compensation : Salary tailored to your skills and experience. Generous Time Off : 25 paid vacation days (based on a 40-hour work week). Tax Benefits : Eligibility for the 30% ruling. Travel Reimbursement : We've got your daily commute covered. Top-Notch Equipment : A high-quality device to ensure you work efficiently. Professional Development : Financial support for certifications, technical training, and language courses—because we value your long-term career growth. Comprehensive Relocation Assistance : Extensive support to help you settle in smoothly. Community & Fun : Enjoy team events and connect with developers from around the globe! Join Wypoon Technologies, where your expertise will thrive, your ideas will be valued, and your career will reach new heights. Apply now and make a real impact! Find Jobs in Netherlands on Arbeitnow",
+      "description": "Are you a Data Engineer who thrives on building robust, scalable, and secure data platforms in the cloud? Join the Data Chapter at Wypoon Technologies , where we match top-tier engineering talent with impactful opportunities across the Netherlands. You’ll help design and deliver end-to-end data solutions for leading organizations, working with cutting-edge technologies across Azure, GCP and hybrid environments. From building real-time streaming pipelines to implementing modern lakehouse architectures , your expertise will directly contribute to data-driven innovation in sectors like f inance , ecommerce, energy , logistics , and technology . Whether you’re passionate about big data processing, cloud infrastructure, or data automation, our goal is to connect you with projects that match your skills and ambitions. Why Join Us? At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell , tackling exciting challenges and delivering tailored enterprise solutions. Here’s what makes us stand out: ✔ Impactful Work : Shape the future of our clients’ digital landscapes. ✔ Innovative Environment : Collaborate within a supportive team that values learning and growth. ✔ State-of-the-art technology : Access the latest tools and platforms. Key Responsibilities Design, build, and maintain scalable data pipelines and workflows using Python, SQL, Airflow, and dbt . Develop cloud-based data solutions, primarily in GCP , while working with modern data architectures and modeling practices. Design technical architectures and translate business and product needs into scalable technical solutions . Develop clean, maintainable, and testable code using strong engineering and testing practices. Collaborate closely with product, data, engineering, and business stakeholders to define requirements and coordinate technical topics. Take ownership of solutions while aligning with technical peers and proactively contributing to team improvements. Requirements 5–7 years of Data Engineering experience in complex, fast-paced environments. Strong hands-on experience with Python and SQL . Strong experience with Apache Airflow or similar workflow orchestration tools. Experience with dbt or similar data transformation and modeling tools. Experience with GCP is preferred ; strong Azure or AWS experience is also considered. Strong knowledge of data modeling, data transformation, and architecture design . Experience building clean, maintainable, production-grade code with appropriate testing strategies . Experience with data analysis workflows using Polars, Pandas, or similar libraries . Strong ability to translate business and product requirements into technical designs . Comfortable with context switching , independent ownership, stakeholder collaboration, and working in a product-oriented environment. What We Offer Currently living in the Netherlands and eligible to work in the Netherlands . Competitive Compensation : Salary tailored to your skills and experience. Generous Time Off : 25 paid vacation days (based on a 40-hour work week). Tax Benefits : Eligibility for the 30% ruling. Travel Reimbursement : We've got your daily commute covered. Top-Notch Equipment : A high-quality device to ensure you work efficiently. Professional Development : Financial support for certifications, technical training, and language courses—because we value your long-term career growth. Comprehensive Relocation Assistance : Extensive support to help you settle in smoothly. Community & Fun : Enjoy team events and connect with developers from around the globe! Join Wypoon Technologies, where your expertise will thrive, your ideas will be valued, and your career will reach new heights. Apply now and make a real impact! Find more English Speaking Jobs in Netherlands on Arbeitnow",
       "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-engineer-amsterdam-62897",
       "source": "www.arbeitnow.com",
       "posted_at": "1792117819",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359": {
-      "id": "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359",
-      "title": "Team Lead, Data Engineering",
-      "company": "Datasnipper",
+    "6919020": {
+      "id": "6919020",
+      "title": "Senior Data Engineer",
+      "company": "Adyen",
       "location": "Amsterdam",
-      "description": "We are looking for a Data Engineering Team Lead to lead the Data Platform team at DataSnipper. Every decision DataSnipper makes about its products runs through the data platform: which features land, which customers are getting value, what we bill for, what we fix next, and which AI capabilities add the most value. You will lead a team of two data engineers who own the systems that make that possible. That means how usage events get captured across a growing set of products, how they become trustworthy models in Snowflake, and how Customer Success, Product and GTM get to answers without waiting on us. This is a player-coach role in a small, high-ownership team . You are responsible for the people, the roadmap and the technical direction, and you stay hands-on enough to ship alongside the team and make architectural calls credibly. At DataSnipper, Team Lead is our entry point into engineering management: the same people, delivery and product responsibilities as an Engineering Manager, on a smaller team. We are a handful of people serving the whole company, so your judgment about what not to build matters as much as what the team ships. About DataSnipper DataSnipper is the driving force behind an intelligent automation platform that’s transforming the world of audit and finance. Founded in 2017, DataSnipper has skyrocketed and is now OFFICIALLY the fastest-growing software company in the Netherlands according to Deloitte Fast50 and recently achieved Unicorn status in our latest funding round. With over 400.000 users in 125+ countries and a second base in the heart of New York City, DataSnipper is shaking things up. And we’re not stopping there. At DataSnipper, we’re always on the lookout for innovators who think outside of the box. New ideas aren’t just welcomed at DataSnipper–they’re essential. What your team owns The Data Platform team works across three areas: Data Platform : reliable, scalable infrastructure that gets the right data to the right place Internal Analytics : a self-service platform so every team can be data-informed without a ticket Customer-facing Analytics : the dashboards and exports customers use to see the value they get from DataSnipper Concretely, you would be walking into billions of usage events flowing from our Excel Add-in, web apps and product backends through Azure Event Hubs into Snowflake ; a dbt estate built on medallion principles and managed in dbt Cloud ; Terraform-managed Snowflake and Azure infrastructure; and a set of product teams shipping AI agents faster than we can instrument them . You will also find real, named open problems rather than a tidy platform: event capture mid-consolidation, multiple methods of user attribution, and a data quality layer that is designed but not yet built. We would rather tell you that up front. What you will do Lead the team Lead a team of two data engineers through outcomes, not tasks : set clear goals with the team and trust them to figure out how Make the team measurably better: raise the engineering bar, grow each engineer into bigger problems, and address performance issues directly when they arise Run regular 1:1s, give clear and timely feedback, and own each engineer's goals and development Foster a culture of experimentation, learning, documentation and operational excellence Take part in hiring and help shape the team's scope as it evolves Own direction and delivery Partner closely with Product, Engineering, Customer Success and GTM to shape the team's roadmap , turning vague data requests into scoped, well-defined work Make the trade-offs a small team serving the whole company needs: what to build, what to defer, and when a request shouldn't become a pipeline Set the technical direction and make the architectural calls that shape the team's systems Keep Snowflake performance and cost , tech debt, dependencies and compliance obligations (audit logging, vulnerability remediation, Vanta evidence) visible and under control Be the person other engineering teams come to when they need to instrument something new Stay hands-on in the data platform Contribute to the event ingestion architecture end to end: Azure Event Hubs, Snowpipe, Fivetran, and our shared Python/TypeScript event client libraries Build and review dbt transformation pipelines that stay reliable as volume, source count and model complexity grow Define and enforce event contracts and schemas so product teams can instrument new features without silent breakage downstream Evolve the core data models (event, user, license, company) and integrate new sources such as product backends, MongoDB, HubSpot and billing Guide reverse ETL and activation work that pushes modeled data back into HubSpot, MongoDB, Postgres and GTM reporting What you bring Leadership At least 1 year leading engineers as a team lead or engineering manager: 1:1s, feedback, goal setting, performance, and development An empowerment style of leadership : you lead through outcomes and trust, not by assigning tasks Early evidence of growing engineers and raising a team's bar, and the willingness to address performance issues directly Strong product aptitude : you can challenge the framing of a request, translate stakeholder needs into technical solutions, and make roadmap trade-offs Data engineering 7+ years in data engineering or a closely related backend/platform role, with a track record of owning a data platform area end to end Deep SQL and strong Python , including query optimization and performance tuning on a cloud warehouse Production experience with a cloud data warehouse (we use Snowflake ) and a modern transformation framework (we use dbt ) Experience with event-driven / streaming ingestion and its failure modes: schema drift, duplication, late data, backfills Experience on a cloud platform at the infrastructure level (we're on Azure ; AWS/GCP transfers fine) Solid data modeling fundamentals and the ability to defend a modeling decision to both engineers and business stakeholders Experience operating data systems in production with a focus on reliability, observability and maintainability How you work Excellent communication in English and genuine comfort working directly with non-technical stakeholders Bias to action, a strong sense of ownership, and the judgment to prioritize when demand exceeds capacity Preferred qualifications Experience in a startup or scale-up , ideally as an early member of a data team Experience hiring engineers or helping a team expand its scope Experience with product analytics tooling (Mixpanel, RudderStack) and warehouse-native BI (Netspring/Optimizely Analytics, Omni, Embeddable, or similar) Experience building data products for AI or agent consumption : semantic layers, metrics layers, MCP servers, or governed self-service access Experience with Terraform , Docker and data governance at scale Reverse ETL experience and familiarity with CRM data models (HubSpot, Salesforce) or customer success platforms What we offer Being part of one of the fastest-growing scale-ups in the Netherlands Make an impact by disrupting the audit industry with us A step into engineering management, with Engineering Manager scope on a small team 28 vacation days Excellent salary Pension plan Stock participation plan Hybrid work (Amsterdam-based) International team and environment Daily lunch Mental health support (OpenUp) Social events and team activities Recruitment steps Recruiter screen Hiring Manager interview System design interview Product interview Final interviews with Engineering leadership At DataSnipper, we believe great ideas come from different perspectives, experiences, and backgrounds. We are committed to building an inclusive workplace and providing every candidate with a fair and equitable hiring experience. Our hiring decisions are merit based and grounded in the skills, experience, potential, and capabilities relevant to the role. We welcome applicants regardless of age, race, ethnicity, nationality, gender, gender identity or expression, sexual orientation, religion, disability, or any other characteristic that makes you, you. What matters to us is what you can bring to the role, the team, and DataSnipper Find more English Speaking Jobs in Netherlands on Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/datasnipper/team-lead-data-engineering-amsterdam-286359",
+      "description": "<p><strong>This is Adyen</strong></p>\n<p><span style=\"font-weight: 400;\">Adyen provides payments, data, and financial products in a single solution for customers like Meta, Uber, H&amp;M, and Microsoft - making us the financial technology platform of choice. At Adyen, everything we do is engineered for ambition.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">For our teams, we create an environment with opportunities for our people to succeed, backed by the culture and support to ensure they are enabled to truly own their careers. We are motivated individuals who tackle unique technical challenges at scale and solve them as a team. Together, we deliver innovative and ethical solutions that help businesses achieve their ambitions faster.</span></p>\n<p><strong>Senior Data Engineer</strong></p>\n<p>At Adyen, we treat data and data artifacts as first-class citizens. They form our backbone and drive the business and product insights we generate. To this end, Adyen is looking for a Senior Data Engineers in Amsterdam. We’re looking for engineers that understand the business context and the data needs behind it, and excel in implementing high-quality data pipelines on our Big Data Platform. As a Senior Data Engineer at Adyen, you will play a crucial role in shaping our data infrastructure and ensuring the seamless flow of data across various systems.&nbsp;</p>\n<p><strong>What you’ll do</strong></p>\n<ul>\n<li><strong>Collaborative Solution Development</strong>: Engage with a diverse range of stakeholders, including data scientists, analysts, software engineers, product managers, and customers, to understand their requirements and craft effective solutions.</li>\n<li><strong>State-of-the-Art Pipelines and Architecture</strong>: Design, develop, deploy and operate high-quality production ELT pipelines and data architectures. Integrate data from various sources and formats, ensuring compatibility, consistency, and reliability. Design scalable architectures.&nbsp;</li>\n<li><strong>Champion Data Best Practices</strong>: Proactively establish and advocate for best practices in performance, code quality, data validation, data governance, and discoverability across Adyen through mentoring, training, and knowledge sharing.</li>\n<li><strong>High Quality Data and Code:</strong> Ensure data is accurate, complete, reliable, relevant, and timely. Implement rigorous testing, monitoring and validation protocols for your code and data, leveraging tools such as Pytest.</li>\n<li><strong>Performance Optimization</strong>: Identify and resolve performance bottlenecks in data pipelines and systems. Optimize query performance and resource utilization to meet SLAs and performance requirements, using technologies such as caching, indexing, partitioning, and other Spark optimizations.</li>\n</ul>\n<p><strong>Who you are</strong></p>\n<ul>\n<li><strong>Experienced in Big Data:</strong> Over 7 years of experience working as a Data Engineer or in a similar role.</li>\n<li><strong>Data &amp; Engineering practices:</strong> You possess an expert-level understanding of both Software and Data Engineering practices.</li>\n<li><strong>Technical Super Star:</strong> Highly proficient in tools and languages such as: Python, PySpark, Airflow, Hadoop, Spark, Kafka, SQL, Git.&nbsp;</li>\n<li><strong>Clear Communicator:</strong> Skilled at articulating complex data-related concepts and outcomes to a diverse range of stakeholders.&nbsp;</li>\n<li><strong>Self-starter:</strong> Capable of independently recognizing opportunities, devising solutions, leading, prioritizing and owning projects.&nbsp;</li>\n<li><strong>Innovator:</strong> You have an experimental mindset with a ‘launch fast and iterate’ mentality.</li>\n<li><strong>Data Culture Champion:</strong> Experienced in fostering a data-centric culture within large, technical organizations and setting standards for excellence and continuous improvement.&nbsp;</li>\n</ul>\n<p><strong>Data positions at Adyen</strong></p>\n<p>We know companies handle different definitions for their data-related positions, this is for instance dependent on the size of a company. Since the birth of the Data Solution and the growth of all data streams, we categorized and defined all our positions. Have a look at<a href=\"https://www.adyen.com/knowledge-hub/roles-scaling-up-data-culture\" target=\"_blank\"> this blogpost</a> to find out!&nbsp;</p>\n<p>Teams we're currently hiring for:</p>\n<ul>\n<li>Uplift Protect</li>\n<li>Balance Transactions</li>\n<li>Payment Lifecycle Data</li>\n<li>Optimise Interfaces</li>\n<li>Payment Pricing</li>\n</ul>\n<p><strong>Our Diversity, Equity and Inclusion commitments&nbsp;</strong></p>\n<p><span style=\"font-weight: 400;\">Our unique approach is a product of our diverse perspectives. This diversity of backgrounds and cultures is essential in helping us maintain our momentum. Our business and technical challenges are unique, and we need as many different voices as possible to join us in solving them - voices like yours. No matter who you are or where you’re from, we welcome you to be your true self at Adyen.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Studies show that women and members of underrepresented communities apply for jobs only if they meet 100% of the qualifications. Does this sound like you? If so, Adyen encourages you to reconsider and apply. We look forward to your application!</span></p>\n<p><strong>What’s next?</strong></p>\n<p><span style=\"font-weight: 400;\">Ensuring a smooth and enjoyable candidate experience is critical for us. We aim to get back to you regarding your application within 5 business days. Our interview process tends to take about 4 weeks to complete, but may fluctuate depending on the role. </span><a href=\"https://careers.adyen.com/how-we-hire\"><span style=\"font-weight: 400;\">Learn more about our hiring process here</span></a><span style=\"font-weight: 400;\">. Don’t be afraid to let us know if you need more flexibility.</span></p>\n<p>This role is based out of our Amsterdam office. We are an office-first company and value in-person collaboration; we do not offer remote-only roles.</p>\n<p>&nbsp;</p>",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/6919020",
+      "source": "Greenhouse",
+      "posted_at": "2026-10-16T08:54:26-04:00",
+      "first_seen": "2026-10-17T11:33:55.048309+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/alloy/senior-solutions-architect-london-252113": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/alloy/senior-solutions-architect-london-252113",
+      "title": "Senior Solutions Architect",
+      "company": "Alloy",
+      "location": "London",
+      "description": "<h2>Alloy is where you belong!</h2>\n<p>Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits. More than 900 of the world's leading financial institutions and fintechs trust Alloy for smarter risk management that drives growth.<br><br>Through our values: Be Bold, Go Fast, Collaborate, and Celebrate Our Differences, we are creating a workplace where you can grow, thrive, and belong. See how we’ve been continuously recognized and named one of <a href=\"https://www.inc.com/profile/alloy_ny\" target=\"_blank\">Inc. Magazine’s Best Workplaces</a>, <a href=\"https://www.forbes.com/companies/alloy/?list=americas-best-startup-employers&amp;sh=55c076453c61\" target=\"_blank\">Forbes America’s Best Startup Employers</a>, <a href=\"https://www.americanbanker.com/list/best-places-to-work-in-fintech-2022\" target=\"_blank\">Best Fintech to Work for by American Banker</a>, year after year.<br><br>Check out our investors and read more about us <a href=\"https://www.alloy.com/about\" target=\"_blank\">here</a>.</p>\n<h2>About the team</h2>\n<p>Solutions Architects play a major role in Alloy’s Technical Solutions organization and are paramount to deal success. The Solutions Architect is responsible for delivering the technical win for client accounts. You will handle the technical post-sales relationship, present product fit, propose technical architectures, demonstrate the product, anticipate concerns, and offer creative technical solutions to Alloy clients.</p>\n<p>Alloy operates in a hybrid-work environment. We look to foster collaboration and community by having our employees onsite three days a week.</p>\n<h2><strong>What you'll be doing</strong></h2>\n<p>As a Senior Solutions Architect, you'll:</p>\n<ul>\n<li>Act as the technical lead on multiple client implementations and larger client project engagements, working closely with Alloy Implementations Managers</li>\n<li>Conduct technical and architectural overviews of client needs to propose Alloy product solutions to deliver on the client’s business goals</li>\n<li>Act as an expert advisor on the data vendors Alloy integrates with</li>\n<li>Help to integrate Alloy's API into an app in code</li>\n<li>Independently run end to end testing to ensure a successful client go live</li>\n<li>Be a part of a client production readiness and support production launches (these occasionally occur outside of 9a-5p hours)</li>\n<li>Serve as a client advocate by advocating for the evolution of Alloy’s products and services and driving client adoption of new capabilities&nbsp;</li>\n<li>Support the development of technical documentation and FAQs to serve client needs</li>\n</ul>\n<h2><strong>Who we’re looking for</strong></h2>\n<p>You are both highly technical and a skilled relationship builder. You are comfortable in front of a variety of audiences, from explaining Alloy’s best practices to a bank’s compliance team to mapping an API flow on a whiteboard with a Fintech product and Engineering team. Alloy’s post-sales process is highly consultative and requires our team to be flexible, creative, and empathetic.</p>\n<ul>\n<li>4+ years experience implementing and supporting complex technical products with a strong desire to work in a post-sales, client-facing role</li>\n<li>Experience working in the fraud, KYC/KYB, Risk/Compliance and/or at a Fintech Startup</li>\n<li>Hands-on, passionate and creative problem solver</li>\n<li>Brings judgement to client discussions, focused on leading clients to successful outcomes aligned with their long term business goals</li>\n<li>Excellent communicator and presenter able to gain diverse audience confidence and buy-in</li>\n<li>Ability to build a deep understanding of a client's needs and guide them to a technical solution</li>\n<li>Proven success in problem-solving with and for enterprises with a variety of requirements and technical ability levels</li>\n<li>Experience working with REST APIs</li>\n<li>Previous software development experience in one or more of the following areas is preferred:\n<ul>\n<li>backend (Node.js, Python)</li>\n<li>web development (Javascript, HTML/CSS, frontend frameworks - React)</li>\n</ul>\n</li>\n<li>Able to travel occasionally (approximately once per quarter) for client on-sites.</li>\n</ul>\n<p>We're a lean team, so your impact will be felt immediately, and opportunities will grow as the company scales up. If this all sounds like a good fit for you, why not join us?</p>\n<p>Alloy is committed to fair and equitable compensation practices. Below is the anticipated starting base compensation range for this role; however, pay may vary depending on job-related knowledge, in-demand skills, relevant experience, and/or geography. In addition to a competitive base salary, this position is also eligible for equity awards in the form of stock options (ISOs) as well as a competitive total benefits package. Your recruiter will be happy to walk you through the details and what compensation could look like for you specifically!</p>\n<h2>Benefits and Perks&nbsp;</h2>\n<ul>\n<li>Unlimited holiday and flexible work policy</li>\n<li>Pension with employee contribution</li>\n<li>Up to 100% compensation for 16 weeks of parental leave</li>\n<li>Home office stipend for new employees</li>\n<li>Annual £900 learning &amp; development stipend</li>\n<li>Equity plan</li>\n<li>Uncapped commissions</li>\n<li>Training programs to help foster growth (Alloy Foundations, Alloy Lead, Etc.)</li>\n<li>Private health and dental care</li>\n</ul>\n<h2>How to apply</h2>\n<p>Apply right here! You've found the application!</p>\n<p>Alloy is proud to be an equal-opportunity workplace and employer. We’re committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status. We are committed to an inclusive interview experience and provide reasonable accommodations to applicants with visible and invisible disabilities. We encourage applicants to share needed accommodations with their recruiter.</p>\n<p>All Alloy jobs are listed on our careers page. Any communication during the recruitment process, including interview requests or job offers, will come directly from a recruiting team member with an <a href=\"http://alloy.com/\">alloy.com</a> email address. We do not use outside applications or automated text messaging in our recruiting process. We will not ask for any sensitive financial or identification information during the recruiting process. If you’re ever unsure, please contact us directly via our website before sharing personal information.</p> Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alloy/senior-solutions-architect-london-252113",
       "source": "www.arbeitnow.com",
-      "posted_at": "1792064441",
-      "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-16T12:17:17.571407+00:00",
+      "posted_at": "1792216515",
+      "first_seen": "2026-10-17T11:33:55.048309+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-94528": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-94528",
+      "title": "Senior Software Engineer in Build Engineering",
+      "company": "Graphcore",
+      "location": "London",
+      "description": "<h2><strong>About Graphcore&nbsp;</strong></h2>\n<p>Graphcore&nbsp;is one of the world’s leading innovators in Artificial Intelligence compute. &nbsp;</p>\n<p>It is developing hardware, software and systems infrastructure that will unlock the next generation of AI breakthroughs and power the widespread adoption of AI solutions across every industry. &nbsp;</p>\n<p>As part of the SoftBank Group,&nbsp;Graphcore is a member of an elite family of companies responsible for some of the world’s most transformative technologies. Together, they share a bold vision: to enable Artificial Super Intelligence and ensure its benefits are accessible to everyone.  &nbsp;</p>\n<p>Graphcore’s teams are drawn from diverse backgrounds and bring a broad range of skills and perspectives. A melting pot of AI research specialists, silicon designers, software engineers and systems architects, Graphcore enjoys a culture of continuous learning and constant innovation.</p>\n<h2><strong>Job Summary</strong></h2>\n<p>Join our dynamic Software Infrastructure team and take a pivotal role in scaling and managing our infrastructure. You will develop essential tools and services that empower our broader software team. Your contributions will enhance the build, test, deployment, and productisation processes of our Machine Learning Software components. Work with our High-Performance Computing (HPC) AI platforms and gain invaluable experience in distributed systems.</p>\n<h2><strong>The Team</strong></h2>\n<p><span class=\"TextRun SCXW134242993 BCX4\" lang=\"EN-GB\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW134242993 BCX4\">An exciting opportunity to join a new team within the Software Operations group. The Build Engineering team is a new function within Software Infrastructure, which focuses on the overall process of building and integration of the Machine Learn</span><span class=\"NormalTextRun SCXW134242993 BCX4\">ing</span><span class=\"NormalTextRun SCXW134242993 BCX4\"><span class=\"Apple-converted-space\">&nbsp;</span>S</span><span class=\"NormalTextRun SCXW134242993 BCX4\">oftware</span><span class=\"NormalTextRun SCXW134242993 BCX4\"><span class=\"Apple-converted-space\">&nbsp;</span></span><span class=\"NormalTextRun SCXW134242993 BCX4\">S</span><span class=\"NormalTextRun SCXW134242993 BCX4\">tack. You will work closely with the QA and development teams to get an understanding of how our ML SW stack is built, helping to ensure good build practices, and proving that the stack<span class=\"Apple-converted-space\">&nbsp;</span></span><span class=\"NormalTextRun SCXW134242993 BCX4\">works together and</span><span class=\"NormalTextRun SCXW134242993 BCX4\"><span class=\"Apple-converted-space\">&nbsp;</span>is reproducible<span class=\"Apple-converted-space\">&nbsp;</span></span><span class=\"NormalTextRun SCXW134242993 BCX4\">in secure, sandboxed environments.&nbsp;</span></span><span class=\"EOP SCXW134242993 BCX4\" data-ccp-props=\"{&quot;335559738&quot;:195,&quot;335559739&quot;:195}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"auto\">Responsibilities and Duties</span></strong><span data-ccp-props=\"{&quot;335559738&quot;:195,&quot;335559739&quot;:195}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Developing our&nbsp;internal tooling&nbsp;for&nbsp;building,&nbsp;testing&nbsp;and integrating together&nbsp;the ML Software Stack</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Developing tools and technical processes for Software Releases</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Providing guidance&nbsp;to developers&nbsp;on&nbsp;best&nbsp;build&nbsp;practices&nbsp;and dependency management</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Communicating&nbsp;regularly with&nbsp;developers,&nbsp;tech leads,&nbsp;and&nbsp;software&nbsp;architects&nbsp;about&nbsp;aspects of the ML&nbsp;Software Stack</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">Working closely with QA and the ML Software Stack to resolve any integration issues</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"1\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Contributing fixes towards the ML Software Stack</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<p><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span><strong><span data-contrast=\"auto\">Essential:</span></strong><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"3\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Knowledge of Python/C++ (or similar language)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"3\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Understanding&nbsp;of&nbsp;Build&nbsp;Processes and&nbsp;Frameworks</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"3\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience working in Linux environments</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"3\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Good communication&nbsp;skills&nbsp;</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<p><strong><span data-contrast=\"auto\">Desirable:</span></strong><span data-ccp-props=\"{&quot;335559738&quot;:195,&quot;335559739&quot;:195}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience with&nbsp;Remote&nbsp;Caching and&nbsp;Execution&nbsp;(e.g. Bazel)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience with&nbsp;Build Tools&nbsp;(e.g.&nbsp;CMake)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience with Testing Frameworks (e.g.&nbsp;PyTest,&nbsp;GoogleTest)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience with Integration Tools (e.g.&nbsp;Buildstream)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience working within the Software Development Lifecycle (SDLC)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"auto\">Experience with building and using containers (e.g. Docker,&nbsp;Podman)</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"2\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"auto\">An understanding of Software Architecture patterns</span><span data-ccp-props=\"{&quot;335559739&quot;:0}\">&nbsp;</span>\n<h2><strong>Benefits</strong></h2>\n<p>In addition to a competitive salary, Graphcore offers flexible working, a generous annual leave policy, private medical insurance and health cash plan, a dental plan, pension (matched up to 5%), life assurance and income protection. We have a generous parental leave policy and an employee assistance programme (which includes health, mental wellbeing, and bereavement support). We offer a range of healthy food and snacks at our central Bristol office and have our own barista bar! We welcome people of different backgrounds and experiences; we’re committed to building an inclusive work environment that makes Graphcore a great home for everyone. We offer an equal opportunity process and understand that there are visible and invisible differences in all of us. We can provide a flexible approach to interview and encourage you to chat to us if you require any reasonable adjustments.</p>\n<p><em data-stringify-type=\"italic\">Applicants for this position must hold the right to work in the UK. Unfortunately at this time, we are unable to provide visa sponsorship or support for visa applications</em></p>\n</li>\n</ul>\n<p>&nbsp;</p> Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-94528",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1792216515",
+      "first_seen": "2026-10-17T11:33:55.048309+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866",
+      "title": "Senior Data Engineer",
+      "company": "Xyz Reality",
+      "location": "London Office",
+      "description": "About Us At XYZ Reality, we are an award-winning Series B business scaling across the UK, US and Europe. Our mission is to expand our platform, enhancing features, performance, and scalability while revolutionizing the construction industry. We are a multi-disciplinary, fast-paced company working across diverse domains, including cloud development, data governance and processing pipelines, electronics, embedded software/hardware, mechanical design/manufacturing, AI & computer vision, and data science, all powering our BIM Platform. To drive this mission, we are seeking a Data Engineer experienced in data modelling, databases and data pipelines to support our existing tech stack as well as developing new features with performance, scalability in mind. You will work closely with our API/backend development and data pipeline team to create robust and efficient solutions. Responsibilities · Design, develop and maintain Python data pipelines. · Develop SQL queries and procedures to be used by data pipeline and API services. · Debug, maintain and improve our existing codebase. · Develop and execute unit tests and integration tests to ensure software reliability. · Conduct performance profiling and stress testing to optimize system responsiveness. · Maintain clear, structured documentation for data models and ETL/ELT pipelines and codebases. · Collaborate closely with cross-functional teams, including client applications and cloud teams. · Stay adaptable, learning new technologies and contributing to various technical areas as needed. Required Skills & Experience · Bachelor’s degree in computer science or a related field or equivalent proven experience in database and data pipeline development. · Hands-on experience with code-driven data orchestration tools. · Solid experience with relational databases and SQL. · Strong Python language and OOP skills. · Experience in data modelling for both transactional systems and analytical systems. · Strong debugging, troubleshooting, and performance optimization skills. · Proficiency with Git, including active participation in code reviews. · Excellent communication and teamwork skills. · Keen in developing in-house tech stacks as well as utilizing off-the-shelf components to build a robust solution. Preferred Qualifications · Familiarity with CI/CD and database migration tooling. · Knowledge of REST/GraphQL or other API design methodologies. · Familiarity with working in Linux based environments. · Experience with containers and container orchestration. · Experience in Test-Driven Development (TDD), PyTest and software design patterns. What We Offer 🏝️ 25 days annual leave + public holidays 🩺 Private healthcare with Vitality 🎄 Christmas shutdown days on top of leave allowance (2-4 per year usually) 🚇 Office located within a 5-minute walk from Angel station 🏠 Hybrid working 🪙 Biannual salary reviews 🥳 Summer & Christmas staff parties 🍣 Free lunch bought in and after-work gathering/drinks every other Thursday in the office 💰 Employee referral scheme 🚀 Make a real-world impact of revolutionising the construction industry If you'd like to see the products and technology we have created so far on our journey you can view it in action through our YouTube and Website Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/senior-data-engineer-london-213866",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1792215630",
+      "first_seen": "2026-10-17T11:33:55.048309+00:00",
+      "last_seen": "2026-10-17T11:33:55.048309+00:00",
       "analysis": {}
     }
   }
