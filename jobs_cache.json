@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:30:47.899175+00:00",
+  "updated_at": "2026-10-26T14:08:33.492248+00:00",
   "jobs": {
     "7175503": {
       "id": "7175503",
@@ -11,7 +11,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T11:57:20-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8172852": {
@@ -24,7 +24,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-07T04:53:28-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8096176": {
@@ -37,7 +37,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-19T17:04:51-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7942731": {
@@ -50,7 +50,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-27T08:41:13-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8704938002": {
@@ -63,7 +63,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8720252002": {
@@ -76,7 +76,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8195967": {
@@ -89,7 +89,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-10T20:22:56-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7989158": {
@@ -102,7 +102,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-18T18:23:12-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8656202002": {
@@ -115,7 +115,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:45:55-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8567991002": {
@@ -128,7 +128,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:28:47-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8768938002": {
@@ -141,20 +141,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:59:11-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
-      "analysis": {}
-    },
-    "8023162": {
-      "id": "8023162",
-      "title": "Credit Model Validation Manager (Machine Learning & NPV Models)",
-      "company": "Monzo",
-      "location": "Cardiff, London or Remote (UK)",
-      "description": "<div class=\"content-intro\"><p><strong><em>🚀 We’re on a mission to make money work for everyone.</em></strong></p>\n<p>We’re waving goodbye to the complicated and confusing ways of traditional banking.</p>\n<p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;<a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"https://monzo.com/business-banking\">business</a> bank accounts, we offer <a href=\"https://monzo.com/current-account/joint-account\">joint accounts</a>, <a href=\"https://monzo.com/current-account/16-17\">accounts for 16-17 year olds</a>, a <a href=\"https://monzo.com/current-account/under-16s\">free kids account</a> and <a href=\"https://monzo.com/flex\">credit cards</a> in the UK, with more exciting things to come beyond. Our UK customers can also <a href=\"https://monzo.com/savings\">save</a>, <a href=\"https://monzo.com/investments\">invest </a>and&nbsp;<a href=\"https://monzo.com/pensions\">combine their pensions</a> with us.&nbsp;</p>\n<p>With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!</p>\n<p>We’re not about selling products - we want to solve problems and change lives through Monzo ❤️</p>\n<hr>\n<p>&nbsp;</p></div><p>📍London or Remote (UK)&nbsp; | 💰 £79,000 - £93,000 + Incentive Awards tied to your performance +<a href=\"https://monzo.com/careers/\"> Benefits</a></p>\n<p><strong>🌟 About the team:</strong></p>\n<p>Our Borrowing (lending) business is growing rapidly across both existing products and with the planned launch of new initiatives. As our lending portfolio grows, our second line of defence Credit Model Validation team is growing with it - and we’re looking for a Credit Model Validation Manager to join us!</p>\n<p>Our Credit Model Validation team is crucial in providing independent oversight and challenge to our model development teams in the first line of defence to help Monzo grow safely and ensure that the models we use deliver good outcomes for our customers. We’re looking for someone (maybe you?!) to join our validation squad and provide expert independent validation and oversight across our suite of credit models, covering critical business disciplines such as credit strategy and impairment.</p>\n<p>You’ll have a particular focus on models used for customer-level decisioning and defining our credit strategies - such as underwriting scorecards, origination PD models and Net Present Value (NPV) / unit economics models - across all our lending products.</p>\n<p>Strong data and analytical skills are a must, as is deep expertise in credit risk modelling. You’ll have hands-on experience in either model validation or model development within a financial services environment, including practical experience using Python to develop, validate or analyse machine learning and statistical models. . In-depth knowledge of credit decisioning models would be a strong plus.&nbsp;</p>\n<p><strong>🔑 You’ll play a key role by…</strong></p>\n<ul>\n<li>Leading hands-on independent validation of models used for credit decisioning within our Borrowing strategies - covering a range of machine learning, decision science and NPV models. You will be ensuring that models are fit for purpose, appropriately governed, explainable and performing as expected</li>\n<li>Supporting oversight and validation of broader credit risk models, including IFRS9, stress testing and economic response models</li>\n<li>Developing deep understanding of Monzo’s credit models, and using this to provide impactful input and challenge to model developers to improve our modelling capabilities</li>\n<li>Reviewing ongoing model performance monitoring to ensure our lending models perform within our risk thresholds, and providing support to our first line of defence teams when action is required</li>\n<li>Performing statistical analyses to independently assess model performance, including developing challenger models where appropriate to test model assumptions and strengthen validation conclusions</li>\n<li>Improving our Model Risk Framework, including overseeing our policies, standards and procedures to help embed best practice across the business. This means making sure we follow up-to-date regulatory guidelines, and adapt our processes to make sure they remain relevant as modelling techniques evolve</li>\n<li>Writing clear and impactful model validation reports, and presenting the findings and actions in relevant committees</li>\n<li>Partnering with colleagues in the first line of defence credit strategy and modelling teams - and wider risk teams across Monzo - to support the embedding of our model risk framework and establishing consistent validation standards across the organisation</li>\n<li>Embracing new and innovative technology, including leading the adoption of AI tools to enhance our model validation approach</li>\n</ul>\n<p><strong>&nbsp;🤩 We’d love to hear from you if…</strong></p>\n<ul>\n<li>Have a strong background and practical experience in credit model development and/or validation - in particular with exposure to machine learning or statistical models used in credit decisioning, such as decision science scorecards, origination / underwriting PD models, and NPV / unit economics modelling</li>\n<li>Are data driven, with strong analytical skills and deep understanding of statistical techniques for credit and model risk. Being able to get hands on with data is critical - so strong SQL and Python skills are essential, and experience with data visualisation tools such as Tableau, Looker or similar is a plus!</li>\n<li>Understand how models are used in real-time decisioning and lending strategies, and how to balance commercial and risk outcomes</li>\n<li>Have strong written and verbal communication skills, and are able to articulate problems and solutions using clear and simple language. This is particularly important for breaking down complex issues and priorities to non-experts</li>\n<li>Have a track record of building and maintaining trusting relationships with stakeholders at all levels, and can provide effective and respectful challenge</li>\n<li>Are impact-driven, and proactive in identifying issues and opportunities to improve outcomes for both our customers and our business</li>\n<li>Are passionate about technology, and what we’re doing here at Monzo excites you!</li>\n</ul>\n<p><strong>Our technology stack</strong></p>\n<p>We rely heavily on the following tools and technologies (note we do not expect applicants to have prior experience of all them):</p>\n<ul>\n<li><a href=\"https://cloud.google.com/\">Google Cloud Platform</a> for all of our analytics infrastructure</li>\n<li><a href=\"https://www.getdbt.com/\">dbt</a> and<a href=\"https://cloud.google.com/bigquery/\"> BigQuery SQL</a> for our data modelling and warehousing</li>\n<li>Python for data science and machine learning</li>\n<li><a href=\"http://golang.org/\">Go</a> to write our application code</li>\n<li><a href=\"http://aws.amazon.com/\">AWS</a> for most of our backend infrastructure</li>\n</ul>\n<p><strong>The interview process:&nbsp;</strong></p>\n<p>Our interview process usually involves up to four main stages via Google Hangouts:&nbsp;</p>\n<ul>\n<li>An initial call with our recruiter</li>\n<li>A call with our Senior Model Validation Manager, the hiring manager for the role&nbsp;</li>\n<li>A role-specific call with colleagues from our credit modelling teams. We’ll share a short case study in advance, but you won’t need to submit a written response; we’ll use it to guide the discussion during the interview.</li>\n<li>A behavioural interview&nbsp;<br><br>\n<p><strong>🙌 What’s in it for you</strong></p>\n</li>\n<ul>\n<li>💰 £79,000 - £93,000 + Incentive Awards tied to your performance benefits.<br><br></li>\n<li>📍 This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).<br><br></li>\n<li>⏰ We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.<br><br></li>\n<li>📚 £1,000 learning budget each year to use on books, training courses and conferences.<br><br></li>\n<li>🏡 We will set you up to work from home; all employees are given MacBooks and for fully remote workers we will provide extra support for your work-from-home setup.<br><br></li>\n<li>➕ Plus lots more! Read our full list of&nbsp;<a href=\"https://monzo.com/careers\">benefits</a>.<br><br></li>\n</ul>\n</ul>\n<p>We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo. You can read them <a href=\"https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo\">here</a>.</p>\n<p>We’ll close this role once we have enough applications for the next stage, so please apply as soon as you can - we don’t want you to miss out!<br><br>LinkedIn Tags: <strong>#LI-TK1</strong></p><div class=\"content-conclusion\"><hr>\n<p><strong>Equal opportunities for everyone</strong></p>\n<p>Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our <a href=\"https://monzo.com/blog/diversity-and-inclusion\">blog</a>, 2026 <a href=\"https://monzo.com/blog/our-2026-diversity-and-inclusion-report\" target=\"_blank\">Diversity and Inclusion Report</a> and 2025 <a href=\"https://monzo.com/blog/gender-pay-gap-report-2025\">Gender Pay Gap Report.</a></p>\n<p>We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.</p>\n<p>If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊</p></div>",
-      "url": "https://job-boards.greenhouse.io/monzo/jobs/8023162",
-      "source": "Greenhouse",
-      "posted_at": "2026-09-25T05:17:09-04:00",
-      "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7996955": {
@@ -167,7 +154,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-25T05:17:09-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8018513": {
@@ -180,7 +167,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8018517": {
@@ -193,7 +180,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7788552003": {
@@ -206,7 +193,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7548628003": {
@@ -219,7 +206,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7539051003": {
@@ -232,7 +219,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7784638003": {
@@ -245,7 +232,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8174075": {
@@ -258,7 +245,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:31:54-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7820250003": {
@@ -271,7 +258,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:47:10-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "7785674003": {
@@ -284,7 +271,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:47:13-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8704662002": {
@@ -297,7 +284,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T09:44:25-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8755487002": {
@@ -310,7 +297,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T09:39:39-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8605722002": {
@@ -323,7 +310,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T09:42:23-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8533904002": {
@@ -336,7 +323,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:56-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8562401002": {
@@ -349,7 +336,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:45:41-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "4730846005": {
@@ -362,7 +349,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "4730862005": {
@@ -375,7 +362,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8156166": {
@@ -388,7 +375,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:46:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8614459002": {
@@ -401,7 +388,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:39:09-04:00",
       "first_seen": "2026-09-18T12:13:10.553096+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8223681": {
@@ -414,7 +401,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-01T12:57:36-04:00",
       "first_seen": "2026-09-23T12:44:44.224201+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8856501002": {
@@ -427,7 +414,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T11:59:13-04:00",
       "first_seen": "2026-09-30T13:35:49.416985+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8245606": {
@@ -440,7 +427,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:40-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8245625": {
@@ -453,7 +440,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:26-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8836789002": {
@@ -466,7 +453,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T12:15:32-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8245673": {
@@ -479,7 +466,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T04:43:15-04:00",
       "first_seen": "2026-10-02T13:48:52.302238+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8458941002": {
@@ -492,7 +479,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T05:07:31-04:00",
       "first_seen": "2026-10-06T14:08:50.727058+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8881592002": {
@@ -505,7 +492,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:51-04:00",
       "first_seen": "2026-10-10T13:33:35.104582+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8884753002": {
@@ -518,7 +505,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T12:09:39-04:00",
       "first_seen": "2026-10-14T12:50:17.690001+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8870159002": {
@@ -531,7 +518,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T10:22:04-04:00",
       "first_seen": "2026-10-15T12:38:08.369853+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8288668": {
@@ -544,7 +531,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:38:01-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8288674": {
@@ -557,7 +544,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:39:37-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "6919020": {
@@ -570,7 +557,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T08:54:26-04:00",
       "first_seen": "2026-10-17T11:33:55.048309+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8895472002": {
@@ -583,7 +570,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T05:32:13-04:00",
       "first_seen": "2026-10-19T14:35:07.152630+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8885043002": {
@@ -596,7 +583,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-21T09:41:52-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8902107002": {
@@ -609,7 +596,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T07:13:51-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8902111002": {
@@ -622,7 +609,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T07:17:44-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
     "8306622": {
@@ -635,46 +622,59 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-21T13:17:27-04:00",
       "first_seen": "2026-10-22T12:57:05.729475+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-solutions-architect-158679": {
-      "id": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-solutions-architect-158679",
-      "title": "Solutions Architect",
-      "company": "Livekit",
-      "location": "United Kingdom (Remote)",
-      "description": "ABOUT LIVEKIT LiveKit is building the infrastructure layer for the agentic era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe AI agents in production. Founded in 2021, LiveKit powers voice and agentic AI applications for OpenAI, Salesforce, Spotify, Meta, and tens of thousands of other developers, collectively facilitating billions of calls each year. ABOUT THIS ROLE We're hiring a Solutions Architect (Pre-Sales) to be the technical partner to the engineers and enterprises building on LiveKit. You'll work alongside an account executive to understand what a customer is trying to build, design the right architecture, and bring it to life with live demos and proofs-of-concept — guiding teams from first conversation to production. This role is ideal for someone who loves to build, is energized by talking with other engineers, and takes pride in turning a hard technical problem into something that just works. Real-time voice and video is visceral — latency, quality, and reliability are felt, not read about — so the best conversations include something live. You'll collaborate closely with our Sales, Engineering, Product teams to win technical decisions and to make sure what you hear in the field informs how we build. YOU'LL THRIVE HERE IF YOU: love to build and solve the most challenging customer problems with LiveKit have a curious mind with a continuous desire to learn and improve enjoy demoing and presenting, whether to a room of engineer,  to a CTO or at a conference have a team first mentally, seeking to lift others around you as you progress in your career WHAT YOU'LL DO Partner with an account executive as the technical lead on strategic deals — from discovery and architecture design through demos, POCs, and technical decisions Advise customers on cloud architecture and deployment across self-hosted and LiveKit Cloud (AWS, GCP, Azure) Build live demos and reference applications — voice agents, video pipelines, telephony integrations — tailored to each customer's use case, and reusable by the wider team Scope and run proofs-of-concept against clear, shared success criteria, guiding customers all the way to production Reason with customers about connectivity, infrastructure, and end-to-end latency to design for scale and reliability Create technical content — blog posts, guides, webinars, and conference talks — that helps developers and enterprises build with LiveKit Act as the technical enabler for your region's pod, and share field insight with Product and Engineering to help shape the roadmap WHO YOU ARE 4+ years in solutions architecture, sales engineering, or a customer-facing engineering role (or equivalent hands-on engineering experience with strong customer instincts) Hands-on experience with at least one major cloud provider (AWS, GCP, or Azure) — you can architect, deploy, and debug real applications Comfortable with the modern deployment toolchain: containers, Kubernetes, infrastructure-as-code, and networking fundamentals (load balancing, DNS, firewalls/NAT) Able to reason about connectivity, infrastructure, and latency end to end — how architecture, network path, compute, co-location, and model choice shape the AI agentic experiences of today Strong programming ability in at least one of our core SDK languages — Python, TypeScript/Node, or Go A clear communicator who can demo, present, and write for technical audiences NICE TO HAVE Working knowledge of real-time media protocols and their latency/quality trade-offs (WebRTC, RTP/SRTP, WebSockets) Familiarity with the AI voice stack: STT/TTS providers, LLM integration, speech-to-speech models, turn detection, and telephony/SIP Experience speaking at meetups or conferences, or a track record of technical writing or open-source contributions OUR COMMITMENT TO YOU An opportunity to build something truly impactful to the world Contribute to open source alongside world-class engineers Competitive salary and equity package Flexible vacation policy LiveKit is an equal opportunity employer and does not discriminate on the basis of any characteristic protected by applicable law. If you require a reasonable accommodation during the application or interview process, please contact • Solutions Engineer £160K – £240K • Offers Equity • The range above is On-Target Earnings (OTE), split 70% base salary and 30% variable, and covers multiple levels. Where you land depends on experience and the level we hire at. Find Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/livekit/remote-solutions-architect-158679",
+    "8324146": {
+      "id": "8324146",
+      "title": "Senior Software Engineer - OTCTECH",
+      "company": "Flow Traders",
+      "location": "Amsterdam ",
+      "description": "<p>Flow Traders is transforming its institutional trading platform across Equities, ETFs, Fixed Income, and Crypto. As part of OTCTECH, you will work directly with traders, quants, Operations, Risk, and Compliance to design and deliver a new OTC Trading Engine, automate operational workflows, and modernise existing applications into reliable, maintainable systems.</p>\n<p>We are looking for a Senior Software Engineer who can take ownership of complex problems from discovery through production. You will need to understand how trading activities and data flow across systems, define clear technical boundaries, make sound architectural decisions, and build solutions that perform reliably in a demanding environment.</p>\n<p>This role combines greenfield platform development with the opportunity to understand and evolve an established technology estate. It is grounded in strong engineering fundamentals, with quality, correctness, operational resilience, and clear technical judgment at its foundation.</p>\n<p></p>\n<h4>What you will do</h4>\n<h4>Understand the Trading Domain</h4>\n<ul>\n<li>Work directly with traders, quants, Operations, Risk, and Compliance to understand requirements and how trading workflows operate in practice.</li>\n<li>Trace business processes and data flows across pre-trade research, execution, post-trade processing, risk, and compliance.</li>\n<li>Identify opportunities to improve resilience, consistency, automation, and operational efficiency.</li>\n<li>Build a shared understanding of system responsibilities, dependencies, and operational considerations.</li>\n<li>Design and Modernise the Platform<br>Help design and deliver a new OTC Trading Engine spanning Equities, ETFs, Fixed Income, and Crypto.</li>\n<li>Define appropriate service boundaries, data models, interfaces, and event flows.</li>\n<li>Modernise existing applications where new business or engineering requirements create opportunities for improvement.</li>\n<li>Make and document architectural decisions, balancing performance, reliability, simplicity, and delivery speed.</li>\n<li>Design greenfield services and platforms that can be operated and evolved safely over time.</li>\n</ul>\n<h4>Build Reliable Trading Systems</h4>\n<ul>\n<li>Develop high-performance services, data pipelines, and integrations across Java, C++, and Python environments.</li>\n<li>Build event-driven systems using messaging and pub/sub patterns.</li>\n<li>Engineer for production from the outset, including testing, observability, failure handling, and operational support.</li>\n<li>Embed monitoring, root-cause analysis, and recovery mechanisms so issues are identified and resolved quickly.</li>\n<li>Take ownership of delivery from design and implementation through deployment and production operation.</li>\n</ul>\n<p></p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>Strong experience building and operating distributed backend systems in production</li>\n<li>Expert in Java or C++, with working knowledge of Python</li>\n<li>Strong understanding of distributed systems, concurrency, and scalable system design</li>\n<li>Experience with event-driven architectures and messaging platforms such as Kafka</li>\n<li>Proven track record building high-performance, low-latency systems</li>\n<li>Ability to translate complex business requirements into robust technical solutions</li>\n<li>Ownership mindset with strong stakeholder management and communication skills</li>\n<li>Experience with modern engineering practices including testing, code reviews, observability, and automation</li>\n<li>Comfortable leveraging AI tools to improve productivity while maintaining quality and accountability.</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience in trading, capital markets, or financial services</li>\n<li>Exposure to Google Cloud Platform (GCP)</li>\n<li>Experience with Kubernetes, Docker, and cloud-native technologies</li>\n<li>Knowledge of BigQuery or large-scale data platforms</li>\n<li>Experience working in low-latency, high-throughput environments</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8324146",
+      "source": "Greenhouse",
+      "posted_at": "2026-10-26T05:33:45-04:00",
+      "first_seen": "2026-10-26T14:08:33.492248+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
+      "analysis": {}
+    },
+    "8029679002": {
+      "id": "8029679002",
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "Databricks",
+      "location": "Amsterdam, Netherlands",
+      "description": "<p>P-1321</p>\n<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.</p>\n<p>Unlike traditional enterprise software, we design and build modern SaaS products that bring delight to all of the stakeholders: decision makers, admins, and end users. As a full stack software engineer, you will work closely with your team and product management to bring that delight through great user experience.</p>\n<p>Below are some example teams you can join:</p>\n<p><strong>SQL Analytics Console: </strong>SQL Analytics is a new product that provides Databricks customers with a first-class experience for performing Business Intelligence (BI) and running SQL workloads directly on the data lake. Our team builds the \"console\" for SQL Analytics, where users configure, manage and monitor their SQL usage.</p>\n<p><strong>Jobs and Workflows: </strong>This team powers all asynchronous customer workloads for Databricks which is the majority of Databricks usage. As this usage has rapidly increased - we've rearchitected the system for increased stability and scalability. We are also building exciting new features for more advanced workflows and customer observability. This team has a mix of frontend, backend, and reliability engineering skills &amp; projects.</p>\n<p><strong>Developer Ecosystem:</strong> The developer ecosystem team focuses on the development experience and best practices using tools<strong> </strong>outside of the workspace. We own and govern the core developer ecosystem open-source components: the SDK, the CLI, and Terraform.</p>\n<p><strong data-stringify-type=\"bold\">Apps Developer Experience -&nbsp;</strong>This is the team that makes developing Apps on Databricks delightful and easy. We have built an SDK and services for app developers -&nbsp;<a class=\"c-link c-link--focus-visible\" href=\"https://github.com/databricks/appkit\" target=\"_blank\" data-stringify-link=\"https://github.com/databricks/appkit\" data-sk=\"tooltip_parent\">AppKit</a>. Our Codegen sub-team builds tools that enable agents to generate Apps that work first time. We're currently. working on an MCP server for Cursor/Claude Code and are working on Skills.</p>\n<p><strong>What we look for:</strong></p>\n<ul>\n<li>BS/MS/PhD in Computer Science, or a related field</li>\n<li>5+ years of experience with HTML, CSS, and JavaScript</li>\n<li>Passion for user experience and design and a deep understanding of front-end architecture</li>\n<li>Comfortable working towards a multi-year vision with incremental deliverables</li>\n<li>Experience with modern JavaScript frameworks (e.g., React, Angular, VueJs/Ember)</li>\n<li>Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala, C#, C++,Go, JVM)</li>\n<li>Good knowledge of SQL</li>\n<li>Experience with cloud technologies, e.g. AWS, Azure, GCP, Docker, Kubernetes</li>\n<li>Experience in architecting, developing, deploying, and operating large scale distributed systems</li>\n</ul><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div>",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+      "source": "Greenhouse",
+      "posted_at": "2026-10-26T08:41:45-04:00",
+      "first_seen": "2026-10-26T14:08:33.492248+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/airalo/staff-data-scientist-pricing-united-kingdom-83215": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/airalo/staff-data-scientist-pricing-united-kingdom-83215",
+      "title": "Staff Data Scientist, Pricing",
+      "company": "Airalo",
+      "location": "United Kingdom",
+      "description": "Help Us Build The Future of Travel At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world. Today, we're a team of 400+ people across 60+ countries, building a product used by travelers every day. We've grown quickly, but we've worked hard to keep what matters: trust, ownership, and the freedom for people to do great work without unnecessary layers or bureaucracy. We're fully remote by design, genuinely global, and united by a shared mission to make travel simpler for everyone. Your Next Destination Location: Remote. Contract: Full-time, permanent. Benefits: Learn more about our benefits here in this link - https://airalo-public.notion.site/Benefits-25396a97ffca81fb9bc1f0be479f1be3?pvs=74 Languages: English is our main working language day to day, so you'll need to be comfortable communicating in it both in meetings and async. We're looking for a Staff Data Scientist, Pricing to build the analytical and machine learning capability that pricing runs on, from demand modelling through to the systems that recommend price. You won't be starting from zero. We've invested in the foundational data and infrastructure that pricing decisions depend on. What's missing is the capability on top: models the business trusts, experiments that settle pricing questions with evidence, and economics defined once so they hold consistently across Commercial, Product and the customer experience. The arc of the role runs from measurement to prediction to prescription - understanding how demand responds to price, forecasting how it will respond, and ultimately building the models that recommend the price itself. What You'll Do: Build and own the demand and elasticity modelling capability, quantifying how price affects volume across destination, duration, data tier, and customer segment. Develop machine learning models for demand forecasting and willingness-to-pay, and take them from exploration through to production with the monitoring and retraining that keeps them honest. Move us from predictive to prescriptive by building the optimisation layer that turns forecasts and elasticities into recommended prices under margin, competitive and partner constraints. Design and analyse pricing experiments with statistical rigour, and apply causal methods where clean randomisation isn't possible. Define pricing within our data ecosystem, owning the governed definitions of price, cost and package economics that reporting, analysis and product surfaces all read from. Partner with Commercial and Finance to connect pricing decisions to margin and revenue, and to size opportunities before we commit. Set the analytical standard for pricing at Airalo, from what counts as evidence through to how a model or recommendation gets validated before it influences live pricing. What You'll Bring: 7+ years in data science, quantitative economics, or applied research, including pricing, monetisation, or marketplace economics work that demonstrably changed decisions. Experience with dynamic or algorithmic pricing systems in production. An advanced degree in Econometrics, Statistics, Operations Research or similar, or equivalent applied depth in demand estimation and the identification problems that make naive price-quantity regressions wrong. Hands-on machine learning experience across the full lifecycle, from feature engineering and model selection through to deployment Familiarity with optimisation and decision-science methods that turn predictions into recommended actions, whether through constrained optimisation, bandits, or reinforcement learning approaches. Proven experimentation expertise, having designed and defended experiments with a clear view on decision frameworks and common failure modes. Experience building analytical capability where none existed before, turning raw data and a business question into something a commercial team uses repeatedly. Strong data modelling instincts, thinking in reusable definitions and single sources of truth rather than standalone analyses. The ability to move comfortably between financial, product and operational data and connect the analysis to a financial outcome. Genuine partnership instincts, translating between analytical rigour and commercial reality so that Commercial and Product come to you early rather than after the decision. Fluency in the Python ML stack alongside strong SQL, with the engineering hygiene to hand over code that others can run and maintain. Excellent communication skills, including the ability to make a methodological argument to people who won't check your standard errors. A self-starter mindset that thrives in ambiguity and brings structure without waiting for permission. Comfort using AI tools to augment analytical work, with a point of view on where they help and where they don't Nice to have: Experience in marketplace, telecom, travel, or subscription/usage-based businesses. Bayesian or hierarchical modelling for sparse segments and long-tail SKUs. Competitive price response modelling, or working with scraped competitor pricing data. Familiarity with dbt, LightDash, or similar semantic/BI layers. Experience designing semantic or metric layers consumed by both analytics and production systems. Experience working in cross-functional teams spanning commercial, finance and product disciplines. If you are interested in this position, please apply via the link. Why People Join Us We started Airalo to make staying connected effortless, wherever you are in the world. Today, millions of travelers rely on our eSIMs, and many of the people building the product were customers first. Our team spans 60+ countries, united by a shared belief that great work happens when people are trusted to own what they do. There's trust to own what you do, space to focus without constant layers of process, and a clear sense of what you're responsible for from day one. As Airalo continues to grow, so do the opportunities to learn, take on new challenges, and make a real impact - from anywhere in the world. Before You Hit Apply By applying, you acknowledge and agree that, in case of successful application, Airalo may request to run background checks as a condition for entering into an agreement with you. Rest assured that these checks will only occur upon your prior consent and at the end of the selection process, and will be strictly limited to what is allowed under the laws that are applicable to you. All data that you share or that we collect in connection with such checks will be processed in accordance with our Privacy Policy, available here: www.airalo.com/more-info/privacy-policy?srsltid=AfmBOooBT0rXAj1FaNelZ3VfN0wvhwzvAoxdtHnOKSVETpiSjiXVuycy We sincerely thank all applicants in advance for submitting their interest in this opportunity. Airalo is an equal-opportunity employer and values diversity, equity & inclusion. We do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to providing reasonable accommodations upon request for individuals with disabilities throughout our job interview process. Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/airalo/staff-data-scientist-pricing-united-kingdom-83215",
       "source": "www.arbeitnow.com",
-      "posted_at": "1792921216",
-      "first_seen": "2026-10-25T12:30:47.899175+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "posted_at": "1792984071",
+      "first_seen": "2026-10-26T14:08:33.492248+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-236832": {
-      "id": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-236832",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Voleon",
+    "https://www.arbeitnow.co.uk/jobs/companies/clearscoretechnologylimited/senior-data-scientist-full-stack-london-355881": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/clearscoretechnologylimited/senior-data-scientist-full-stack-london-355881",
+      "title": "Senior Data Scientist - Full Stack",
+      "company": "Clearscoretechnologylimited",
       "location": "London",
-      "description": "Voleon is a technology company that applies state-of-the-art AI and machine learning techniques to real-world problems in finance. For nearly two decades, we have led our industry and worked at the frontier of applying AI/ML to investment management. We have become a multibillion-dollar asset manager, and we have ambitious goals for the future. Your colleagues will include internationally recognized experts in artificial intelligence and machine learning research as well as highly experienced finance and technology professionals. In addition to our enriching and collegial working environment, we offer highly competitive compensation and benefits packages, technology talks by our experts, a beautiful modern office, daily catered lunches, and more. As a Senior Machine Learning Engineer on one of Voleon's Research teams, you will partner directly with research staff to advance our quantitative trading strategies. You will translate novel research ideas into production-quality code, build and maintain the data pipelines and modeling infrastructure that underpin our strategies, and apply your own strong mathematical intuition to solve open-ended technical challenges. This role lives at the boundary of research and engineering. You will be expected to understand the statistical and mathematical concepts your research partners work with, contribute meaningfully to technical discussions about model design and evaluation, and ensure that the resulting systems are performant, reliable, and maintainable. You will work at the intersection of Computer Science, Mathematics, and Statistics — building high-performance tools that enable world-class research while maintaining a high engineering standard. Responsibilities Partner with PhD researchers to design, implement, and productize machine learning models that drive quantitative trading strategies Develop and maintain complex data pipelines, including data ingestion, feature engineering, validation, and quality monitoring Translate research prototypes and novel ideas into performant, well-tested, production-ready code Build extensible tools and frameworks that accelerate the model development and experimentation lifecycle Supervise, understand, and remediate subtle data quality issues across both research and production environments Proactively lead projects from requirements through delivery, making autonomous decisions about scope, dependencies, and trade-offs, with an emphasis on long-term maintainability Coordinate and contribute to deployment efforts while guiding junior engineers and researchers; align with research and engineering stakeholders on ownership, execution, and prioritization Foster engineering consistency, standards, and best practices within Research Requirements Bachelor's degree (or higher) in Computer Science, Applied Mathematics, Statistics, or a related quantitative field 5+ years of professional software engineering experience, with strong CS fundamentals (data structures, algorithms, systems design) Demonstrated mathematical maturity — comfort with the concepts and notation used in statistics, linear algebra, optimization, and probability Deep proficiency in Python; experience with R and/or C/C++ is a strong plus Extensive experience with numerical and data science libraries (e.g., NumPy, Pandas, SciPy, scikit-learn, PyTorch, TensorFlow, or similar) Proven experience building or maintaining machine learning systems in a distributed computing environment Proficiency developing in a Linux environment with attention to performance, correctness, and reproducibility Exceptional attention to detail, particularly when working with imperfect or heterogeneous data Strong verbal and written communication skills, and the ability to collaborate effectively with researchers whose primary expertise is not software engineering Preferred Qualifications Experience with experiment management, model evaluation pipelines, or ML workflow orchestration Familiarity with modern ML/AI infrastructure patterns (model serving, feature stores, distributed training) Experience with performance profiling and optimization of numerical or modeling code Prior exposure to financial data, time-series analysis, or quantitative research environments “Friends of Voleon” Candidate Referral Program If you have a great candidate in mind for this role and would like to have the potential to earn $15,000 if your referred candidate is successfully hired and employed by The Voleon Group, please use this form to submit your referral. For more details regarding eligibility, terms and conditions please make sure to review the Voleon Referral Bonus Program . Equal Opportunity Employer The Voleon Group is an Equal Opportunity employer. Applicants are considered without regard to race, color, religion, creed, national origin, age, sex, gender, marital status, sexual orientation and identity, genetic information, veteran status, citizenship, or any other factors prohibited by local, state, or federal law. Find more English Speaking Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/voleon/senior-machine-learning-engineer-london-236832",
+      "description": "<p><strong>Senior Data Scientist - Full Stack</strong></p>\n<p><span style=\"text-decoration: underline;\"><em>Please note visa sponsorship is not currently available for this position. </em></span></p>\n<p>We are looking for a Senior Full Stack Data Scientist to join our Data &amp; Analytics team at ClearScore. Data Scientists play a key role in our business, driving strategy and decision-making at all levels, which ultimately benefits our users, partners, and other teams across the organisation. We are seeking a proactive, outcomes-oriented individual, ready to take on broad ownership of a range of initiatives, to join our growing Global Targeting team. Working to enhance the ClearScore user experience through improved dynamic content targeting and prioritisation, you will take end-to-end ownership of data science and machine learning solutions across a variety of use cases, business areas, and markets. You’ll bring the knowledge and expertise required to evaluate transformative new approaches in machine learning and AI against our current implementations, applying your judgement and craft to incorporate these where they can add real value. Your contributions will directly support the Global Targeting mission, enabling the organisation to realise its overall strategy and goals.</p>\n<p>ClearScore is both a free credit score and report service and the UK's leading consumer credit marketplace. ClearScore has an amazing analytical community which includes Data Analysts, Scientists and Engineers. The community works collaboratively, sharing knowledge, tools, and best practice, to ensure a landscape in which team members can develop their full potential and deliver maximum positive business impact.</p>\n<p><strong>What you’ll be doing</strong></p>\n<ul>\n<li>Leading the end-to-end development of data science and machine learning solutions - from business concept through to impact evaluation - to enable a better user experience through data-driven Targeting</li>\n<li>Working closely with cross-functional stakeholders to shape how Data Science and the broader Targeting initiative can effectively support business needs to drive maximum impact</li>\n<li>Keeping our modelling practice at the cutting-edge: building a deep understanding of new developments in ML and AI, like Foundation Models, testing these rigorously against our production systems, and leading our adoption of those that prove their value to drive better outcomes for our users and business</li>\n<li>Helping to set the quality bar for what we put into production: scrutinising data, features and model behaviour, and surfacing problems in our data and processes before they reach our users</li>\n<li>Identifying and implementing improvements and optimisations in our model development and management processes, driving more efficient and standardised ways of working, leading by example in what you deliver</li>\n<li>Driving the strategic utilisation of model outputs for decision making, working with the Global Targeting squad to use model outputs to change what users see</li>\n</ul>\n<p><strong>What you’ll need to succeed in the role</strong></p>\n<ul>\n<li>A self-starter mindset: curious, collaborative, and committed to continuous learning - including the adoption of new tools as they emerge. You stay abreast of advances in ML and AI, demonstrating the judgement required to assess when newer techniques will outperform conventional ones and when they won’t</li>\n<li>A desire to deeply understand a problem and its importance to the business before attempting to solve it, and being comfortable proactively seeking that context rather than waiting for it</li>\n<li>A strong ability to think critically about, and reason concisely with, data. A drive to understand our users, products, and how users interact with them, and to build an advanced knowledge of our data assets and how these connect to our users’ financial wellbeing through the product experience</li>\n<li>Advanced Python and SQL skills, and a strong understanding of dbt and Analytics Engineering for feature engineering. In-depth knowledge of varied statistical and machine learning techniques. You're capable across the full model lifecycle, including how models get deployed and maintained effectively in a production environment</li>\n<li>Demonstrable experience of using business-domain knowledge to drive model development or derive insights from data</li>\n<li>The ability to explain the key findings from complex analysis and modelling exercises to both technical and non-technical audiences. You feel at home interacting with stakeholders from across different specialisms around the organisation</li>\n</ul>\n<p><strong>We’d especially love to hear from you if you have</strong></p>\n<ul>\n<li>Experience using AI tools as part of your everyday workflow, with the judgement to know what to trust, what to verify, and when the output isn't good enough. We’re increasingly adopting AI tools as part of our development cycle, so an interest and knowledge of harnessing these effectively would be highly valued</li>\n<li>Hands-on experience developing and delivering solutions based on emerging ML/AI approaches in Deep Learning, such as representation learning, sequence models, transformer-based modelling, or foundation models</li>\n<li>Experience developing or working on real-time / near real-time inference solutions and the infrastructure to support them</li>\n<li>Experience working with and deploying solutions into Databricks</li>\n<li>Experience working in a product-focussed environment, partnering closely with cross-functional teams to build and iterate quickly</li>\n<li>A good understanding of consumer lending and the key drivers of credit and affordability strategies, as well as familiarity with credit bureau data and its effective utilisation for building predictive ML models</li>\n<li>A postgraduate degree or equivalent qualification in a STEM field</li>\n</ul>\n<p><strong>Why ClearScore?</strong></p>\n<p>ClearScore is the UK's #1 credit score and report app. We are also present in South Africa, Australia and Canada, with more than 20 million users globally and growing fast. Someone joins ClearScore every 20 seconds. We have established relationships with over 50 of the main lenders in the U.K., and have been a trusted tool for customers to manage their credit and make better financial decisions.</p>\n<p>Since October 2016 we have helped 1.8 million users take out a new credit card or loan. We are user-centric at our core and we believe in leveraging technology to enable positive financial choices. We are design-led and data-driven and we embed these behaviours in everything we do.</p>\n<p>Our company culture is a fundamental part of all we have achieved. We believe in hiring smart, driven, passionate and diverse people who are keen on having a real impact in our organisation. We trust you to manage your own time so we offer flexible work and no fixed desk hours. We don't micromanage and we believe in measuring outcomes rather than effort. We have an inclusive culture where all, regardless of seniority, are encouraged to contribute with their ideas, look after their wellbeing and actively seek opportunities for career growth.</p>\n<p>If you feel like this could be the place for you, apply and our Talent team will be happy to share more.</p>\n<p><strong>Benefits:</strong></p>\n<ul>\n<li>25 paid holidays and a “duvet day” on your birthday</li>\n<li>Hybrid Work Environment</li>\n<li>Private health and dental cover - including mental health support through Bupa&nbsp;</li>\n<li>GP office visits</li>\n<li>Life assurance scheme</li>\n<li>Up to 6% matched pension</li>\n<li>Regular Lunch and Learns with guest speakers</li>\n<li>Dog-friendly office</li>\n<li>Daily breakfast and free snacks</li>\n<li>Access to discounts via Cobens Extras&nbsp;</li>\n<li>Free sports and social clubs</li>\n<li>Continued investment into learning and development&nbsp;</li>\n<li>Leadership-led training</li>\n<li>In-house psychotherapist</li>\n<li>Financial coach to help you plan and achieve your goals</li>\n<li>No clock-watching culture</li>\n<li>Generous maternity and paternity plans</li>\n<li>Culture and inclusion representatives</li>\n<li>Transparent pay structure and a career growth plan</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Equal Opportunities</strong></p>\n<p>ClearScore is committed to providing equal employment opportunities to all qualified individuals. As an equal opportunity employer, we are able to make reasonable adjustments to accommodate individuals with disabilities during the recruitment and selection process. If you require accommodation, please inform us in advance, and we will work with you to meet your needs.</p>\n<div class=\"p-rich_text_section\"><strong>Our Hybrid Model</strong></div>\n<div class=\"p-rich_text_section\">&nbsp;</div>\n<div class=\"p-rich_text_section\">We embrace a&nbsp;dynamic hybrid work environment that balances flexibility with collaborative in-person experiences. Our approach is designed to foster innovation, team connection, and individual productivity.</div>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested\" data-stringify-type=\"unordered-list\" data-list-tree=\"true\" data-indent=\"0\" data-border=\"0\">\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Levels 1-5: Minimum 2-3 days per week in-office</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Level 6 and above: Minimum 3 days per week in-office</li>\n</ul>\n<div class=\"p-rich_text_section\">We believe this structure offers the best of both worlds - the flexibility of remote work and the synergy of face-to-face collaboration. Our office days are carefully coordinated to maximise team interactions and learning/ mentorship opportunities.</div>\n<div class=\"p-rich_text_section\"><br><strong>What This Means for You:</strong></div>\n<ul class=\"p-rich_text_list p-rich_text_list__bullet p-rich_text_list--nested\" data-stringify-type=\"unordered-list\" data-list-tree=\"true\" data-indent=\"0\" data-border=\"0\">\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Flexibility to manage your work and life</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Dedicated in-office days for team building and collaborative projects</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">&nbsp;Office facilities (with plants!) designed for productive interactions</li>\n<li data-stringify-indent=\"0\" data-stringify-border=\"0\">Clear expectations and support for maintaining our hybrid schedule</li>\n</ul>\n<div class=\"p-rich_text_section\">We’re committed to creating an inclusive environment that accommodates diverse needs while maintaining our collaborative culture. Join us in shaping the future of work!</div>\n<div class=\"p-rich_text_section\"><br><em data-stringify-type=\"italic\">Note: While we offer flexibility, commitment to our hybrid schedule is an important aspect of our team culture and performance expectations.</em></div>\n<p>&nbsp;</p>\n<p>&nbsp;</p><div class=\"content-conclusion\"><p><strong data-redactor-tag=\"strong\">Inclusion Policy</strong></p>\n<p>We are always looking for talented individuals to join ClearScore. We are an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for our people. Please see our People Policy Notice at&nbsp;<a href=\"https://www.clearscore.com/people-notice\">https://www.clearscore.com/people-notice</a>.</p></div> Find Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/clearscoretechnologylimited/senior-data-scientist-full-stack-london-355881",
       "source": "www.arbeitnow.com",
-      "posted_at": "1792921215",
-      "first_seen": "2026-10-25T12:30:47.899175+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
-      "analysis": {}
-    },
-    "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/staff-data-analyst-commercial-london-gb-133054": {
-      "id": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/staff-data-analyst-commercial-london-gb-133054",
-      "title": "Staff Data Analyst - Commercial",
-      "company": "Octopus Energy Group",
-      "location": "London (GB)",
-      "description": "We're making energy fair, clean, and simple for all using technology. Octopus Energy started with a bold idea: to build Britain’s first truly digital energy supplier. By combining world-class tech with brilliant humans who care deeply about customers and driving the renewable energy transition, we made it happen and in 2025, we became Britain’s largest energy supplier. Octopus Energy Group is a global energy transition collective. 10 businesses working across 4 continents to tackle energy transformation at nearly every front. And we constantly push to make energy better. Tirelessly campaigning for fair protections for customers. And building innovative technologies that forge a path to a green energy system. We’re made up of 10,000+ authentic, committed people working around the world on stuff you'd never expect. We're united by a shared goal: to drive the global green energy revolution. Read our Spotlight series to meet some of the team. About the role You and a group of strong analysts will be generating the insights that guide Octopus’ commercial decisions. You will be the most senior analyst in our London-based data commercial team, working with our global commercial teams in understanding our customers, setting prices, and being integral to the design of the innovative products we’re famous for. You will help upskill analysts around the world, and directly partner with some of the most influential people in the business. What you'll do UK pricing: Partner with the product teams to set pricing for our 8 million (and growing!) customers in the UK. Strategic analytics : Identify and analyse energy retail data to guide our understanding of our customers and our competitors. Impact our UK and global strategy through insights presented to the senior leadership team. Global analytics: Work with teams in the seven other countries Octopus is active in to deliver and scale impactful, global projects, such as lifetime value calculations or churn modelling. Metrics: Help people all across the business understand the key drivers of their operations through well-defined KPIs and intuitive dashboards. Global cooperation: Prioritise and coordinate the data teams supporting Octopus’ operations globally, balancing local needs with global opportunities. What you'll have Passion for hands-on data work. Experience mentoring and upskilling junior analytical colleagues. Hands-on expertise with modern data platforms and analytical tools (especially SQL and python - see our full stack below). Strong communication skills to influence non-technical stakeholders and senior leadership. Strong commercial acumen, preferably in pricing, margin optimisation, and/or growth analytics. A track record of delivering actionable insights that drive measurable business impact. Our Data Platform Stack We employ software engineering best practices to design, test, and deploy our data platform and services using the below technologies: Python, pandas and SQL in Jupyter notebooks for analysis dbt and Databricks data platform with Delta Lake Lightdash as our BI tool and semantic layer Streamlit for interactive data applications Airflow for orchestration Kubernetes for application deployment CI/CD with GitHub and CircleCI Infrastructure on AWS, deployed with Terraform / Spacelift Why else you'll love it here • Wondering what the salary for this role is? Just ask us! On a call with one of our recruiters it's something we always cover as we genuinely want to match your experience with the correct salary. The reason why we don't advertise is because we honestly have a degree of flexibility and would never want salary to be a reason why someone doesn't apply to Octopus - what's more important to us is finding the right octofit! • Octopus Energy Group is a unique culture . An organisation where people learn, decide, and build quicker. Where people work with autonomy, alongside a wide range of amazing co-owners, on projects that break new ground. We want your hard work to be rewarded with perks you actually care about! We were named the UK's top company to work for in 2025 , and we ranked in the top ten in the Sunday Times Best Places to Work 2026 . Our Group CEO, Greg has recorded a podcast about our culture and how we empower our people. We’ve also been placed in the top 10 companies for senior leadership • Visit our UK perks hub - Octopus Employee Benefits If this sounds like you then we'd love to hear from you, tell us what you care about, why Octopus feels right and most importantly, bring us the real you! Applying for jobs can be a bit scary so have a nose through some of our tips first 🚀 P.S. Our process usually takes up to 4 weeks, but we’ll always do our best to flex around what works for you. Along the way, you’ll chat with our recruitment team and your Recruiter will help you throughout different stages. Got any burning questions before then? Drop us a message at ----- and we’d love to help! Are you ready for a career with us? We want to ensure you have all the tools and environment you need to unleash your potential. Need any specific accommodations? Whether you require specific accommodations or have a unique preference, let us know, and we'll do what we can to customise your interview process for comfort and maximum magic! Studies have shown that some groups of people, like women, are less likely to apply to a role unless they meet 100% of the job requirements. Whoever you are, if you like one of our jobs, we encourage you to apply as you might just be the candidate we hire. Across Octopus, we're looking for genuinely decent people who are honest and empathetic. Our people are our strongest asset and the unique skills and perspectives people bring to the team are the driving force of our success. As an equal opportunity employer, we do not discriminate on the basis of any protected attribute. Our commitment is to provide equal opportunities, an inclusive work environment, and fairness for everyone. Find Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/staff-data-analyst-commercial-london-gb-133054",
-      "source": "www.arbeitnow.com",
-      "posted_at": "1792920366",
-      "first_seen": "2026-10-25T12:30:47.899175+00:00",
-      "last_seen": "2026-10-25T12:30:47.899175+00:00",
+      "posted_at": "1792943722",
+      "first_seen": "2026-10-26T14:08:33.492248+00:00",
+      "last_seen": "2026-10-26T14:08:33.492248+00:00",
       "analysis": {}
     }
   }
