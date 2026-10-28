@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:09:29.677923+00:00",
+  "updated_at": "2026-10-28T14:00:21.834013+00:00",
   "jobs": {
     "7175503": {
       "id": "7175503",
@@ -11,7 +11,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T11:57:20-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8172852": {
@@ -24,7 +24,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-07T04:53:28-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8096176": {
@@ -37,7 +37,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-19T17:04:51-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7942731": {
@@ -50,7 +50,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-27T08:41:13-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8704938002": {
@@ -63,7 +63,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8720252002": {
@@ -76,7 +76,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:52:38-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8195967": {
@@ -89,7 +89,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-10T20:22:56-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7989158": {
@@ -102,7 +102,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-08-18T18:23:12-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8656202002": {
@@ -115,7 +115,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:45:55-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8567991002": {
@@ -128,20 +128,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:28:47-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
-      "analysis": {}
-    },
-    "8768938002": {
-      "id": "8768938002",
-      "title": "Senior Solutions Engineer - Benelux Geo",
-      "company": "Databricks",
-      "location": "Amsterdam, Netherlands",
-      "description": "<h5>Req ID: FEQ427R70<strong><br><br></strong></h5>\n<p><strong>The Role</strong></p>\n<p>As a Senior Solutions Engineer in the Benelux Geo team, you will lead technical engagements for high-growth potential customers, owning discovery, solution design, and platform demonstrations. We are looking for a talented engineer/architect who is excited to expand strategic partnerships and grow Databricks footprint with these customers!<br><br>You are a builder who can code, architect, and present, combining technical depth with customer-facing skills to drive Databricks adoption. You will own frontline customer relationships and work with your Account Executive to develop technical strategies that expand platform usage.<br><br></p>\n<p><strong>The Impact You Will Have</strong></p>\n<ul>\n<li>Independently lead technical discovery and solution design for customer workloads spanning Data Engineering, Analytics, Machine Learning, and GenAI Engineering</li>\n<li>Build and deliver compelling proofs-of-concept and live demos on the Databricks Platform that drive technical wins</li>\n<li>Own frontline technical relationships with customer engineers, data teams, and technical leads</li>\n<li>Develop account-level technical strategies in partnership with your Account Executive to grow platform consumption</li>\n<li>Navigate competitive landscapes by articulating Databricks differentiation through hands-on demonstrations</li>\n<li>Contribute reusable technical assets (notebooks, solution accelerators, reference architectures) to the broader SA community<br><br></li>\n</ul>\n<p><strong>What We Look For</strong></p>\n<ul>\n<li>Industry experience in data engineering, solutions architecture, technical pre-sales, or a hands-on consulting role (preference for 3+ years minimum)</li>\n<li>Proficient in Python and SQL with demonstrated ability to debug, optimise, and write production-quality code — live/vibe coding is a required interview stage</li>\n<li>Hands-on experience designing and implementing data solutions on at least one public cloud platform (AWS, Azure, or GCP)</li>\n<li>Working knowledge of distributed data systems: Apache Spark™, Delta Lake, or equivalent (Hadoop, Kafka, Flink)</li>\n<li>Experience leading technical customer conversations — discovery, whiteboarding, architecture reviews</li>\n<li>Familiarity with one or more: data engineering (ETL/ELT, medallion architecture, streaming), data science/ML (model training, MLOps), or SQL analytics</li>\n<li>Strong presentation and demo skills — you will build and present a live solution during the interview</li>\n<li>Bachelor's or Master's degree in Computer Science, Engineering, Information Management, Data Science or a quantitative discipline (or equivalent experience)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Note: </strong>This will be an office-based contract (Amsterdam), with a hybrid schedule. The offer contract will be set for an initial 12-month fixed term, with the intention to extend upon successful completion of the probation period.&nbsp;<br><br></p>\n<p>#LI-hybrid</p><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div>",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768938002",
-      "source": "Greenhouse",
-      "posted_at": "2026-10-06T06:59:11-04:00",
-      "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7996955": {
@@ -154,7 +141,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-25T05:17:09-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8018513": {
@@ -167,7 +154,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8018517": {
@@ -180,7 +167,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7788552003": {
@@ -193,7 +180,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7548628003": {
@@ -206,7 +193,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7539051003": {
@@ -219,7 +206,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7784638003": {
@@ -232,7 +219,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T08:39:15-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8174075": {
@@ -243,9 +230,9 @@
       "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p>\n<p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p>\n<p>We are looking to speak to candidates who are based in London for our hybrid working model.</p>\n<h3>As an ideal candidate, you will have:</h3>\n<ul>\n<li>5 to 8&nbsp; years of related industry experience, ideally 2 years of experience in a customer facing role</li>\n<li>Minimum of 2 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li>\n<li>Experience implementing scalable and highly available distributed systems in the cloud and on-prem</li>\n<li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li>\n<li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li>\n<li>Ability to work with a cross functional sales team to formulate and execute an end to end deal cycle</li>\n<li>The ability to travel up to 25%</li>\n<li>A Bachelor’s degree or equivalent work experience</li>\n</ul>\n<h3>You may also have:</h3>\n<ul>\n<li>Experience developing, deploying, or supporting applications with any of the major cloud providers&nbsp;</li>\n<li>Experience working in a technical pre-sales capacity&nbsp;</li>\n<li>Experience with database programming and data models&nbsp;</li>\n<li>Experience in data engineering or AI/ML projects</li>\n<li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li>\n<li>A MongoDB Certification</li>\n<li>A Cloud Provider Certification</li>\n</ul>\n<h3>What you do at MongoDB:</h3>\n<p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p>\n<ul>\n<li>Design and Architect: Design scalable and performant applications, systems and infrastructure for large software projects leveraging MongoDB</li>\n<li>Customer Advising and Value Articulation: Guide customers on architecture patterns and optimisation strategies for MongoDB, while clearly communicating its business value to the relevant stakeholders</li>\n<li>Sales Partnership: Collaborate with the sales team to drive account success through account planning, opportunity prioritization/qualification and pipeline generation strategy, while taking ownership of the technical aspects (including but not limited to technical discovery, demos, proof of value, presentations, sizing and documentation)</li>\n<li>Demand Generation: Proactively generate demand within the sales territory through self-driven technical initiatives, participation in events such as industry trade shows and account-based marketing events</li>\n<li>Customer Success: Foster strong customer relationships, build champions and ensure customer success and satisfaction</li>\n<li>Innovation and Improvement: Continuously seek opportunities to innovate and improve MongoDB solutions and processes (e.g. by relaying field feedback to the product team), as well as proactively mentor other Solutions Consulting team members&nbsp;</li>\n<li>Personal Training and Development: Engage in ongoing training and professional development to stay abreast of MongoDB product suite as well as industry trends</li>\n</ul>\n<h3>What you will learn:</h3>\n<p>MongoDB Product Suite Mastery:</p>\n<ul>\n<li>Core Database Server: Master the fundamentals and advanced features of MongoDB's core database</li>\n<li>Atlas and Advanced Services: Gain expertise in Atlas (fully managed cloud database service), Atlas Stream Processing, Atlas Data Lake, Atlas Full-Text Search, Atlas Vector Search, and Charts</li>\n<li>Relational Migrator: Learn to migrate from relational databases seamlessly</li>\n</ul>\n<p>Market-Relevant Technologies:</p>\n<ul>\n<li>Hyperscaler Ecosystem: Gain expertise in designing complex systems utilizing cloud services on hyperscaler platforms</li>\n<li>Complementary Technologies: Enhance your skills with partner and complementary technologies such as Apache Kafka and Kubernetes</li>\n</ul>\n<p>Modern Architecture Design:</p>\n<ul>\n<li>Design Patterns and Methodologies: Embrace best practices in microservices, DevOps, cloud, and security</li>\n<li>Cutting Edge RAG and AI Architectures: Help customers on their generative AI journey and working with industry leading partners in the space</li>\n</ul>\n<p>Sales Techniques and Soft Skills:</p>\n<ul>\n<li>Effective Communication: Master presentations, demonstrations, and whiteboarding</li>\n<li>Client Interaction: Develop strategies for discovery and objection handling</li>\n</ul>\n<p>Industry Insights:</p>\n<ul>\n<li>Diverse Market Verticals: Gain exposure to a broad spectrum of interesting use cases across various industries</li>\n</ul>\n<h3>About MongoDB</h3>\n<p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.</p>\n<p>With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.</p>\n<p>Our compass at MongoDB is our <a href=\"https://www.mongodb.com/company\">Leadership Commitment,</a> guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&nbsp;</p>\n<p>To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. <a href=\"https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb\">From employee affinity groups, to fertility assistance and a generous parental leave policy</a>, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.<a href=\"https://www.mongodb.com/blog/channel/culture\"> Learn more about what it’s like to work at MongoDB</a>, and help us make an impact on the world!</p>\n<p>MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.</p>\n<p>MongoDB is an equal opportunities employer.</p>\n<p><em>Req ID: 3273537663</em></p>",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8174075",
       "source": "Greenhouse",
-      "posted_at": "2026-10-23T11:31:54-04:00",
+      "posted_at": "2026-10-27T16:24:13-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7820250003": {
@@ -258,7 +245,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:47:10-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "7785674003": {
@@ -271,7 +258,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:47:13-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8704662002": {
@@ -284,7 +271,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T09:44:25-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8755487002": {
@@ -297,7 +284,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T09:39:39-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8605722002": {
@@ -310,7 +297,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T09:42:23-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8533904002": {
@@ -323,7 +310,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:56-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8562401002": {
@@ -336,7 +323,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T11:45:41-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "4730846005": {
@@ -349,7 +336,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "4730862005": {
@@ -362,7 +349,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8156166": {
@@ -375,7 +362,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:46:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8614459002": {
@@ -388,7 +375,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:39:09-04:00",
       "first_seen": "2026-09-18T12:13:10.553096+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8223681": {
@@ -401,7 +388,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-01T12:57:36-04:00",
       "first_seen": "2026-09-23T12:44:44.224201+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8856501002": {
@@ -412,9 +399,9 @@
       "description": "<p><strong>Req ID: CSQ128R10</strong></p>\n<p><strong>Location: London, United Kingdom - Hybrid&nbsp;</strong></p>\n<p><strong>Job Role: Senior Forward Deployed Engineer - Architect All levels</strong></p>\n<p><strong>Recruiter: Francesca Paternoster</strong></p>\n<p>As a Forward Deployed Engineer (FDE) you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations. FDEs deliver with customer empathy, integrating with client systems, training, and other technical needs to help customers get most value out of their data.&nbsp;</p>\n<p>This is a hands-on, customer-facing role for builders who thrive at the intersection of technology and business impact. The ideal candidate combines engineering expertise with adaptability, curiosity, and a passion for working with customers and teammates to solve complex problems that drive measurable outcomes. FDEs are billable and know how to complete projects according to specification with exceptional customer empathy.</p>\n<p>The impact you will have:</p>\n<ul>\n<li>Production Solution Delivery: Lead impactful customer technical projects by delivering production-grade systems, designing and building reference architectures, custom applications and data ingestion and ML/AI model integration</li>\n<li>Transformational Impact: Guide strategic customers as they implement transformational big data projects including end-to-end design, build and deployment of industry-leading big data and AI applications. Work with engagement managers to scope technical delivery work with input from the customer</li>\n<li>Empower Customers: Guide customers on architecture and design; bootstrap or implement customer projects which leads to a customers' successful understanding, evaluation and adoption of Databricks.</li>\n<li>Own the Architecture: Lead architecture and design decisions, ensuring solutions are secure, scalable, and aligned with both customer needs and Databricks best practices.</li>\n<li>Work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customer's needs.</li>\n<li>Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to guide rapid resolution for engagement specific product and support issues.</li>\n<li>Customer Immersion: Embed with customer teams, engaging with stakeholders from technical ICs to executives to deeply understand challenges and deliver impact.</li>\n<li>Reusable Assets &amp; Scale: Contribute accelerators, frameworks, and best practices that scale impact across accounts and influence the Databricks product roadmap.</li>\n</ul>\n<p>What we look for:</p>\n<ul>\n<li>Strong years experience in data engineering, data platforms &amp; analytics, or software engineering</li>\n<li>Comfortable writing code in either Python, Scala, JavaScript/TypeScript, and modern frameworks</li>\n<li>Working knowledge of two or more common Cloud ecosystems (AWS, Azure, GCP) with expertise in at least one</li>\n<li>Deep experience with distributed computing with Apache Spark™ and knowledge of Spark runtime internals</li>\n<li>Familiarity with CI/CD for production deployments</li>\n<li>Working knowledge of MLOps, ML/AI models and AI APIs</li>\n<li>Design and deployment of performant production end-to-end data architectures and applications that combine data pipelines, ML/AI models, and user-facing interfaces.</li>\n<li>Experience with technical project delivery - managing scope, timelines and measurable outcomes, translating complex concepts into actionable solutions.</li>\n<li>Documentation and white-boarding skills.</li>\n<li>Experience working with enterprise clients and managing conflicts across a broad stakeholder range</li>\n<li>Build skills in technical areas, and demonstrate curiosity, adaptability, and eagerness to explore new technologies which support the deployment and integration of Databricks-based solutions to complete customer projects.</li>\n<li>Travel to customers 20% of the time</li>\n<li>Databricks Certification preferred but not essential</li>\n</ul><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div>",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
       "source": "Greenhouse",
-      "posted_at": "2026-10-14T11:59:13-04:00",
+      "posted_at": "2026-10-28T06:29:53-04:00",
       "first_seen": "2026-09-30T13:35:49.416985+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8245606": {
@@ -427,7 +414,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:40-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8245625": {
@@ -440,7 +427,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:26-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8836789002": {
@@ -451,9 +438,9 @@
       "description": "<p>Senior Data Engineer, Proprietary Research</p>\n<p>London</p>\n<p><strong>A Career with Point72's Market Intelligence team</strong></p>\n<p>On our proprietary research team—Market Intelligence— you will uncover insights about markets and the broader economy through deep compliant fundamental research and applying data science and engineering techniques to alternative data sets. In partnership with our investment professionals and Compliance team, our team of analysts, data scientists and engineers work together to produce compliant research and build tools that inform our firm’s investments. We look for other bright, motivated, and collaborative people to join our team and grow with us—a majority of the leaders in our group were promoted from within.</p>\n<p><strong>WHAT YOU'LL DO</strong></p>\n<ul>\n<li>Work closely with investment professionals, researchers, and data scientists to design, build, and launch robust end-to-end business solutions including data pipelines, products and tools.</li>\n</ul>\n<ul>\n<li>Design and develop big data processing pipelines including but not limited to ingestion, transformation, trends creation to deliver AI-ready data assets &amp; products.</li>\n<li>Develop reusable software components, libraries, and APIs that enable rapid experimentation and production deployment</li>\n<li>Implement data quality, lineage, and governance controls to ensure datasets are reliable, auditable, and compliant with compliance policies</li>\n<li>Build scalable AI-native cloud-based infrastructure using distributed systems techniques, to deliver efficient data-driven business solutions</li>\n<li>Optimize performance, cost, and reliability of software systems through benchmarking and iterative improvements</li>\n</ul>\n<p><strong>WHAT’S REQUIRED&nbsp;</strong>&nbsp;</p>\n<ul>\n<li>5+ years of experience in Data Engineering, Software Engineering or related field</li>\n<li>2+ years of strong experience in Python development</li>\n<li>Experience with system design and leading multi-person development efforts</li>\n<li>Experience with distributed data processing frameworks like Spark</li>\n<li>Experience with building scalable APIs, and software applications w/ focus on backend infrastructure</li>\n<li>Experience with cloud platforms and services for data storage and compute (for example AWS, Google Cloud Platform, or Azure)</li>\n<li>Experience with orchestration technologies like Airflow</li>\n<li>Knowledge of/experience with langraph/langchain or similar frameworks, embedding models, vector, graph databases is a plus</li>\n<li>A strong drive to staying current with AI advancements and translating emerging techniques into practical, real-world applications.</li>\n<li>Commitment to the highest ethical standards.</li>\n</ul>\n<p><strong>&nbsp;</strong><strong>We take care of our people</strong></p>\n<p>We invest in our people, their careers, their health, and their well-being. When you work here, we provide:</p>\n<ul>\n<li>Private Medical and Dental Insurances</li>\n<li>Generous parental and family leave policies</li>\n<li>Volunteer opportunities</li>\n<li>Support for employee-led affinity groups representing women, people of colour and the LGBQT+ community</li>\n<li>Mental and physical wellness programmes</li>\n<li>Tuition assistance</li>\n<li>Non-contributory pension and more</li>\n</ul>\n<p><strong>About Point72</strong></p>\n<p>Point72 is a leading global alternative investment firm led by Steven A. Cohen. Building on more than 30 years of investing experience, Point72 seeks to deliver superior returns for its investors through fundamental and systematic investing strategies across asset classes and geographies. We aim to attract and retain the industry's brightest talent by cultivating an investor-led culture and committing to our people's long-term growth. For more information, visit https://point72.com/</p>",
       "url": "https://boards.greenhouse.io/point72/jobs/8836789002?gh_jid=8836789002",
       "source": "Greenhouse",
-      "posted_at": "2026-10-22T12:15:32-04:00",
+      "posted_at": "2026-10-27T20:18:12-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8245673": {
@@ -466,7 +453,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T04:43:15-04:00",
       "first_seen": "2026-10-02T13:48:52.302238+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8458941002": {
@@ -479,7 +466,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T05:07:31-04:00",
       "first_seen": "2026-10-06T14:08:50.727058+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8881592002": {
@@ -492,7 +479,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-15T11:40:51-04:00",
       "first_seen": "2026-10-10T13:33:35.104582+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8870159002": {
@@ -505,7 +492,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T10:22:04-04:00",
       "first_seen": "2026-10-15T12:38:08.369853+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8288668": {
@@ -518,7 +505,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:38:01-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8288674": {
@@ -531,7 +518,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:39:37-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "6919020": {
@@ -544,7 +531,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T08:54:26-04:00",
       "first_seen": "2026-10-17T11:33:55.048309+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8895472002": {
@@ -557,7 +544,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T05:32:13-04:00",
       "first_seen": "2026-10-19T14:35:07.152630+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8885043002": {
@@ -570,7 +557,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-21T09:41:52-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8902107002": {
@@ -583,7 +570,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T07:13:51-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8902111002": {
@@ -596,7 +583,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T07:17:44-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8306622": {
@@ -609,20 +596,20 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-21T13:17:27-04:00",
       "first_seen": "2026-10-22T12:57:05.729475+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8324146": {
       "id": "8324146",
-      "title": "Senior Software Engineer - OTCTECH",
+      "title": "Senior Software Engineer - OTC Trading",
       "company": "Flow Traders",
       "location": "Amsterdam ",
-      "description": "<p>Flow Traders is transforming its institutional trading platform across Equities, ETFs, Fixed Income, and Crypto. As part of OTCTECH, you will work directly with traders, quants, Operations, Risk, and Compliance to design and deliver a new OTC Trading Engine, automate operational workflows, and modernise existing applications into reliable, maintainable systems.</p>\n<p>We are looking for a Senior Software Engineer who can take ownership of complex problems from discovery through production. You will need to understand how trading activities and data flow across systems, define clear technical boundaries, make sound architectural decisions, and build solutions that perform reliably in a demanding environment.</p>\n<p>This role combines greenfield platform development with the opportunity to understand and evolve an established technology estate. It is grounded in strong engineering fundamentals, with quality, correctness, operational resilience, and clear technical judgment at its foundation.</p>\n<p></p>\n<h4>What you will do</h4>\n<h4>Understand the Trading Domain</h4>\n<ul>\n<li>Work directly with traders, quants, Operations, Risk, and Compliance to understand requirements and how trading workflows operate in practice.</li>\n<li>Trace business processes and data flows across pre-trade research, execution, post-trade processing, risk, and compliance.</li>\n<li>Identify opportunities to improve resilience, consistency, automation, and operational efficiency.</li>\n<li>Build a shared understanding of system responsibilities, dependencies, and operational considerations.</li>\n<li>Design and Modernise the Platform<br>Help design and deliver a new OTC Trading Engine spanning Equities, ETFs, Fixed Income, and Crypto.</li>\n<li>Define appropriate service boundaries, data models, interfaces, and event flows.</li>\n<li>Modernise existing applications where new business or engineering requirements create opportunities for improvement.</li>\n<li>Make and document architectural decisions, balancing performance, reliability, simplicity, and delivery speed.</li>\n<li>Design greenfield services and platforms that can be operated and evolved safely over time.</li>\n</ul>\n<h4>Build Reliable Trading Systems</h4>\n<ul>\n<li>Develop high-performance services, data pipelines, and integrations across Java, C++, and Python environments.</li>\n<li>Build event-driven systems using messaging and pub/sub patterns.</li>\n<li>Engineer for production from the outset, including testing, observability, failure handling, and operational support.</li>\n<li>Embed monitoring, root-cause analysis, and recovery mechanisms so issues are identified and resolved quickly.</li>\n<li>Take ownership of delivery from design and implementation through deployment and production operation.</li>\n</ul>\n<p></p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>Strong experience building and operating distributed backend systems in production</li>\n<li>Expert in Java or C++, with working knowledge of Python</li>\n<li>Strong understanding of distributed systems, concurrency, and scalable system design</li>\n<li>Experience with event-driven architectures and messaging platforms such as Kafka</li>\n<li>Proven track record building high-performance, low-latency systems</li>\n<li>Ability to translate complex business requirements into robust technical solutions</li>\n<li>Ownership mindset with strong stakeholder management and communication skills</li>\n<li>Experience with modern engineering practices including testing, code reviews, observability, and automation</li>\n<li>Comfortable leveraging AI tools to improve productivity while maintaining quality and accountability.</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience in trading, capital markets, or financial services</li>\n<li>Exposure to Google Cloud Platform (GCP)</li>\n<li>Experience with Kubernetes, Docker, and cloud-native technologies</li>\n<li>Knowledge of BigQuery or large-scale data platforms</li>\n<li>Experience working in low-latency, high-throughput environments</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
+      "description": "<p>Flow Traders is transforming its institutional trading platform across Equities, ETFs, Fixed Income, and Crypto. As part of OTCTECH, you will work directly with traders, quants, Operations, Risk, and Compliance to design and deliver a new OTC Trading Engine, automate operational workflows, and modernise existing applications into reliable, maintainable systems.</p>\n<p>We are looking for a Senior Software Engineer who can take ownership of complex problems from discovery through production. You will need to understand how trading activities and data flow across systems, define clear technical boundaries, make sound architectural decisions, and build solutions that perform reliably in a demanding environment.</p>\n<p>This role combines greenfield platform development with the opportunity to understand and evolve an established technology estate. It is grounded in strong engineering fundamentals, with quality, correctness, operational resilience, and clear technical judgment at its foundation.</p>\n<p>&nbsp;</p>\n<h4>What you will do</h4>\n<h4>Understand the Trading Domain</h4>\n<ul>\n<li>Work directly with traders, quants, Operations, Risk, and Compliance to understand requirements and how trading workflows operate in practice.</li>\n<li>Trace business processes and data flows across pre-trade research, execution, post-trade processing, risk, and compliance.</li>\n<li>Identify opportunities to improve resilience, consistency, automation, and operational efficiency.</li>\n<li>Build a shared understanding of system responsibilities, dependencies, and operational considerations.</li>\n<li>Design and Modernise the Platform<br>Help design and deliver a new OTC Trading Engine spanning Equities, ETFs, Fixed Income, and Crypto.</li>\n<li>Define appropriate service boundaries, data models, interfaces, and event flows.</li>\n<li>Modernise existing applications where new business or engineering requirements create opportunities for improvement.</li>\n<li>Make and document architectural decisions, balancing performance, reliability, simplicity, and delivery speed.</li>\n<li>Design greenfield services and platforms that can be operated and evolved safely over time.</li>\n</ul>\n<h4>Build Reliable Trading Systems</h4>\n<ul>\n<li>Develop high-performance services, data pipelines, and integrations across Java, C++, and Python environments.</li>\n<li>Build event-driven systems using messaging and pub/sub patterns.</li>\n<li>Engineer for production from the outset, including testing, observability, failure handling, and operational support.</li>\n<li>Embed monitoring, root-cause analysis, and recovery mechanisms so issues are identified and resolved quickly.</li>\n<li>Take ownership of delivery from design and implementation through deployment and production operation.</li>\n</ul>\n<p>&nbsp;</p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>Strong experience building and operating distributed backend systems in production</li>\n<li>Expert in Java or C++, with working knowledge of Python</li>\n<li>Strong understanding of distributed systems, concurrency, and scalable system design</li>\n<li>Experience with event-driven architectures and messaging platforms such as Kafka</li>\n<li>Proven track record building high-performance, low-latency systems</li>\n<li>Ability to translate complex business requirements into robust technical solutions</li>\n<li>Ownership mindset with strong stakeholder management and communication skills</li>\n<li>Experience with modern engineering practices including testing, code reviews, observability, and automation</li>\n<li>Comfortable leveraging AI tools to improve productivity while maintaining quality and accountability.</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience in trading, capital markets, or financial services</li>\n<li>Exposure to Google Cloud Platform (GCP)</li>\n<li>Experience with Kubernetes, Docker, and cloud-native technologies</li>\n<li>Knowledge of BigQuery or large-scale data platforms</li>\n<li>Experience working in low-latency, high-throughput environments</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
       "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8324146",
       "source": "Greenhouse",
-      "posted_at": "2026-10-26T05:33:45-04:00",
+      "posted_at": "2026-10-28T05:48:34-04:00",
       "first_seen": "2026-10-26T14:08:33.492248+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8029679002": {
@@ -635,7 +622,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-26T08:41:45-04:00",
       "first_seen": "2026-10-26T14:08:33.492248+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
     "8916552002": {
@@ -648,20 +635,98 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-26T14:04:09-04:00",
       "first_seen": "2026-10-27T13:09:29.677923+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-data-engineer-united-kingdom-82919": {
-      "id": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-data-engineer-united-kingdom-82919",
-      "title": "Senior Data Engineer",
-      "company": "Midnite",
-      "location": "United Kingdom",
-      "description": "🚀 Why Midnite? Midnite is a next-generation sports betting and gaming platform built for a new wave of players. We combine sharp product thinking, bold brand, and fast execution to create experiences that feel modern, intuitive, and built for how people actually play today. Over 400,000 players have already made the move, and we’re only just getting started. We’re a high-performance team operating at pace. High ownership. Constant iteration. No hiding behind processes. We move quickly, test relentlessly, and turn ambitious ideas into real impact. If you’re driven, creative, and thrive in fast-moving environments where you can shape meaningful outcomes - keep reading. Not your grandad’s bookie. 👀 The Role Title: Senior Data Engineer Team: Data Location: Remote UK Salary bands: £85,000 - £100,000 As Senior Data Engineer, you’ll help scale the data platform that powers decision making across Midnite. You’ll work on core platform improvements, reliable data pipelines, modern data tooling, and lower-latency analytics foundations that support the next stage of company growth. This is a high-ownership role for someone who brings strong engineering fundamentals and wants to shape how data engineering is done as the team scales. You will: Design, build, and maintain scalable data pipelines using Python, SQL, Snowflake, Dagster, dbt, and AWS. Own end to end data engineering projects from ingestion through to analytics enablement. Develop and optimise reliable SQL based data models. Help build a stronger staging and testing environment for data changes before production. Improve monitoring, alerting, and data quality across key pipelines. Contribute to CDC and lower latency data movement initiatives. Work closely with Product, Analytics, Engineering, and business stakeholders. Participate in code reviews and help raise engineering standards across the team. Pair with other engineers where needed and support more junior team members as the team grows. The next Midniter: Has strong data engineering experience and can operate at senior individual contributor level. Brings strong software engineering foundations and production-grade engineering habits. Is highly capable with Python and SQL in real data engineering environments. Has experience with modern data tooling such as Snowflake, dbt, Dagster, Airflow, AWS, or similar. Understands data modelling principles and can apply them pragmatically. Cares about testing, monitoring, alerting, and data quality. Thrives in a startup or scale-up environment with high ownership and ambiguity. Communicates clearly with technical and non-technical stakeholders. 💰 Winnings Private health insurance with zero excess, including optical cover and optional dental. Income protection to protect your earnings and give you peace of mind. Tenure holiday policy. After three years you receive an extra two days leave, increasing to 30 days annually after five years. Flexible working and a fully supported home office setup so you can do your best work from home. Nursery salary sacrifice scheme helping parents save thousands each year on nursery fees. Salary sacrifice schemes for tech and holidays so you can spread the cost of the things you want. Retail discounts and subscription perks across a wide range of brands. Quarterly team socials to connect, celebrate and have fun together. At Midnite, we’re committed to creating equal opportunities for everyone. We actively strive to build balanced teams that reflect the diversity of our communities, including ethnic minorities, people with disabilities, the LGBTQIA+ community, and all genders. We aim to provide an inclusive and supportive interview experience for all candidates. If you require any reasonable adjustments, please let us know in advance so we can ensure you feel comfortable and set up for success. Find more English Speaking Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/senior-data-engineer-united-kingdom-82919",
+    "8327098": {
+      "id": "8327098",
+      "title": "Senior Software Engineer - Post-Trade Platform",
+      "company": "Flow Traders",
+      "location": "Amsterdam ",
+      "description": "<p></p>\n<div>\n<p>Flow Traders is building the next generation of its post-trade platform, covering trade capture, reconciliation, settlement, booking, reporting, and operational workflows across Equities, ETFs, Fixed Income, and Crypto.&nbsp;We are looking for a Senior Software Engineer to take end-to-end ownership of key post-trade domains, helping shape the platform architecture while building reliable, automated, and data-driven services.</p>\n</div>\n<p>This role is ideal for an engineer who enjoys solving complex problems, thinking in systems, and building high-quality platforms that deliver real business impact.</p>\n<h4>What you will do</h4>\n<ul>\n<li>Own and develop critical post-trade domains such as reconciliation, settlement, booking, and reporting</li>\n<li>Work closely with Trading, Operations, Risk, Compliance, and Data teams to understand workflows and requirements</li>\n<li>Design and build scalable backend services and data pipelines</li>\n<li>Improve automation, data quality, resilience, and operational efficiency</li>\n<li>Contribute to the target architecture and technical roadmap of the post-trade platform</li>\n<li>Ensure observability, reliability, and data correctness across systems</li>\n</ul>\n<p></p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>5+ years of experience building distributed backend systems using Java or C++, with exposure to Python</li>\n<li>Strong understanding of distributed systems, data structures, algorithms, and event-driven architectures</li>\n<li>Experience with messaging technologies such as Kafka</li>\n<li>Hands-on experience building data-intensive systems, ETL pipelines, and analytical data solutions</li>\n<li>Strong SQL and data modelling skills</li>\n<li>Proven ability to own complex technical domains from design through production support</li>\n<li>Strong stakeholder management and communication skills</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience with post-trade workflows, including reconciliation, settlement, booking, or regulatory reporting</li>\n<li>Background in financial services, proprietary trading, or market making</li>\n<li>Experience with GCP, Kubernetes, CI/CD, Airflow, Spark, Flink, or similar technologies</li>\n<li>Knowledge of observability tools such as Prometheus, Grafana, or OpenTelemetry</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
+      "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8327098",
+      "source": "Greenhouse",
+      "posted_at": "2026-10-28T04:58:28-04:00",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "8023162": {
+      "id": "8023162",
+      "title": "Credit Model Validation Manager (Machine Learning & NPV Models)",
+      "company": "Monzo",
+      "location": "Cardiff, London or Remote (UK)",
+      "description": "<div class=\"content-intro\"><p><strong><em>🚀 We’re on a mission to make money work for everyone.</em></strong></p>\n<p>We’re waving goodbye to the complicated and confusing ways of traditional banking.</p>\n<p>After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp;<a href=\"https://monzo.com/current-account/personal\">personal</a> and <a href=\"https://monzo.com/business-banking\">business</a> bank accounts, we offer <a href=\"https://monzo.com/current-account/joint-account\">joint accounts</a>, <a href=\"https://monzo.com/current-account/16-17\">accounts for 16-17 year olds</a>, a <a href=\"https://monzo.com/current-account/under-16s\">free kids account</a> and <a href=\"https://monzo.com/flex\">credit cards</a> in the UK, with more exciting things to come beyond. Our UK customers can also <a href=\"https://monzo.com/savings\">save</a>, <a href=\"https://monzo.com/investments\">invest </a>and&nbsp;<a href=\"https://monzo.com/pensions\">combine their pensions</a> with us.&nbsp;</p>\n<p>With our hot coral cards and get-paid-early feature, combined with financial education on social media and our award winning customer service, we have a long history of creating magical moments for our customers!</p>\n<p>We’re not about selling products - we want to solve problems and change lives through Monzo ❤️</p>\n<hr>\n<p>&nbsp;</p></div><p>📍London or Remote (UK)&nbsp; | 💰 £79,000 - £93,000 + Incentive Awards tied to your performance +<a href=\"https://monzo.com/careers/\"> Benefits</a></p>\n<p><strong>🌟 About the team:</strong></p>\n<p>Our Borrowing (lending) business is growing rapidly across both existing products and with the planned launch of new initiatives. As our lending portfolio grows, our second line of defence Credit Model Validation team is growing with it - and we’re looking for a Credit Model Validation Manager to join us!</p>\n<p>Our Credit Model Validation team is crucial in providing independent oversight and challenge to our model development teams in the first line of defence to help Monzo grow safely and ensure that the models we use deliver good outcomes for our customers. We’re looking for someone (maybe you?!) to join our validation squad and provide expert independent validation and oversight across our suite of credit models, covering critical business disciplines such as credit strategy and impairment.</p>\n<p>You’ll have a particular focus on models used for customer-level decisioning and defining our credit strategies - such as underwriting scorecards, origination PD models and Net Present Value (NPV) / unit economics models - across all our lending products.</p>\n<p>Strong data and analytical skills are a must, as is deep expertise in credit risk modelling. You’ll have hands-on experience in either model validation or model development within a financial services environment, including practical experience using Python to develop, validate or analyse machine learning and statistical models. . In-depth knowledge of credit decisioning models would be a strong plus.&nbsp;</p>\n<p><strong>🔑 You’ll play a key role by…</strong></p>\n<ul>\n<li>Leading hands-on independent validation of models used for credit decisioning within our Borrowing strategies - covering a range of machine learning, decision science and NPV models. You will be ensuring that models are fit for purpose, appropriately governed, explainable and performing as expected</li>\n<li>Supporting oversight and validation of broader credit risk models, including IFRS9, stress testing and economic response models</li>\n<li>Developing deep understanding of Monzo’s credit models, and using this to provide impactful input and challenge to model developers to improve our modelling capabilities</li>\n<li>Reviewing ongoing model performance monitoring to ensure our lending models perform within our risk thresholds, and providing support to our first line of defence teams when action is required</li>\n<li>Performing statistical analyses to independently assess model performance, including developing challenger models where appropriate to test model assumptions and strengthen validation conclusions</li>\n<li>Improving our Model Risk Framework, including overseeing our policies, standards and procedures to help embed best practice across the business. This means making sure we follow up-to-date regulatory guidelines, and adapt our processes to make sure they remain relevant as modelling techniques evolve</li>\n<li>Writing clear and impactful model validation reports, and presenting the findings and actions in relevant committees</li>\n<li>Partnering with colleagues in the first line of defence credit strategy and modelling teams - and wider risk teams across Monzo - to support the embedding of our model risk framework and establishing consistent validation standards across the organisation</li>\n<li>Embracing new and innovative technology, including leading the adoption of AI tools to enhance our model validation approach</li>\n</ul>\n<p><strong>&nbsp;🤩 We’d love to hear from you if…</strong></p>\n<ul>\n<li>Have a strong background and practical experience in credit model development and/or validation - in particular with exposure to machine learning or statistical models used in credit decisioning, such as decision science scorecards, origination / underwriting PD models, and NPV / unit economics modelling</li>\n<li>Are data driven, with strong analytical skills and deep understanding of statistical techniques for credit and model risk. Being able to get hands on with data is critical - so strong SQL and Python skills are essential, and experience with data visualisation tools such as Tableau, Looker or similar is a plus!</li>\n<li>Understand how models are used in real-time decisioning and lending strategies, and how to balance commercial and risk outcomes</li>\n<li>Have strong written and verbal communication skills, and are able to articulate problems and solutions using clear and simple language. This is particularly important for breaking down complex issues and priorities to non-experts</li>\n<li>Have a track record of building and maintaining trusting relationships with stakeholders at all levels, and can provide effective and respectful challenge</li>\n<li>Are impact-driven, and proactive in identifying issues and opportunities to improve outcomes for both our customers and our business</li>\n<li>Are passionate about technology, and what we’re doing here at Monzo excites you!</li>\n</ul>\n<p><strong>Our technology stack</strong></p>\n<p>We rely heavily on the following tools and technologies (note we do not expect applicants to have prior experience of all them):</p>\n<ul>\n<li><a href=\"https://cloud.google.com/\">Google Cloud Platform</a> for all of our analytics infrastructure</li>\n<li><a href=\"https://www.getdbt.com/\">dbt</a> and<a href=\"https://cloud.google.com/bigquery/\"> BigQuery SQL</a> for our data modelling and warehousing</li>\n<li>Python for data science and machine learning</li>\n<li><a href=\"http://golang.org/\">Go</a> to write our application code</li>\n<li><a href=\"http://aws.amazon.com/\">AWS</a> for most of our backend infrastructure</li>\n</ul>\n<p><strong>The interview process:&nbsp;</strong></p>\n<p>Our interview process usually involves up to four main stages via Google Hangouts:&nbsp;</p>\n<ul>\n<li>An initial call with our recruiter</li>\n<li>A call with our Senior Model Validation Manager, the hiring manager for the role&nbsp;</li>\n<li>A role-specific call with colleagues from our credit modelling teams. We’ll share a short case study in advance, but you won’t need to submit a written response; we’ll use it to guide the discussion during the interview.</li>\n<li>A behavioural interview&nbsp;<br><br>\n<p><strong>🙌 What’s in it for you</strong></p>\n</li>\n<ul>\n<li>💰 £79,000 - £93,000 + Incentive Awards tied to your performance benefits.<br><br></li>\n<li>📍 This role can be based in our London office, but we're open to distributed working within the UK (with ad hoc meetings in London).<br><br></li>\n<li>⏰ We offer flexible working hours and trust you to work enough hours to do your job well, and at times that suit you and your team.<br><br></li>\n<li>📚 £1,000 learning budget each year to use on books, training courses and conferences.<br><br></li>\n<li>🏡 We will set you up to work from home; all employees are given MacBooks and for fully remote workers we will provide extra support for your work-from-home setup.<br><br></li>\n<li>➕ Plus lots more! Read our full list of&nbsp;<a href=\"https://monzo.com/careers\">benefits</a>.<br><br></li>\n</ul>\n</ul>\n<p>We have some guidelines on using Artificial Intelligence (AI) to ace an application and interview at Monzo. You can read them <a href=\"https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo\">here</a>.</p>\n<p>We’ll close this role once we have enough applications for the next stage, so please apply as soon as you can - we don’t want you to miss out!<br><br>LinkedIn Tags: <strong>#LI-TK1</strong></p><div class=\"content-conclusion\"><hr>\n<p><strong>Equal opportunities for everyone</strong></p>\n<p>Diversity and inclusion are a priority for us and we’re making sure we have lots of support for all of our people to grow at Monzo. At Monzo, we’re embracing diversity by fostering an inclusive environment for all people to do the best work of their lives with us. This is integral to our mission of making money work for everyone. You can read more in our <a href=\"https://monzo.com/blog/diversity-and-inclusion\">blog</a>, 2026 <a href=\"https://monzo.com/blog/our-2026-diversity-and-inclusion-report\" target=\"_blank\">Diversity and Inclusion Report</a> and 2025 <a href=\"https://monzo.com/blog/gender-pay-gap-report-2025\">Gender Pay Gap Report.</a></p>\n<p>We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion, sex, sexual orientation, gender identity, family or parental status, national origin, or veteran, neurodiversity or disability status.</p>\n<p>If you have a preferred name, please use it to apply. We don't need full or birth names at application stage 😊</p></div>",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/8023162",
+      "source": "Greenhouse",
+      "posted_at": "2026-10-28T07:01:23-04:00",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-credit-card-payments-london-402735": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-credit-card-payments-london-402735",
+      "title": "Senior Backend Engineer - Credit Card Payments",
+      "company": "iwoca",
+      "location": "London",
+      "description": "Senior Backend Engineer - Credit Card Payments Hybrid in London, United Kingdom We're looking for a Senior Backend Engineer to join the Payments Infrastructure team. You’ll design and build the payments platform behind iwoca’s business credit card – the services that approve each payment, monitor transactions for fraud, and pay out cashback. The company Small businesses move fast. Opportunities often don’t wait, and cash flow pressures can appear overnight. To keep going, and growing, SMEs need finance that’s as flexible and responsive as they are. That's why we built iwoca. Our smart technology, data science and five-star customer service ensures business owners can act with the speed, confidence and control they need, exactly when it's needed. We’ve already cleared the way for 100,000 businesses with more than £4 billion in funding. Our passionate team is driven to help even more SMEs succeed, through access to better finance and other services that make running a business easier. Our ultimate mission is to support one million SMEs in their defining moments, creating lasting impact for the communities and economies they drive. The team iwoca launched its business credit card in 2026. It gives small businesses a fast, flexible way to pay for what they need and control their cash flow, alongside iwoca’s loans. The card is a core part of iwoca’s long-term growth. The Payments infrastructure team builds iwoca’s card payments platform. Its job is to approve each payment in moments when a customer uses their card. The team also builds the platforms that pay out rewards as customers spend and monitor every transaction. The team is small – a principal engineer, a product manager with a background in payments, and you. It works closely with iwoca’s ledger, fraud and customer product teams. The role As a senior backend engineer, you’ll own services and projects end to end, and shape the platform’s architecture with the principal engineer, from service boundaries to how authorisation, rewards, and transaction monitoring fit together. You’ll work closely with product to decide what the team builds and how. There’s still plenty to build, and you’ll take new services into production. You’ll build on your payments expertise alongside the principal engineer, with scope to grow as the platform matures. Most of the challenge is technical: scaling payments within card scheme rules and the regulation iwoca has to meet. Your code will run every time a small business uses its iwoca card. Live project examples: Payment authorisation. Extending the service built to approve or decline each card payment in real time, using data held in other services. It places a hold on available credit in the ledger and applies iwoca's own checks, such as account status, merchant category code restrictions, and spend limits. Transaction monitoring. Building the service that will screen card transactions for fraud and financial-crime risk as customers spend, so iwoca will rely less on third parties. Rewards. Extending the service that pays out cashback, as the team adds to what the card offers. Testing for failure. Designing sandbox tests that cover edge cases and failures across the card transaction lifecycle. Ledger cutover and go-live. Moving the card platform onto iwoca's own ledger and infrastructure with as little downtime as possible, then fixing the issues that only show up in production. The requirements Essential: Payment systems. You've designed and run highly available, low-latency payment systems in production, ideally on the issuing side. Card payment flows. You've worked on card authorisation and clearing, and traced transactions from the terminal, through the acquirer and card scheme, to the issuer. You've used response codes to diagnose declined transactions. Backend engineering. You have deep expertise in at least one object-oriented language. You've written and run backend services in it. Distributed systems. You've built microservices, REST APIs, and asynchronous messaging with queues or topics, and designed the database schemas behind them, ideally in PostgreSQL. AI leverage. You've built agentic workflows, or used AI to scale your engineering output beyond what you could deliver alone, at work or in your own projects. You judge when to use it and when not to, and you check its output before it reaches production. Communication. You write and speak clearly, directly, and concisely. You adapt technical detail to your audience. Bonus: Ledgers and clearing. You've worked on a ledger, reconciliation, or clearing system – for cards, loyalty points, bank transfers, or money remittance. Testing. You've written automated tests for payment systems, ideally test-first. Python. You've used Python in production. It's the language the team works in. The salary We expect to pay from £100,000 to £120,000 for this role. But, we're open-minded, so definitely include your salary goals with your application. We routinely benchmark salaries against market rates, and run quarterly performance and salary reviews. The culture At iwoca, the best idea wins. We model our culture on independent thinking, challenging untested logic, and evidence-based decisions. We prioritise learning and growth, and give people the autonomy to develop in the direction that makes them most effective. We're a tech company and believe in the power of AI to help us work faster and better. We provide the infrastructure where every iwocan always has access to the best models and where those models have access to all of our data. We will help our people to learn how to use and grow with the new tools available to them. The offices We put a lot of effort into making iwoca a great place to work: Offices in London, Leeds, Berlin, and Frankfurt with plenty of drinks and snacks. Events and community-led groups, including running groups, padel, and monthly ping-pong and pool competitions. The benefits Flexible working hours. Medical insurance from Vitality, including discounted gym membership. A private GP service (separate from Vitality) for you, your partner, and your dependents. 25 days’ holiday per year, an extra day off for your birthday, the option to buy or sell an additional five days of annual leave, and unlimited unpaid leave. A one-month, fully paid sabbatical after four years. Instant access to external counselling and therapy sessions for team members that need emotional or mental health support. 3% Pension contributions on total earnings. An employee equity incentive scheme. Generous parental leave and a nursery tax benefit scheme to help you save money. Electric car scheme and cycle to work scheme. Two company retreats a year: we’ve been to France, Italy, Spain, and further afield. And to make sure we all keep learning, we offer: A learning and development budget for everyone. Company-wide talks with internal and external speakers. Access to learning platforms like Treehouse. Useful links: iwoca benefits & policies Interview welcome pack Compensation: £100K – £120K • £100K – £120K Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iwoca/senior-backend-engineer-credit-card-payments-london-402735",
       "source": "www.arbeitnow.com",
-      "posted_at": "1793094014",
-      "first_seen": "2026-10-27T13:09:29.677923+00:00",
-      "last_seen": "2026-10-27T13:09:29.677923+00:00",
+      "posted_at": "1793191215",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineer-technical-data-architect-london-464919": {
+      "id": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineer-technical-data-architect-london-464919",
+      "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
+      "company": "databricks",
+      "location": "London",
+      "description": "<p><strong>Req ID: CSQ128R26</strong></p>\n<p><strong>Location: London, United Kingdom - Hybrid&nbsp;</strong></p>\n<p><strong>Job Role: Senior Forward Deployed Engineer - Technical Architect level</strong></p>\n<p><strong>Recruiter: Dina Hussain</strong></p>\n<p>We’re hiring for multiple roles within our FDE team.&nbsp;</p>\n<p>As a Forward Deployed Engineer (FDE), you will work with customers to build and productionize solutions to their data &amp; AI challenges using the Databricks platform. You will own the architecture, lead design decisions, and implement end-to-end systems spanning data engineering, AI, and application development. We work cross-functionally to shape long-term strategic priorities and initiatives alongside engineering, product, and developer relations. FDEs deliver with customer empathy, integrating with client systems, training, and other technical needs to help customers get the most value out of their data.&nbsp;</p>\n<p>This is a hands-on, customer-facing role for builders who thrive at the intersection of technology and business impact. The ideal candidate combines engineering expertise with adaptability, curiosity, and a passion for working with customers and teammates to solve complex problems that drive measurable outcomes. FDEs are billable and know how to complete projects according to specifications with exceptional customer empathy.</p>\n<p><strong>The impact you will have:</strong></p>\n<ul>\n<li>Production Solution Delivery: Lead impactful customer technical projects by delivering production-grade systems, designing and building reference architectures, custom applications and data ingestion and ML/AI model integration</li>\n<li>Transformational Impact: Guide strategic customers as they implement transformational big data projects, including end-to-end design, build and deployment of industry-leading big data and AI applications. Work with engagement managers to scope technical delivery work with input from the customer</li>\n<li>Empower Customers: Guide customers on architecture and design; bootstrap or implement customer projects that lead to a customer's successful understanding, evaluation and adoption of Databricks.</li>\n<li>Own the Architecture: Lead architecture and design decisions, ensuring solutions are secure, scalable, and aligned with both customer needs and Databricks best practices.</li>\n<li>Work with the Databricks technical team, Project Manager, Architect and Customer team to ensure the technical components of the engagement are delivered to meet customers' needs.</li>\n<li>Work with Engineering and Databricks Customer Support to provide product and implementation feedback and to guide rapid resolution for engagement-specific product and support issues.</li>\n<li>Customer Immersion: Embed with customer teams, engaging with stakeholders from technical ICs to executives to deeply understand challenges and deliver impact.</li>\n<li>Reusable Assets &amp; Scale: Contribute accelerators, frameworks, and best practices that scale impact across accounts and influence the Databricks product roadmap.</li>\n</ul>\n<p><strong>What we look for:</strong></p>\n<ul>\n<li><strong>Experience in data engineering, data platforms &amp; analytics, or software engineering / full stack development</strong></li>\n<li>Comfortable writing code in either Python, Scala, JavaScript/TypeScript, and modern frameworks</li>\n<li>Working knowledge of two or more common Cloud ecosystems (AWS, Azure, GCP) with expertise in at least one</li>\n<li>Deep experience with distributed computing with Apache Spark™ and knowledge of Spark runtime internals</li>\n<li>Familiarity with CI/CD for production deployments</li>\n<li>Working knowledge of MLOps, ML/AI models and AI APIs</li>\n<li>Design and deployment of performant production end-to-end data architectures and applications that combine data pipelines, ML/AI models, and user-facing interfaces.</li>\n<li>Experience with technical project delivery - managing scope, timelines and measurable outcomes, translating complex concepts into actionable solutions.</li>\n<li>Documentation and white-boarding skills.</li>\n<li>Experience working with enterprise clients and managing conflicts across a broad stakeholder range</li>\n<li>Build skills in technical areas, and demonstrate curiosity, adaptability, and eagerness to explore new technologies which support the deployment and integration of Databricks-based solutions to complete customer projects.</li>\n<li>Travel to customers 20% of the time</li>\n<li>Databricks Certification - an advantage</li>\n</ul><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div> Find more English Speaking Jobs in United Kingdom on Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/senior-forward-deployed-engineer-technical-data-architect-london-464919",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1793159724",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365": {
+      "id": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
+      "title": "Senior Software Engineer - Fullstack",
+      "company": "databricks",
+      "location": "Amsterdam",
+      "description": "<p>P-1321</p>\n<p>At Databricks, we are passionate about enabling data teams to solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers — and customer obsessed — we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for interfacing with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.</p>\n<p>Unlike traditional enterprise software, we design and build modern SaaS products that bring delight to all of the stakeholders: decision makers, admins, and end users. As a full stack software engineer, you will work closely with your team and product management to bring that delight through great user experience.</p>\n<p>Below are some example teams you can join:</p>\n<p><strong>SQL Analytics Console: </strong>SQL Analytics is a new product that provides Databricks customers with a first-class experience for performing Business Intelligence (BI) and running SQL workloads directly on the data lake. Our team builds the \"console\" for SQL Analytics, where users configure, manage and monitor their SQL usage.</p>\n<p><strong>Jobs and Workflows: </strong>This team powers all asynchronous customer workloads for Databricks which is the majority of Databricks usage. As this usage has rapidly increased - we've rearchitected the system for increased stability and scalability. We are also building exciting new features for more advanced workflows and customer observability. This team has a mix of frontend, backend, and reliability engineering skills &amp; projects.</p>\n<p><strong>Developer Ecosystem:</strong> The developer ecosystem team focuses on the development experience and best practices using tools<strong> </strong>outside of the workspace. We own and govern the core developer ecosystem open-source components: the SDK, the CLI, and Terraform.</p>\n<p><strong data-stringify-type=\"bold\">Apps Developer Experience -&nbsp;</strong>This is the team that makes developing Apps on Databricks delightful and easy. We have built an SDK and services for app developers -&nbsp;<a class=\"c-link c-link--focus-visible\" href=\"https://github.com/databricks/appkit\" target=\"_blank\" data-stringify-link=\"https://github.com/databricks/appkit\" data-sk=\"tooltip_parent\">AppKit</a>. Our Codegen sub-team builds tools that enable agents to generate Apps that work first time. We're currently. working on an MCP server for Cursor/Claude Code and are working on Skills.</p>\n<p><strong>What we look for:</strong></p>\n<ul>\n<li>BS/MS/PhD in Computer Science, or a related field</li>\n<li>5+ years of experience with HTML, CSS, and JavaScript</li>\n<li>Passion for user experience and design and a deep understanding of front-end architecture</li>\n<li>Comfortable working towards a multi-year vision with incremental deliverables</li>\n<li>Experience with modern JavaScript frameworks (e.g., React, Angular, VueJs/Ember)</li>\n<li>Strong familiarity with server-side web technologies (eg: Nodejs, Java, Python, Scala, C#, C++,Go, JVM)</li>\n<li>Good knowledge of SQL</li>\n<li>Experience with cloud technologies, e.g. AWS, Azure, GCP, Docker, Kubernetes</li>\n<li>Experience in architecting, developing, deploying, and operating large scale distributed systems</li>\n</ul><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p>\n<p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/databricksinc/?hl=en\">Instagram</a>.<br><br><strong>Benefits<br><br></strong></span>At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click <a href=\"https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing\">here</a>.<br><br></p>\n<p><strong>Our Commitment to Diversity and Inclusion</strong></p>\n<p>At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.</p>\n<p><strong>Compliance</strong></p>\n<p><strong><span style=\"font-weight: 400;\">If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.</span></strong></p></div> Find Jobs in Netherlands on Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/databricks/senior-software-engineer-fullstack-amsterdam-449365",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1793159724",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-devops-engineer-amsterdam-366352": {
+      "id": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-devops-engineer-amsterdam-366352",
+      "title": "Senior DevOps Engineer",
+      "company": "Polarsteps",
+      "location": "Amsterdam",
+      "description": "We're an Amsterdam-based team of 100 (and counting), with 25+ nationalities and hundreds of thousands of kilometers under our collective travel belts. What we have in common, beyond very well-worn passports, is this: We want to change the way people travel. That's exactly what we're doing, with the app that lets you plan, track, and relive every trip. Polarsteps has over 20 million users already. For us, this is just the beginning. Your expedition: DevOps at Polarsteps One person, the whole platform. Polarsteps helps 23+ million travellers plan, track and relive their trips, and all of it runs on our infrastructure. As our DevOps Engineer, you’ll be the main point of contact for that infrastructure. You’ll work alongside our Platform team and support all 8 of our engineering teams, so everyone can ship with confidence. There’s plenty of room to bring your own ideas and improve how we work, with a supportive team around you to figure things out together. If you enjoy being hands-on, setting up good processes and helping others make the right technical choices, this is your kind of adventure. Our ambition is big. We want our infrastructure ready for 100 million+ users, built efficiently in both cost and resources. Your itinerary What your journey at Polarsteps will look like day-to-day: You will: Report to Simeon, our Lead Backend Engineer, and work closely with our Platform team (Youri, William, Paco, Jimmy, Florian and Ledio) and team leads across Engineering. Own the day-to-day operations of our AWS stack, including S3 and our PostgreSQL databases. Spot bottlenecks in our architecture and scaling, both for users and for developer experience. You’ll create and execute a plan with Engineering and other stakeholders. Review, improve and maintain our observability, monitoring and alerting. Manage and respond to incidents, and keep our infrastructure and troubleshooting documentation up to date. Strengthen platform security and privacy, working alongside our external security lead. Lead initiatives like rolling out company-wide SSO and managing our VPN. You use AI tools like Claude Code, MCP servers and AI-assisted observability (e.g. Datadog) as a daily part of your workflow, from debugging incidents and infrastructure issues to writing and reviewing code. Support our Data team with the infrastructure behind our analytics stack. The equipment in your backpack What we’re hoping you’ll bring with you: 5+ years as a DevOps Engineer, SRE or Platform Engineer. Experience automating infrastructure and processes on AWS. Fluency in shell scripting, Python and Terraform / OpenTofu. Experience monitoring, troubleshooting and scaling a similar stack (Python, PostgreSQL/RDS) under growing load. Comfort making changes to backend code when automation calls for it. A pragmatic mindset: you know when to cut corners and when to build something that lasts. Clear communication with technical and non-technical people, helping them reach decisions on complex trade-offs. Autonomy and a collaborative nature. You’re happy setting up your own processes while working with everyone. Knowledgeable of platform security best practices. Bonus points if you’ve worked with Nix, Kubernetes, ArgoCD or ECS, RabbitMQ, or TypeScript on the frontend ✨ 1st class extras Some cool things to make the journey extra sweet. Salary range: Between EUR 84.000 and 99.000 gross per year incl 8% holiday allowance (based on 40 hours/week). Where you land in the range depends on your experience and skills, to be evaluated during the interview process. Equity: You'll be able to participate in our Polarsteps SAR Plan. A yearly free flight or train to a random location! Give our Teleporter a spin here. A shiny new MacBook to work your magic on. Hybrid working. Split your time between the office and your home, as you see fit. An extensive home office set-up — everything from noise-canceling headphones to a standing desk. 30 days of vacation (for adventures or sitting on the couch, it's up to you). Two paid Culture Days for days that are important to you, but not recognized by the official Dutch calendar. The option to switch up your zoom background by working from another country for up to 8 weeks a year. A personal development budget for that curious mind of yours! A pension plan to help you save for those around-the-world retirement trips. Delicious daily office lunches. Awesome monthly parties, as well as team trips away. A lively office in downtown Amsterdam, with travel costs reimbursed. Free Polarsteps Travel Books to contain all your far-flung adventures. At Polarsteps, we believe the best products are built by people as diverse as the travelers using our apps! That's why we specifically encourage people underrepresented in the tech industry to apply for a role with us. Because we believe that diversity — be it age, race, sexual orientation, physical ability, ethnicity, or gender identity — makes both the world and the workplace better. Think this is the path for you? Find out more about how we hire. Find Jobs in Netherlands on Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-devops-engineer-amsterdam-366352",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1793126438",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
+      "analysis": {}
+    },
+    "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-frontend-engineer-amsterdam-345968": {
+      "id": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-frontend-engineer-amsterdam-345968",
+      "title": "(Senior) Frontend Engineer",
+      "company": "Polarsteps",
+      "location": "Amsterdam",
+      "description": "Looking for a new adventure? You’ve come to the right place. We're an Amsterdam-based team of 90+ (and counting) with 25+ nationalities amongst us! A varied bunch of “Citizens of The World” with a wide range of skills and hundreds of thousands of kilometers under our travel belts. And we have something important in common (other than our very well-worn passports): We want to change the way people travel. And that's exactly what we're doing, with the travel app to plan, track, and relive trips in a smart and beautiful way. Polarsteps has over 20 million users already, but, for us, this is just the beginning. We have big plans for the future, and so we need even more talented and enthusiastic people to help us on our journey. Want to know more about us? Here you go. Your expedition: Frontend Engineering at Polarsteps We’re a small team, doing big things. If you haven't seen our app yet, go ahead and check it out; you'll see that we care (a lot) about providing a seamless, top-quality user experience for every one of our travelers. And it is this that has got us ratings of 4.8 and 4.7 on the app stores (where we’ve been featured multiple times). But it doesn’t stop there: not only did Google create this awesome video about us, but we’ve been mentioned in two of Apple’s WWDC keynote speeches! We’ve got an impressive past, but we’re even more excited for the future, and the impact you can make from day one is huge, with everything you ship affecting more than 23 million users. Even with that in mind, we believe in truly giving our team members the freedom they need to craft to perfection while encouraging a practical mindset to avoid under- or over-engineering mishaps. We are seeing enthusiastic and accelerated growth of the travel industry, and with that comes both opportunities and growing pains. So, if you enjoy creating thoughtful user experiences, obsessing over performance and polish, and solving the challenges that come with building a product used by millions, you're in for a lot of fun with us. Your itinerary What your journey at Polarsteps will look like day-to-day. You will: Work on all things at the forefront of our beautiful and complex web app, and create new features that will impact millions of users. Help our Product team by creating prototypes and sharing your knowledge. Build fun internal tools like our teleporter. Take part in daily interactions with product managers, designers, other engineers, and the rest of our team, we believe in a deeply collaborative environment. Proactively improve the resiliency, maintainability, and scalability of our platform, addressing technical debt when needed or, even better, preventing it when it makes sense. The equipment in your backpack What we’re hoping you’ll bring with you. ✅  5-7+ years of a strong frontend background. We work with React and Typescript and would love it if you are familiar with them, or a similar technology. ✅  A pragmatic approach to solving the problem at hand. You shouldn’t be scared of tackling big challenges in automated testing, optimizing performance or developing new features. ✅  You use AI tools daily to move faster, but never to skip understanding. You can explain, defend and debug every line you ship, whether you wrote it or an AI did. ✅ A history of working on intuitive and beautiful front-end solutions ✅  Experience working in an Agile team environment. ✅  A keen eye on User Experience Bonus points for Tanstack, Playwright, Python, Node.js ✨ 1st class extras Some cool things to make the journey extra sweet. Salary range: Between EUR 68.000 - 80.000 (medior level) and EUR 84.000 and 99.000 gross per year incl 8% holiday allowance (based on 40 hours/week). Where you land in the range depends on your experience and skills, to be evaluated during the interview process. Equity: You'll be able to participate in our Polarsteps SAR Plan. A yearly free flight or train to a random location! Give our Teleporter a spin here . A shiny new MacBook to work your magic on. Hybrid working. Split your time between the office and your home, as you see fit. An extensive home office set-up, everything from noise-canceling headphones to a standing desk. 30 days of vacation (for adventures or sitting on the couch, it's up to you). Two paid Culture Days for days that are important to you, but not recognized by the official Dutch calendar. The option to switch up your zoom background by working from another country for up to 8 weeks a year. A personal development budget for that curious mind of yours! A pension plan to help you save for those around-the-world retirement trips. Delicious daily office lunches. Awesome monthly parties, as well as team trips away. A lively office in downtown Amsterdam, with travel costs reimbursed. Free Polarsteps Travel Books to contain all your far-flung adventures. At Polarsteps, we believe the best products are built by people as diverse as the travelers using our apps! That's why we specifically encourage people underrepresented in the tech industry to apply for a role with us. Because we believe that diversity, be it age, race, sexual orientation, physical ability, ethnicity, or gender identity, makes both the world and the workplace better. Think this is the path for you? Find out more about how we hire. Find more English Speaking Jobs in Netherlands on Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/polarsteps/senior-frontend-engineer-amsterdam-345968",
+      "source": "www.arbeitnow.com",
+      "posted_at": "1793126438",
+      "first_seen": "2026-10-28T14:00:21.834013+00:00",
+      "last_seen": "2026-10-28T14:00:21.834013+00:00",
       "analysis": {}
     }
   }
