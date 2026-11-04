@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T15:01:01.107603+00:00",
+  "updated_at": "2026-11-04T15:21:08.367223+00:00",
   "jobs": {
     "7175503": {
       "id": "7175503",
@@ -11,7 +11,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-30T11:57:20-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8096176": {
@@ -24,20 +24,20 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-30T09:43:52-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7942731": {
       "id": "7942731",
-      "title": "Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services",
+      "title": "Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing",
       "company": "DRW",
       "location": "London",
       "description": "<p><strong>DRW</strong> is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.</p>\n<p>Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets.</p>\n<p>We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it. <strong>DRW</strong> is a place of high expectations, integrity, innovation and a willingness to challenge consensus.</p>\n<p>UP (Unified Platform) consolidates data and technologies into a comprehensive solution, accelerating time to market. Optimizing decision-making and research, our platform simplifies implementing new ideas, enhancing our competitive edge. We work from high-level requirements where programmers are expected to gain an intimate understanding of the business. We strive for an environment where developers have the autonomy to pursue business solutions without arbitrary management constraints. We are a group of polyglots and technologists always seeking to find the right tool for each problem. Broadly, the development teams at DRW believe in rapid deployment and feedback, automated testing, and cohesive, transparent, lightly coupled service architectures.&nbsp;</p>\n<p>UP teams are segmented into multiple areas including:&nbsp;</p>\n<p><strong>Platform Engineering -&nbsp;</strong>Teams within platform engineering provide cross-cutting capabilities that enable other teams to focus on domain- or business-specific needs by streamlining and standardizing technical approaches. For example, one of these teams provides data table, identity and access management, and pub-sub capabilities as a service to engineering teams.&nbsp;</p>\n<p><strong>Domain Engineering -&nbsp;</strong>Teams within domain engineering have critical capabilities that extend beyond a single trading strategy or business area. They build services and data products to optimize a broad array of use cases. For example, one team processes third-party trade and order feeds in real time to keep DRW informed of its trading activity. Another team manages DRW’s proprietary investment book of record providing latency-sensitive ingestion of the firm’s trading activity and providing both real-time and on-demand analytics.</p>\n<p>We are passionate about finding the best team and role for each candidate through the interview process, as we learn more about each person's current skills and long-term development goals.&nbsp;</p>\n<p><strong>Expectations:</strong>&nbsp;</p>\n<ul>\n<li>Building systems with a constant focus on testing, reliability, scalability, and maintainability.</li>\n<li>Designing, modeling, and programming in a variety of languages and technologies.&nbsp;</li>\n<li>Working on legacy code as well as green field development.</li>\n<li>Initiative driving projects to completion.</li>\n<li>Learning and promoting new technologies with a focus on best practices.</li>\n<li>Providing on-call support as needed.</li>\n<li>Sometimes working alongside other developers on the same task.&nbsp;</li>\n</ul>\n<p><strong>Desirable Experience:</strong>&nbsp;</p>\n<p>We are looking for strong developers of any stripe, but familiarity with the below will give candidates a leg up in working on our systems.&nbsp;</p>\n<ul>\n<li>Multiple years of server-side development.</li>\n<li>A solid understanding of micro-service architectures and CAP theorem.</li>\n<li>A good understanding of functional paradigms and type theory.</li>\n<li>Confident JVM knowledge.</li>\n<li>Modern programming languages knowledge in our primary languages (Java, Python, Clojure).</li>\n<li>Experience with Airflow or other Python-based workflow orchestration tools.</li>\n<li>Proficiency in domain-driven design and domain modeling.</li>\n<li>Exposure to Kubernetes, Docker, Linux, Kafka, RabbitMQ, or git.</li>\n<li>Working knowledge of SQL, HTML, CSS, and JavaScript.</li>\n<li>Using AI coding assistants to accelerate development while owning the outcome.</li>\n<li>Exposure to agentic frameworks or MCP server development.</li>\n<li>Knowledge of financial concepts, exchange trading, or physical energy trading.&nbsp;</li>\n</ul>\n<p><strong>For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at&nbsp;<a href=\"https://drw.com/privacy-notice\">https://drw.com/privacy-notice</a>.</strong></p>\n<p><strong> California residents, please review the California Privacy Notice for information about certain legal rights at <a href=\"https://drw.com/california-privacy-notice\">https://drw.com/california-privacy-notice</a>.</strong></p>\n<p><strong>#LI-MM1</strong></p>",
       "url": "https://job-boards.greenhouse.io/drweng/jobs/7942731",
       "source": "Greenhouse",
-      "posted_at": "2026-10-30T09:38:41-04:00",
+      "posted_at": "2026-11-03T12:46:01-05:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8704938002": {
@@ -50,7 +50,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-01T02:36:41-05:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8720252002": {
@@ -63,7 +63,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-01T02:36:41-05:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8195967": {
@@ -76,7 +76,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-10T20:22:56-04:00",
       "first_seen": "2026-09-14T11:44:06.740010+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7989158": {
@@ -89,7 +89,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-02T07:47:36-05:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8656202002": {
@@ -102,7 +102,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-01T02:36:33-05:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8567991002": {
@@ -115,7 +115,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-06T06:28:47-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7996955": {
@@ -128,7 +128,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T06:35:51-05:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8018513": {
@@ -141,7 +141,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8018517": {
@@ -154,7 +154,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-23T10:06:06-04:00",
       "first_seen": "2026-09-14T12:42:55.630148+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7788552003": {
@@ -167,7 +167,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T03:42:15-05:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7548628003": {
@@ -180,7 +180,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7539051003": {
@@ -193,7 +193,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-20T11:04:24-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7784638003": {
@@ -206,7 +206,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T03:42:30-05:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7820250003": {
@@ -219,7 +219,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-30T08:46:37-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "7785674003": {
@@ -232,7 +232,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-30T08:46:55-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8704662002": {
@@ -245,7 +245,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8755487002": {
@@ -258,7 +258,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8605722002": {
@@ -271,7 +271,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8533904002": {
@@ -284,7 +284,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8562401002": {
@@ -297,7 +297,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "4730846005": {
@@ -310,7 +310,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "4730862005": {
@@ -323,7 +323,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-22T14:10:38-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8156166": {
@@ -336,7 +336,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-09-14T09:46:20-04:00",
       "first_seen": "2026-09-14T13:15:12.819489+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8223681": {
@@ -349,7 +349,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T10:39:12-04:00",
       "first_seen": "2026-09-23T12:44:44.224201+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8245606": {
@@ -362,7 +362,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:40-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8245625": {
@@ -375,7 +375,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-19T03:20:26-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8836789002": {
@@ -388,7 +388,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-30T17:12:32-04:00",
       "first_seen": "2026-10-01T14:25:19.232137+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8245673": {
@@ -401,7 +401,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T06:35:51-05:00",
       "first_seen": "2026-10-02T13:48:52.302238+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8458941002": {
@@ -414,7 +414,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-28T13:19:38-04:00",
       "first_seen": "2026-10-06T14:08:50.727058+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8881592002": {
@@ -427,7 +427,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-10-10T13:33:35.104582+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8870159002": {
@@ -440,7 +440,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-14T10:22:04-04:00",
       "first_seen": "2026-10-15T12:38:08.369853+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8288668": {
@@ -453,7 +453,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-16T06:38:01-04:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8288674": {
@@ -466,7 +466,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-02T07:59:14-05:00",
       "first_seen": "2026-10-16T12:17:17.571407+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8895472002": {
@@ -479,7 +479,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-01T02:36:59-05:00",
       "first_seen": "2026-10-19T14:35:07.152630+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8885043002": {
@@ -492,7 +492,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-02T08:17:05-05:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8902107002": {
@@ -505,7 +505,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8902111002": {
@@ -518,7 +518,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T07:27:27-04:00",
       "first_seen": "2026-10-20T12:42:24.682502+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8306622": {
@@ -531,7 +531,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-21T13:17:27-04:00",
       "first_seen": "2026-10-22T12:57:05.729475+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8324146": {
@@ -539,12 +539,12 @@
       "title": "Senior Software Engineer - OTC Trading",
       "company": "Flow Traders",
       "location": "Amsterdam ",
-      "description": "<p>Flow Traders is transforming its institutional trading platform across Equities, ETFs, Fixed Income, and Crypto. As part of OTCTECH, you will work directly with traders, quants, Operations, Risk, and Compliance to design and deliver a new OTC Trading Engine, automate operational workflows, and modernise existing applications into reliable, maintainable systems.</p>\n<p>We are looking for a Senior Software Engineer who can take ownership of complex problems from discovery through production. You will need to understand how trading activities and data flow across systems, define clear technical boundaries, make sound architectural decisions, and build solutions that perform reliably in a demanding environment.</p>\n<p>This role combines greenfield platform development with the opportunity to understand and evolve an established technology estate. It is grounded in strong engineering fundamentals, with quality, correctness, operational resilience, and clear technical judgment at its foundation.</p>\n<p>&nbsp;</p>\n<h4>What you will do</h4>\n<h4>Understand the Trading Domain</h4>\n<ul>\n<li>Work directly with traders, quants, Operations, Risk, and Compliance to understand requirements and how trading workflows operate in practice.</li>\n<li>Trace business processes and data flows across pre-trade research, execution, post-trade processing, risk, and compliance.</li>\n<li>Identify opportunities to improve resilience, consistency, automation, and operational efficiency.</li>\n<li>Build a shared understanding of system responsibilities, dependencies, and operational considerations.</li>\n<li>Design and Modernise the Platform<br>Help design and deliver a new OTC Trading Engine spanning Equities, ETFs, Fixed Income, and Crypto.</li>\n<li>Define appropriate service boundaries, data models, interfaces, and event flows.</li>\n<li>Modernise existing applications where new business or engineering requirements create opportunities for improvement.</li>\n<li>Make and document architectural decisions, balancing performance, reliability, simplicity, and delivery speed.</li>\n<li>Design greenfield services and platforms that can be operated and evolved safely over time.</li>\n</ul>\n<h4>Build Reliable Trading Systems</h4>\n<ul>\n<li>Develop high-performance services, data pipelines, and integrations across Java, C++, and Python environments.</li>\n<li>Build event-driven systems using messaging and pub/sub patterns.</li>\n<li>Engineer for production from the outset, including testing, observability, failure handling, and operational support.</li>\n<li>Embed monitoring, root-cause analysis, and recovery mechanisms so issues are identified and resolved quickly.</li>\n<li>Take ownership of delivery from design and implementation through deployment and production operation.</li>\n</ul>\n<p>&nbsp;</p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>Strong experience building and operating distributed backend systems in production</li>\n<li>Expert in Java or C++, with working knowledge of Python</li>\n<li>Strong understanding of distributed systems, concurrency, and scalable system design</li>\n<li>Experience with event-driven architectures and messaging platforms such as Kafka</li>\n<li>Proven track record building high-performance, low-latency systems</li>\n<li>Ability to translate complex business requirements into robust technical solutions</li>\n<li>Ownership mindset with strong stakeholder management and communication skills</li>\n<li>Experience with modern engineering practices including testing, code reviews, observability, and automation</li>\n<li>Comfortable leveraging AI tools to improve productivity while maintaining quality and accountability.</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience in trading, capital markets, or financial services</li>\n<li>Exposure to Google Cloud Platform (GCP)</li>\n<li>Experience with Kubernetes, Docker, and cloud-native technologies</li>\n<li>Knowledge of BigQuery or large-scale data platforms</li>\n<li>Experience working in low-latency, high-throughput environments</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
+      "description": "<p>Flow Traders is transforming its institutional trading platform across Equities, ETFs, Fixed Income, and Crypto. As part of OTCTECH, you will work directly with traders, quants, Operations, Risk, and Compliance to design and deliver a new OTC Trading Engine, automate operational workflows, and modernise existing applications into reliable, maintainable systems.</p>\n<p>We are looking for a Senior Software Engineer who can take ownership of complex problems from discovery through production. You will need to understand how trading activities and data flow across systems, define clear technical boundaries, make sound architectural decisions, and build solutions that perform reliably in a demanding environment.</p>\n<p>This role combines greenfield platform development with the opportunity to understand and evolve an established technology estate. It is grounded in strong engineering fundamentals, with quality, correctness, operational resilience, and clear technical judgment at its foundation.</p>\n<p>&nbsp;</p>\n<h4>What you will do</h4>\n<h4>Understand the Trading Domain</h4>\n<ul>\n<li>Work directly with traders, quants, Operations, Risk, and Compliance to understand requirements and how trading workflows operate in practice.</li>\n<li>Trace business processes and data flows across pre-trade research, execution, post-trade processing, risk, and compliance.</li>\n<li>Identify opportunities to improve resilience, consistency, automation, and operational efficiency.</li>\n<li>Build a shared understanding of system responsibilities, dependencies, and operational considerations.</li>\n<li>Design and Modernise the Platform<br>Help design and deliver a new OTC Trading Engine spanning Equities, ETFs, Fixed Income, and Crypto.</li>\n<li>Define appropriate service boundaries, data models, interfaces, and event flows.</li>\n<li>Modernise existing applications where new business or engineering requirements create opportunities for improvement.</li>\n<li>Make and document architectural decisions, balancing performance, reliability, simplicity, and delivery speed.</li>\n<li>Design greenfield services and platforms that can be operated and evolved safely over time.</li>\n</ul>\n<h4>Build Reliable Trading Systems</h4>\n<ul>\n<li>Develop high-performance services, data pipelines, and integrations across Java, C++, and Python environments.</li>\n<li>Build event-driven systems using messaging and pub/sub patterns.</li>\n<li>Engineer for production from the outset, including testing, observability, failure handling, and operational support.</li>\n<li>Embed monitoring, root-cause analysis, and recovery mechanisms so issues are identified and resolved quickly.</li>\n<li>Take ownership of delivery from design and implementation through deployment and production operation.</li>\n</ul>\n<p>&nbsp;</p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>Strong experience building and operating distributed backend systems in production</li>\n<li>Expert in Java or C++, with working knowledge of Python</li>\n<li>Strong understanding of distributed systems, concurrency, and scalable system design</li>\n<li>Experience with event-driven architectures and messaging platforms such as Kafka</li>\n<li>Proven track record building high-performance, low-latency systems</li>\n<li>Ability to translate complex business requirements into robust technical solutions</li>\n<li>Ownership mindset with strong stakeholder management and communication skills</li>\n<li>Experience with modern engineering practices including testing, code reviews, observability, and automation</li>\n<li>Comfortable leveraging AI tools to improve productivity while maintaining quality and accountability.</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience in trading, capital markets, or financial services</li>\n<li>Exposure to Google Cloud Platform (GCP)</li>\n<li>Experience with Kubernetes, Docker, and cloud-native technologies</li>\n<li>Knowledge of BigQuery or large-scale data platforms</li>\n<li>Experience working in low-latency, high-throughput environments</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p>This role may require participation in an on-call rotation outside normal business hours and on applicable National Holidays. Employees on call must remain available to respond to urgent matters necessary to ensure business continuity or 24/7 coverage of trading activities. On-call duties, scheduling, and compensation are governed by the applicable company policy, arrangements, and Dutch labour-law requirements.</p>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
       "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8324146",
       "source": "Greenhouse",
-      "posted_at": "2026-10-28T05:48:34-04:00",
+      "posted_at": "2026-11-04T06:55:46-05:00",
       "first_seen": "2026-10-26T14:08:33.492248+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8029679002": {
@@ -557,7 +557,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-26T08:41:45-04:00",
       "first_seen": "2026-10-26T14:08:33.492248+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8916552002": {
@@ -570,7 +570,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-26T14:04:09-04:00",
       "first_seen": "2026-10-27T13:09:29.677923+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8327098": {
@@ -578,12 +578,12 @@
       "title": "Senior Software Engineer - Post-Trade Platform",
       "company": "Flow Traders",
       "location": "Amsterdam ",
-      "description": "<p></p>\n<div>\n<p>Flow Traders is building the next generation of its post-trade platform, covering trade capture, reconciliation, settlement, booking, reporting, and operational workflows across Equities, ETFs, Fixed Income, and Crypto.&nbsp;We are looking for a Senior Software Engineer to take end-to-end ownership of key post-trade domains, helping shape the platform architecture while building reliable, automated, and data-driven services.</p>\n</div>\n<p>This role is ideal for an engineer who enjoys solving complex problems, thinking in systems, and building high-quality platforms that deliver real business impact.</p>\n<h4>What you will do</h4>\n<ul>\n<li>Own and develop critical post-trade domains such as reconciliation, settlement, booking, and reporting</li>\n<li>Work closely with Trading, Operations, Risk, Compliance, and Data teams to understand workflows and requirements</li>\n<li>Design and build scalable backend services and data pipelines</li>\n<li>Improve automation, data quality, resilience, and operational efficiency</li>\n<li>Contribute to the target architecture and technical roadmap of the post-trade platform</li>\n<li>Ensure observability, reliability, and data correctness across systems</li>\n</ul>\n<p></p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>5+ years of experience building distributed backend systems using Java or C++, with exposure to Python</li>\n<li>Strong understanding of distributed systems, data structures, algorithms, and event-driven architectures</li>\n<li>Experience with messaging technologies such as Kafka</li>\n<li>Hands-on experience building data-intensive systems, ETL pipelines, and analytical data solutions</li>\n<li>Strong SQL and data modelling skills</li>\n<li>Proven ability to own complex technical domains from design through production support</li>\n<li>Strong stakeholder management and communication skills</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience with post-trade workflows, including reconciliation, settlement, booking, or regulatory reporting</li>\n<li>Background in financial services, proprietary trading, or market making</li>\n<li>Experience with GCP, Kubernetes, CI/CD, Airflow, Spark, Flink, or similar technologies</li>\n<li>Knowledge of observability tools such as Prometheus, Grafana, or OpenTelemetry</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more\n<p style=\"margin: 0in; font-family: Montserrat; font-size: 10.0pt; color: #242424;\">&nbsp;</p>\n</li>\n</ul>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
+      "description": "<p>&nbsp;</p>\n<div>\n<p>Flow Traders is building the next generation of its post-trade platform, covering trade capture, reconciliation, settlement, booking, reporting, and operational workflows across Equities, ETFs, Fixed Income, and Crypto.&nbsp;We are looking for a Senior Software Engineer to take end-to-end ownership of key post-trade domains, helping shape the platform architecture while building reliable, automated, and data-driven services.</p>\n</div>\n<p>This role is ideal for an engineer who enjoys solving complex problems, thinking in systems, and building high-quality platforms that deliver real business impact.</p>\n<h4>What you will do</h4>\n<ul>\n<li>Own and develop critical post-trade domains such as reconciliation, settlement, booking, and reporting</li>\n<li>Work closely with Trading, Operations, Risk, Compliance, and Data teams to understand workflows and requirements</li>\n<li>Design and build scalable backend services and data pipelines</li>\n<li>Improve automation, data quality, resilience, and operational efficiency</li>\n<li>Contribute to the target architecture and technical roadmap of the post-trade platform</li>\n<li>Ensure observability, reliability, and data correctness across systems</li>\n</ul>\n<p>&nbsp;</p>\n<h4>What you need to succeed</h4>\n<ul>\n<li>5+ years of experience building distributed backend systems using Java or C++, with exposure to Python</li>\n<li>Strong understanding of distributed systems, data structures, algorithms, and event-driven architectures</li>\n<li>Experience with messaging technologies such as Kafka</li>\n<li>Hands-on experience building data-intensive systems, ETL pipelines, and analytical data solutions</li>\n<li>Strong SQL and data modelling skills</li>\n<li>Proven ability to own complex technical domains from design through production support</li>\n<li>Strong stakeholder management and communication skills</li>\n</ul>\n<h4>Nice to have</h4>\n<ul>\n<li>Experience with post-trade workflows, including reconciliation, settlement, booking, or regulatory reporting</li>\n<li>Background in financial services, proprietary trading, or market making</li>\n<li>Experience with GCP, Kubernetes, CI/CD, Airflow, Spark, Flink, or similar technologies</li>\n<li>Knowledge of observability tools such as Prometheus, Grafana, or OpenTelemetry</li>\n</ul>\n<div>\n<div data-olk-copy-source=\"MailCompose\">\n<div>\n<h4>What we offer</h4>\n<p>At Flow Traders, we create the conditions for hard‑working, high‑performing people to do their best work. From a thorough onboarding and ongoing access to Flow Academy, to latest technology and a collaborative, non‑hierarchical culture, we give you the tools, ownership, and support to move fast and drive outcomes. We keep a close‑knit, small‑company feel while offering competitive salary, annual discretionary profit share, and comprehensive benefits,&nbsp;so talent can grow here, and stay here.<strong>&nbsp;</strong>See our benefits below:</p>\n<ul>\n<li>Flow Academy and opportunities to attend domain-related conferences</li>\n<li>Daily catered lunch, great coffee, and a fully stocked kitchen and snack bar</li>\n<li>In-house Bar and Lounge with arcade, table tennis, billiards, and game consoles</li>\n<li>Company boat</li>\n<li>In-house gym and sessions with our nutritionist or personal trainer</li>\n<li>Bi-weekly massages</li>\n<li>Annual company trip and a variety of events throughout the year, such as the New Years Event</li>\n<li>Global rotations across our offices worldwide</li>\n<li>and more</li>\n</ul>\n<p>This role may require participation in an on-call rotation outside normal business hours and on applicable National Holidays. Employees on call must remain available to respond to urgent matters necessary to ensure business continuity or 24/7 coverage of trading activities. On-call duties, scheduling, and compensation are governed by the applicable company policy, arrangements, and Dutch labour-law requirements.</p>\n<p>&nbsp;</p>\n<p><em>Flow Traders does not accept unsolicited resumes from any professional staffing or search firms. All resumes, and any other information identifying potential candidates, submitted to any employee at Flow Traders via-email, the Internet or directly without a valid and signed search agreement will be deemed free to contact by Flow Traders without any restrictions and no placement fee of any kind will be paid in the event the candidate is hired by Flow Traders</em></p>\n</div>\n</div>\n</div>\n<p><span class=\"EOP Selected SCXW161772177 BCX0\" data-ccp-props=\"{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}\">&nbsp;</span></p>",
       "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8327098",
       "source": "Greenhouse",
-      "posted_at": "2026-10-28T04:58:28-04:00",
+      "posted_at": "2026-11-04T06:56:40-05:00",
       "first_seen": "2026-10-28T14:00:21.834013+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8023162": {
@@ -596,7 +596,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T06:35:51-05:00",
       "first_seen": "2026-10-28T14:00:21.834013+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8331328": {
@@ -609,7 +609,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T06:35:51-05:00",
       "first_seen": "2026-10-29T14:07:03.924647+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8324610": {
@@ -622,7 +622,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-10-29T10:31:37-04:00",
       "first_seen": "2026-10-30T13:59:58.209562+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8237635": {
@@ -635,7 +635,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-02T10:21:51-05:00",
       "first_seen": "2026-11-02T17:00:10.703102+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8288690": {
@@ -648,7 +648,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T05:34:37-05:00",
       "first_seen": "2026-11-02T17:00:10.703102+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8345848": {
@@ -659,22 +659,9 @@
       "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p>\n<p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p>\n<p>We are looking to speak to candidates who are based in London for our hybrid working model.</p>\n<h3>As an ideal candidate, you will have:</h3>\n<ul>\n<li>Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software</li>\n<li>Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li>\n<li>Experience designing with scalable and highly available distributed systems in the cloud and on-prem</li>\n<li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li>\n<li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li>\n<li>Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan</li>\n<li>The ability to travel up to 25%</li>\n<li>A Bachelor’s degree or equivalent work experience</li>\n</ul>\n<h3>You may also have:</h3>\n<ul>\n<li>Experience selling databases and/or deploying applications with any of the major cloud providers&nbsp;</li>\n<li>Experience with database programming and data models&nbsp;</li>\n<li>Experience in data engineering or AI/ML projects</li>\n<li>Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks</li>\n<li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li>\n<li>A MongoDB Certification</li>\n<li>A Cloud Provider Certification</li>\n</ul>\n<h3>What you do at MongoDB:</h3>\n<p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p>\n<ul>\n<li>Design and Architect: Design scalable and performant applications, systems and infrastructure for large software projects leveraging MongoDB</li>\n<li>Customer Advising and Value Articulation: Guide customers on architecture patterns and optimisation strategies for MongoDB, while clearly communicating its business value to the relevant stakeholders</li>\n<li>Sales Partnership: Collaborate with the sales team to drive account success through account planning, opportunity prioritization/qualification and pipeline generation strategy, while taking ownership of the technical aspects (including but not limited to technical discovery, demos, proof of value, presentations, sizing and documentation)</li>\n<li>Demand Generation: Proactively generate demand within the sales territory through self-driven technical initiatives, participation in events such as industry trade shows and account-based marketing events</li>\n<li>Customer Success: Foster strong customer relationships, build champions and ensure customer success and satisfaction</li>\n<li>Innovation and Improvement: Continuously seek opportunities to innovate and improve MongoDB solutions and processes (e.g. by relaying field feedback to the product team), as well as proactively mentor other Solutions Consulting team members&nbsp;</li>\n<li>Personal Training and Development: Engage in ongoing training and professional development to stay abreast of MongoDB product suite as well as industry trends</li>\n</ul>\n<h3>What you will learn:</h3>\n<p>MongoDB Product Suite Mastery:</p>\n<ul>\n<li>Core Database Server: Master the fundamentals and advanced features of MongoDB's core database</li>\n<li>Atlas and Advanced Services: Gain expertise in Atlas (fully managed cloud database service), Atlas Stream Processing, Atlas Data Lake, Atlas Full-Text Search, Atlas Vector Search, and Charts</li>\n<li>Relational Migrator: Learn to migrate from relational databases seamlessly</li>\n</ul>\n<p>Market-Relevant Technologies:</p>\n<ul>\n<li>Hyperscaler Ecosystem: Gain expertise in designing complex systems utilizing cloud services on hyperscaler platforms</li>\n<li>Complementary Technologies: Enhance your skills with partner and complementary technologies such as Apache Kafka and Kubernetes</li>\n</ul>\n<h3>Modern Architecture Design:</h3>\n<ul>\n<li>Design Patterns and Methodologies: Embrace best practices in microservices, DevOps, cloud, and security</li>\n<li>Cutting Edge RAG and AI Architectures: Help customers on their generative AI journeys and working with industry leading partners in the space</li>\n</ul>\n<h3>Sales Techniques and Soft Skills:</h3>\n<ul>\n<li>Effective Communication: Master presentations, demonstrations, and whiteboarding</li>\n<li>Client Interaction: Develop strategies for discovery and objection handling</li>\n</ul>\n<h3>Industry Insights:</h3>\n<ul>\n<li>Diverse Market Verticals: Gain exposure to a broad spectrum of interesting use cases across various industries</li>\n</ul>\n<h3>About MongoDB</h3>\n<p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.</p>\n<p>With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.</p>\n<p>Our compass at MongoDB is our <a href=\"https://www.mongodb.com/company\">Leadership Commitment,</a> guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&nbsp;</p>\n<p>To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. <a href=\"https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb\">From employee affinity groups, to fertility assistance and a generous parental leave policy</a>, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.<a href=\"https://www.mongodb.com/blog/channel/culture\"> Learn more about what it’s like to work at MongoDB</a>, and help us make an impact on the world!</p>\n<p>MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.</p>\n<p>MongoDB is an equal opportunities employer.</p>\n<p><em>Req ID: 426498</em><br><br><br></p>",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8345848",
       "source": "Greenhouse",
-      "posted_at": "2026-11-02T20:02:13-05:00",
+      "posted_at": "2026-11-04T07:37:43-05:00",
       "first_seen": "2026-11-02T17:00:10.703102+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
-      "analysis": {}
-    },
-    "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864": {
-      "id": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-      "title": "Senior UX Designer - Map Visualisation",
-      "company": "Tomtom",
-      "location": "Amsterdam, The Netherlands",
-      "description": "TomTom's map is seen by millions of people every day - in dashboards, on phones, and across partner products worldwide. As a Senior UX Designer on the Map Visualisation team, you will shape how our 2D and 3D geospatial data is designed, styled and delivered across TomTom's product portfolio. You'll spend your days crafting multi-zoom map experiences, working with spatial data and collaborating closely with engineers and product managers to turn cartographic intent into production-ready map styles. You'll need to be as comfortable discussing label collision and style-layer specifications with engineers as you are refining colour palettes and visual hierarchy. This is a product role first. You'll be embedded in a cross-functional team that ships map rendering, map styles and SDKs used by other TomTom products and by the customers who build on our platform. You'll take part in the whole development lifecycle, from discovery and solution design through pull requests to release. Your product judgement, and your ability to bring people with competing priorities to a clear decision, matter here as much as your cartographic craft. AI is part of how we work. We expect you to use it to explore, prototype and ship faster, to know where it falls short, and to help shape map experiences in products where AI is part of the experience itself. What You'll Do Design Compelling Map Experiences Create and refine 2D and 3D map visualisations from concept through production delivery. Own the end-to-end cartographic design process - from data exploration and sketching through to style implementation, QA and iteration across zoom levels, regions and use cases. Maintain and Evolve Core Map Styles Enhance TomTom's core map styles, ensuring consistency, readability and visual quality across platforms, screen densities and global markets. Balance aesthetic ambition with rendering performance and data constraints. Work as Part of the Product Team Work day-to-day alongside software engineers and product managers building TomTom's map data structures, renderers and SDKs. Take part in planning, refinement and reviews, provide design specifications engineers can act on, and review visual output during development and before release. Make and Own Trade-offs Help decide what ships, when and at what quality. Weigh visual fidelity against render budget, memory and frame rate on automotive and mobile hardware, customer requests against platform consistency, and scope against release dates. Reach a decision with the people who own the product, record it and see it through. Contribute to Renderer and Tooling Requirements Provide detailed input on the data and rendering capabilities needed to achieve design goals. Define requirements for internal cartographic authoring tools and identify workflow improvements that raise the team's output quality and speed. Bring AI into the Design Workflow Use AI to shorten the loop from idea to rendered map: generating and editing style-spec JSON, scripting data exploration, and building interactive prototypes on real data instead of static frames. Turn what works into shared workflows the team can reuse, and help define how we check AI-generated output for cartographic quality. Design for AI-Driven Map Experiences Contribute to how the map responds when the request comes from an AI system rather than a tap, for example in GeoAI answers, conversational search or agent-generated routes. Work out how the map shows what the AI found, how confident it is and when it is wrong. Inform Decisions with Research and Data Participate in user research, customer conversations and competitive benchmarking. Use insights to ground design decisions and advocate for improvements that address real user needs. Support the Design System and Standards Contribute to the Map Visualisation design system - documenting patterns, conventions and cartographic guidelines that enable consistency and scale across the product portfolio. What You'll Need Leadership & Product Team Experience A track record of shaping product direction from the design seat. You set out the options, make the case for one and bring engineering, product and business stakeholders with you. A track record of shipping software as a designer embedded in a product team, ideally on map, location or developer-platform products: SDKs, APIs, map styles or tooling that other teams and companies build on. A clear understanding of how products move from discovery to release and beyond, including planning, roadmaps and measuring results after launch. You know how versioned releases, deprecations and backwards compatibility shape design choices on a platform with external customers. Hands-on familiarity with how software gets built: backlogs, refinement, estimation, definition of done, Git, pull requests, code reviews, CI/CD, feature flags and release trains. You don't need to write production code, but you need to understand how your designs move through a rendering pipeline and into a release. Sound judgement under constraint. You can point to decisions where you gave something up to ship, and explain why it was right for the product and its users. Clarity with senior audiences. You can turn a complex design problem into a short, well-argued recommendation and own the result. Comfort with disagreement. You challenge a decision with evidence, accept the outcome when it goes the other way and keep the work moving. Experience contributing to solution design documents, technical specifications and cross-functional planning. Cartography & Digital Map Making A solid foundation in digital cartography, GIS or geographic information design. If your map-making depth is still growing, show us how fast you are closing the gap, including how you use AI to learn. Experience designing multi-zoom digital maps with attention to cartographic conventions, label placement, generalisation and cultural adaptation. Working proficiency with key mapping technologies and ecosystems: MapLibre, Mapbox GL JS, OpenStreetMap data and tooling, QGIS, ArcGIS, Leaflet, OpenLayers or comparable platforms. Experience working with diverse spatial datasets - vector tiles, raster tiles, GeoJSON, shapefiles, point clouds or terrain data. Awareness of cartographic standards across regions and cultures, including sensitive topics such as disputed borders and local place names. Map Visualisation & Rendering Demonstrated ability to build visually compelling 2D and 3D map experiences - from thematic styling and terrain visualisation to street-level detail. Hands-on experience designing 3D map content such as buildings, terrain, landmarks and lane-level road geometry, in stylised or realistic form. You understand how LOD, lighting, materials and camera pitch affect legibility and performance. Experience with 3D data formats and pipelines such as glTF and 3D Tiles, and how 3D assets are prepared and optimised for real-time map rendering. Good understanding of real-time rendering concepts as they apply to maps: style layers, zoom interpolation, data-driven styling, symbol rendering and performance considerations. AI in Your Practice Evidence that AI has changed how you work. Be ready to show a real example, such as a map style, data visualisation or coded prototype built with AI, and tell us where it let you down. Sharp judgement of AI output. You can spot errors in generated work and know which decisions still need a designer's eye. Experience turning personal AI use into workflows the team shares, within the limits of confidential data and licensing. Senior-Level Craft & Collaboration 5+ years of professional experience in UX, product or cartographic design, with most of that time spent inside software product teams. Bachelor's or Master's degree in Cartography, Geography, GIS, UX Design, Computer Science or a related field - or equivalent professional experience. Ability to build clear, concise prototypes and specification documentation that bridge design and engineering. Strong visual and graphic design fundamentals - typography, colour theory, hierarchy and layout. User-centric mindset with a collaborative, low-ego approach to problem-solving. High attention to detail and a real passion for the craft of map making. Nice to Have Experience with game engines or 3D content pipelines (Unity, Unreal Engine, Blender) and their application to geospatial visualisation. Familiarity with front-end languages and graphics APIs (JavaScript/TypeScript, WebGL, WebGPU, GLSL) or scripting for cartographic automation (Python, PostGIS, Overpass API). With AI, even basic coding skills go a long way. Experience with map data processing tools and pipelines: Tippecanoe, Tilemaker, osm2pgsql, Mapnik or similar. Understanding of the automotive, fleet management or logistics industries and their mapping requirements. Familiarity with emerging trends in spatial computing, AR navigation or digital twins. Experience contributing to design systems at scale. What we offer A competitive compensation package, of course. Time and resources to grow and develop, including a personal development budget and paid leave for learning days, as well as paid access to e-learning resources such as O’Reilly and LinkedIn Learning. Time to support life outside of work, with enhanced parental leave plus paid leave to care for loved ones and volunteer in local communities. Work flexibility, where TomTom’ers, in agreement with their manager and team, use both the office and home to focus, collaborate, learn and socialize. It’s all about getting the best out of both worlds – we ask TomTom’ers to come to the office two days a week, and the remaining three are free to be worked in either location. Improve your home office with a setup budget and get extra support with a monthly allowance. Enjoy options to work from your home country and abroad for a set number of days each year, to visit family and friends, or to simply explore the world we’re mapping. Take the holidays you want with a competitive holiday plan, plus an extra day off to celebrate your birthday. Join annual events like our      Hackathon and DevDays to bring your ideas to life with talented teammates from around the world. Become a part of our inclusive global culture and have the chance to collaborate with a diverse community – we have over 80 nationalities at TomTom! Find out more about our global benefits and enjoy additional local benefits tailored to your location. Meet your team We’re the User Experience Design team. Fueled by user insights and data analytics, our mission is to create powerful, easy-to-use products that delight our customers, from millions of drivers to automotive customers who embed our technologies in their vehicles. We deliver the design specifications for all TomTom’s products. Joining us, you'll be part of a team that brings together design disciplines from user research to interaction, concept and visual design. Together, we'll continue to develop a map that people trust all around the world. At TomTom... You’ll help people find their way in the world. In 2004, TomTom revolutionized how the world moves with the introduction of the first portable navigation device. Now, we intend to do it again by engineering the first-ever real-time map, the smartest and most useful map on the planet. Work with a team of 3,600+ unique, curious and passionate problem-solvers. Together, we’ll open up a world of possibilities for car manufacturers, enterprises and developers to help people understand and get closer to the world around them. After you apply Our recruitment team will work hard to give you a meaningful experience throughout your journey with us, no matter the outcome. Your application will be screened closely and you can rest assured that all follow-up actions will be thorough, from assessments and interviews all the way through onboarding. To find out more about our application process, check out our hiring FAQs . TomTom is an equal opportunity employer TomTom is where you can find your place in the world. Every day we welcome, nurture and celebrate differences. Why? Because your uniqueness is what makes you, you . No matter your culture or background, you’ll find your impact at TomTom. Research also shows that sometimes women and underrepresented communities can be hesitant to apply for positions unless they believe they meet 100% of the criteria. If you can relate to this, please know that we’d love to hear from you. Find Jobs in Netherlands on Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/tomtom/senior-ux-designer-map-visualisation-amsterdam-the-netherlands-97864",
-      "source": "www.arbeitnow.com",
-      "posted_at": "1793590049",
-      "first_seen": "2026-11-02T17:00:10.703102+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8237633": {
@@ -687,7 +674,7 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-02T17:09:53-05:00",
       "first_seen": "2026-11-03T15:01:01.107603+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
     "8927390002": {
@@ -700,33 +687,33 @@
       "source": "Greenhouse",
       "posted_at": "2026-11-03T04:45:14-05:00",
       "first_seen": "2026-11-03T15:01:01.107603+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.co.uk/jobs/companies/encord/senior-machine-learning-engineer-london-311988": {
-      "id": "https://www.arbeitnow.co.uk/jobs/companies/encord/senior-machine-learning-engineer-london-311988",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Encord",
+    "8156100": {
+      "id": "8156100",
+      "title": "Senior Software Engineer, Unified Platform - Platform Services",
+      "company": "DRW",
       "location": "London",
-      "description": "About us Encord is the universal data layer for AI that helps 300+ AI teams train and run models on the right data. Our platform indexes, curates, annotates, and evaluates data across the full AI lifecycle, from development through production. Trusted by Woven by Toyota, AXA, UiPath, Zipline, and more. We're an ambitious team of 100+ working at the frontier of AI and have raised $60M in Series C funding from Wellington Management, CRV, Next47 and Y Combinator. The role We're looking for a Senior ML Systems Engineer to join Encord's in-house ML team. This is a software-engineering-first role for someone with real machine learning deployment experience: you'll design, build and run the infrastructure that serves our computer vision and multimodal models in production. Our platform is moving from manual, GUI-heavy annotation towards ML-driven workflows, where models do more of the work and learn from annotator feedback. Your job is to make that possible by turning our models into fast, dependable product features. Our ML team covers both research and engineering, and this role sits firmly on the engineering side. You'll own architecture, implementation, deployment and production operations, while teammates on the research side focus on longer-horizon experiments and prototypes. Day-to-day, you'll work closely with them, as well as with our Product Engineering and Human Data teams. Problems you'll work on Interactive inference in the annotation editor. Serving heavy vision and multimodal models fast enough that annotators get model suggestions in real time, with their corrections flowing back as feedback. Inference at very large scale. Pre-computing model outputs across millions of hours of egocentric video for robotics customers, where throughput, GPU cost and reliability all matter. Taking agentic QC to production. Turning quality-control agents that check multimodal outputs against a customer's ontology from a research prototype into a dependable platform feature. One integration, many workflows. Building model integrations that hold up across customers' custom, fast-changing ontologies and task templates, instead of one-off implementations. What you'll do Design, build and operate model-serving and inference infrastructure for transformer-based vision and multimodal models Own the serving architecture behind our ML features, justifying trade-offs in latency, throughput, reliability and GPU cost Optimise models and pipelines for production through batching, KV caching, GPU utilisation and orchestration Integrate models into Encord's product and annotation workflows together with Product Engineering Build reusable abstractions that work across models, data types, customers and changing task templates Set up monitoring and observability, and own performance and reliability once features are live Take prototypes from your research-focused teammates and turn them into shipped features Contribute to platform design decisions, take part in design reviews and help us hire Work with Python, PyTorch, CUDA, Kubernetes and GCP/AWS Who we're looking for An owner. You take ambiguous product needs, make the architecture calls and carry the work all the way into production. A systems thinker. You design for scale and reuse, and you know when a simple, solid baseline beats a clever solution. A great collaborator. You enjoy working across research, product and engineering, and you make it easier for everyone to ship. A bridge between research and production. You speak both languages, help researchers get their work shipped, and feed production lessons back into how models are built. Experience requirements 5+ years of software engineering experience, including meaningful time building and operating ML systems or model-backed products in production at scale Strong software engineering and system design fundamentals Hands-on experience deploying modern deep learning models in production, with a strong understanding of model serving, inference optimisation, GPU utilisation and performance trade-offs. Experience designing and operating scalable, distributed production systems, ideally involving GPU workloads, high-throughput data processing or low-latency inference. The ability to reason through an ML system end to end, from data and model choices to offline and online evaluation, deployment, monitoring and retraining A track record of personally owning complex systems from design through to production Bonus: computer vision or multimodal deployment experience (not required), model-serving frameworks, or experience with video, 3D or other complex data types Why Encord Competitive salary and meaningful equity in a high-growth startup Strong in-person culture — most of the team works from our London office 4+ days/week 25 days annual leave + UK public holidays Annual learning & development budget Travel for customer visits, events, and conferences across the UK and Europe Daily company lunches Monthly socials & bi-annual team offsites Find Jobs in United Kingdom on Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/senior-machine-learning-engineer-london-311988",
-      "source": "www.arbeitnow.com",
-      "posted_at": "1793709616",
-      "first_seen": "2026-11-03T15:01:01.107603+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "description": "<p><strong>DRW</strong> is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own capital and trading at our own risk.</p>\n<p>Headquartered in Chicago with offices throughout the U.S., Canada, Europe, and Asia, we trade a variety of asset classes including Fixed Income, ETFs, Equities, FX, Commodities and Energy across all major global markets. We have also leveraged our expertise and technology to expand into three non-traditional strategies: real estate, venture capital and cryptoassets.</p>\n<p>We operate with respect, curiosity and open minds. The people who thrive here share our belief that it’s not just what we do that matters–it's how we do it. <strong>DRW</strong> is a place of high expectations, integrity, innovation and a willingness to challenge consensus.</p>\n<p><span data-contrast=\"none\">UP (Unified Platform) consolidates data and technologies into a comprehensive solution, accelerating time to market. Optimizing decision-making and research, our platform simplifies implementing new ideas, enhancing our competitive edge. We work from high-level requirements where programmers are expected to gain an intimate understanding of the business. We strive for an environment where developers have the autonomy to pursue business solutions without arbitrary management constraints. We are a group of polyglots and technologists always seeking to find the right tool for each problem. Broadly, the development teams at DRW believe in rapid deployment and feedback, automated testing, and cohesive, transparent, lightly coupled service architectures.</span></p>\n<p><span data-contrast=\"none\">The Platform Services team builds self-service platform products that simplify how development teams interact with infrastructure. Its goal is to let teams focus on delivering business value rather than on platform integrations and infrastructure complexity. Examples include:</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">Access Management</span></strong><span data-contrast=\"none\"> – Work towards a single source of truth for who can do what at DRW. Simplify engineering's approach to Identity and Access Management (IAM) by providing a platform that can be used to manage access across DRW's proprietary and third-party systems.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">Limit Monitoring</span></strong><span data-contrast=\"none\"> – Create a platform for defining and monitoring firmwide trading limits across domains like Risk, Treasury, and Compliance.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">Data Tables</span></strong><span data-contrast=\"none\"> – Provide a best-of-breed service for managing lightweight datasets, with built-in support for temporal (point-in-time) data, access controls, APIs, and front end.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">Usage</span></strong><span data-contrast=\"none\"> – Normalize the collection, storage, and presentation of usage data to provide insight into how services and data are being used and why.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><span data-contrast=\"none\">As a Senior Software Engineer, you will define, develop, and own services that form the foundation of DRW's Unified Platform.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<p><strong><span data-contrast=\"none\">Key Responsibilities:</span></strong><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">Architect and deliver complex features end-to-end with minimal oversight.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">Turn high-level requirements into solutions, drawing on a deep understanding of the business.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"none\">Maintain a constant focus on testing, reliability, scalability, and maintainability.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">Design systems, model data, and write code across a variety of languages and technologies.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Evolve legacy code alongside greenfield development.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"6\" data-aria-level=\"1\"><span data-contrast=\"none\">Learn and promote new technologies with a focus on best practices.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"7\" data-aria-level=\"1\"><span data-contrast=\"none\">Engage in on-call and production support activities.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"8\" data-aria-level=\"1\"><span data-contrast=\"none\">Contribute to system and architecture design discussions.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"5\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"9\" data-aria-level=\"1\"><span data-contrast=\"none\">Challenge ideas and participate in defining the path forward.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<p><strong><span data-contrast=\"none\">Required Qualifications:</span></strong><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">7+ years of experience in server-side development using major programming languages such as Java, Ruby, Python, Clojure, or C#.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">Strong understanding of system and architecture design principles, especially in the context of distributed systems.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"none\">Ability to own projects, define requirements, and lead their development.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">Excellent problem-solving skills, with the capacity to work on both software development and support tasks.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"6\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"5\" data-aria-level=\"1\"><span data-contrast=\"none\">Strong communication and interpersonal skills.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<p><strong><span data-contrast=\"none\">Desirable Qualifications:</span></strong><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:120,&quot;335559739&quot;:120}\">&nbsp;</span></p>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"8\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"1\" data-aria-level=\"1\"><span data-contrast=\"none\">Experience with Platform as a Service (PaaS) and the transformation of services into products.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"8\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"2\" data-aria-level=\"1\"><span data-contrast=\"none\">Experience with IAM concepts such as RBAC/ABAC, OAuth 2.0/OIDC, or SCIM.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"8\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"3\" data-aria-level=\"1\"><span data-contrast=\"none\">Experience with temporal data modeling and designing APIs consumed by other teams.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<ul>\n<li data-leveltext=\"\" data-font=\"Symbol\" data-listid=\"8\" data-list-defn-props=\"{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}\" data-aria-posinset=\"4\" data-aria-level=\"1\"><span data-contrast=\"none\">Experience building real-time or event-driven systems.</span><span data-ccp-props=\"{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:0,&quot;335551620&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0}\">&nbsp;</span></li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at <a href=\"https://drw.com/privacy-notice\">https://drw.com/privacy-notice</a>.</strong></p>\n<p><strong> California residents, please review the California Privacy Notice for information about certain legal rights at <a href=\"https://drw.com/california-privacy-notice\">https://drw.com/california-privacy-notice</a>.</strong></p>\n<p><strong>#LI-MM1</strong></p>",
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8156100",
+      "source": "Greenhouse",
+      "posted_at": "2026-11-03T12:38:46-05:00",
+      "first_seen": "2026-11-04T15:21:08.367223+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     },
-    "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610": {
-      "id": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
-      "title": "Senior Data Scientist",
-      "company": "Wypoon",
-      "location": "Amsterdam",
-      "description": "At Wypoon Technologies, we are looking for an experienced Data Scientist with a strong focus on Generative AI to join an innovative AI team within a leading financial services organization in the Netherlands. In this role, you will design, develop, and deploy advanced GenAI solutions that solve complex business challenges and deliver real value. You will work at the intersection of Data Science, Generative AI, and Software Engineering, building scalable, reliable, and responsible AI applications. You will collaborate closely with engineers, product teams, and business stakeholders to accelerate GenAI adoption across different business domains Why Join Us? At Wypoon Technologies, you’ll work on dynamic projects for industry leaders such as Heineken, ING, ASML, Philips, and Shell , tackling exciting challenges and delivering tailored enterprise solutions. Here’s what makes us stand out: ✔ Impactful Work : Shape the future of our clients’ digital landscapes. ✔ Innovative Environment : Collaborate within a supportive team that values learning and growth. ✔ State-of-the-art technology : Access the latest tools and platforms. Key Responsibilities Design, develop, test, deploy, and maintain scalable, production-ready Generative AI solutions. Build AI-powered applications using Large Language Models (LLMs), NLP, and modern GenAI technologies. Develop reusable GenAI components and solutions that can be applied across multiple business domains. Take ownership of the full AI development lifecycle, from identifying business needs to production deployment and monitoring. Implement LLMOps/MLOps practices to ensure reliability, scalability, and continuous improvement. Collaborate with cross-functional teams and stakeholders to translate business challenges into practical AI solutions. Contribute to automation, technical best practices, and knowledge sharing within the team. Requirements At least 4 years of experience as a Data Scientist, AI Engineer, Machine Learning Engineer, or in a similar role. Strong Python programming skills, with the ability to write clean, reusable, maintainable, and testable code. Solid understanding of NLP, Large Language Models (LLMs), and Generative AI, preferably with hands-on experience building GenAI applications. Proven experience developing, evaluating, deploying, and monitoring AI/ML models in production environments. Experience with LLMOps, MLOps, DevOps, and cloud-based AI solutions. Strong engineering skills, including Git, CI/CD, API development and integration, containerization, and ETL processes. Experience with cloud platforms such as Azure or similar environments. Familiarity with relational and vector databases. Strong problem-solving skills and the ability to translate business requirements into effective technical solutions. Excellent communication skills and experience working in cross-functional teams. Experience leading technical initiatives, mentoring colleagues, or sharing engineering best practices. What We Offer Currently living in the Netherlands and eligible to work in the Netherlands . Competitive Compensation : Salary tailored to your skills and experience. Generous Time Off : 25 paid vacation days (based on a 40-hour work week). Tax Benefits : Eligibility for the 30% ruling. Travel Reimbursement : We've got your daily commute covered. Top-Notch Equipment : A high-quality device to ensure you work efficiently. Professional Development : Financial support for certifications, technical training, and language courses—because we value your long-term career growth. Comprehensive Relocation Assistance : Extensive support to help you settle in smoothly. Community & Fun : Enjoy team events and connect with developers from around the globe! Join Wypoon Technologies, where your expertise will thrive, your ideas will be valued, and your career will reach new heights. Apply now and make a real impact! Find more English Speaking Jobs in Netherlands on Arbeitnow",
-      "url": "https://www.arbeitnow.nl/jobs/companies/wypoon/senior-data-scientist-amsterdam-212610",
+    "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088": {
+      "id": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088",
+      "title": "Senior Software Engineer (Frontend)",
+      "company": "IXON Cloud",
+      "location": "Beugen, Noord-Brabant, Netherlands",
+      "description": "Op zoek naar een werkplek waar jouw ideeën het verschil maken en waar je op niveau kan sparren met een team van ambitieuze developers? Als Software Engineer bij IXON werk je aan een modern cloudplatform dat door duizenden machinebouwers wereldwijd wordt gebruikt. Geen remote eilandjes of kortlopende projecten, maar samen bouwen aan een product waar onze klanten fan van zijn. Klaar om impact te maken? Hier krijg jij energie van Binnen jouw rol als Software Engineer werk je niet aan een statische applicatie, maar aan een continu evoluerend cloudplatform met een diversiteit aan functionaliteiten. Samen met je team ben je verantwoordelijk voor het hart van de IXON Cloud: van complexe autorisatiestructuren tot een naadloze gebruikerservaring. Het doel? Onze klanten hun beheerprocessen zo efficiënt mogelijk laten uitvoeren. Om dat voor elkaar te krijgen, werk je met een moderne tech stack die onder andere bestaat uit Angular en TypeScript. Je krijgt de vrijheid om actief mee te beslissen over technische keuzes die ervoor zorgen dat onze applicaties niet alleen vandaag snel en strak draaien, maar ook op de lange termijn schaalbaar en onderhoudbaar blijven. Wat je concreet gaat doen: Je pakt de verantwoordelijkheid, en draagt zorg voor jouw kwalitatief sterke code; Je bent een sparringpartner voor je collega’s en om features technisch uit te diepen; Je tilt graag ons front-end delivery proces naar een hoger niveau, op gebied van observability, testing en deployment Je krijgt de ruimte voor PoC’s en research spikes om de nieuwste technologieën te  valideren voor ons platform. Dit maakt jou succesvol in deze rol Jij bent een Software Engineer die gelooft dat een interface pas écht goed is wanneer de logica erachter vlekkeloos werkt. Frontend is jouw passie, maar je snapt ook wat er in de backend gebeurt. Dit maakt je een belangrijke schakel in ons multidisciplinaire Scrum team. Je werkt iteratief, leert van feedback en streeft voortdurend naar verbetering. Bovendien inspireer je jouw collega’s door best practices te delen en samen te groeien. Daarnaast zou het fijn zijn als je jezelf herkent in het volgende rijtje: Je beschikt over een WO werk en denk niveau Minimaal 5+ jaar relevante werkervaring; Sterke kennis van Typescript en Angular of een vergelijkbaar framework; Je hebt sterke affiniteit met User Experience en begrijpt hoe een gebruiker door een applicatie beweegt; Goede communicatieve vaardigheden zowel in het Nederlands als Engels. Kennis en/of ervaring met Python en Docker. Dit hebben wij jou te bieden Streven naar topkwaliteit en een goede werksfeer gaan bij ons hand in hand. We streven naar ontwikkeling op hoog niveau, werken met een geavanceerde tech stack en dagen elkaar inhoudelijk uit. Tegelijkertijd is de sfeer open en informeel. Vragen stellen, kritisch meedenken of een nieuw concept pitchen? Dat hoort er bij ons gewoon bij. Daarnaast krijg je alle ruimte om nieuwe dingen uit te proberen. Leef je uit tijdens onze vrijdagmiddagprojecten, denk mee in de Frontend Guild en verbreed je horizon tijdens onze interne tech events. Dit vullen we graag aan met: Een goed salaris passend bij jouw niveau en ervaring; Uitstekende secundaire voorwaarden: Een 13e maand,  8% vakantiegeld, Vitaliteitsbudget, WIA-hiaat verzekering en een pensioenregeling; 30 vakantiedagen om op te laden en thuiswerkmogelijkheden; Persoonlijke groei: Een uitgebreide onboarding, ruim persoonlijk ontwikkelbudget en coaching; Een gezellige werkplek inclusief een volle kalender met teamactiviteiten, uitjes en spontane borrels. Wat wij doen? Bij IXON connecten wij machinebouwers met hun klanten. Naarmate machines complexer worden en de verwachtingen van klanten stijgen, moeten machinebouwers hun services continu professionaliseren om de concurrentie voor te blijven. En dat is precies waar wij in beeld komen. Wij helpen machinebouwers wereldwijd om hun activiteiten te stroomlijnen en hun service naar een hoger niveau te tillen. Dit doen we met een pakket aan innovatieve oplossingen: van veilige remote access tot klantenportalen en geavanceerde data dashboarding. Onze oplossingen zijn ontworpen om zonder beperkingen mee te schalen en naadloos te integreren, zodat onze klanten hun services maximaal kunnen optimaliseren. Klaar om impact te maken? We houden van een laagdrempelige aanpak. Na een korte eerste kennismaking laten we je graag een live demo van ons platform zien. Zo ontdek je precies hoe en wat wij bouwen. Daarnaast maken we graag ruimte voor een kennismaking met het team, zodat je zelf kunt ervaren hoe de sfeer is en met wie je gaat samenwerken. Interesse? Klik op de Apply knop hieronder! Liever eerst informeel sparren over de functie? Neem dan gerust contact op met onze recruitment team via Acquisitie naar aanleiding van deze vacature wordt niet op prijs gesteld. Find Jobs in Netherlands on Arbeitnow",
+      "url": "https://www.arbeitnow.nl/jobs/companies/ixon-cloud/senior-software-engineer-frontend-beugen-463088",
       "source": "www.arbeitnow.com",
-      "posted_at": "1793653689",
-      "first_seen": "2026-11-03T15:01:01.107603+00:00",
-      "last_seen": "2026-11-03T15:01:01.107603+00:00",
+      "posted_at": "1793741472",
+      "first_seen": "2026-11-04T15:21:08.367223+00:00",
+      "last_seen": "2026-11-04T15:21:08.367223+00:00",
       "analysis": {}
     }
   }
